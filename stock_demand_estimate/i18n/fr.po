@@ -1,28 +1,25 @@
-# Translation of Odoo Server.
-# This file contains the translation of the following modules:
-# * stock_demand_estimate
-#
-# Translators:
-# OCA Transbot <transbot@odoo-community.org>, 2018
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 10.0\n"
+"Project-Id-Version: ametras-xsolutions\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-01-16 14:35+0000\n"
-"PO-Revision-Date: 2019-08-06 14:44+0000\n"
-"Last-Translator: Alexandre Fayolle <alexandre.fayolle@camptocamp.com>\n"
-"Language-Team: French (https://www.transifex.com/oca/teams/23907/fr/)\n"
-"Language: fr\n"
+"Last-Translator: \n"
+"Language-Team: French\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 3.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: ametras-xsolutions\n"
+"X-Crowdin-Project-ID: 530964\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_demand_estimate/i18n/stock_demand_estimate.pot\n"
+"X-Crowdin-File-ID: 6144\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2022-08-06 22:07\n"
 
 #. module: stock_demand_estimate
 #: model:ir.model.fields,field_description:stock_demand_estimate.field_stock_demand_estimate__company_id
 msgid "Company"
-msgstr "Société"
+msgstr "entreprise"
 
 #. module: stock_demand_estimate
 #: model:ir.model.fields,field_description:stock_demand_estimate.field_stock_demand_estimate__create_uid
@@ -38,13 +35,13 @@ msgstr "Créé le"
 #: model_terms:ir.ui.view,arch_db:stock_demand_estimate.stock_demand_estimate_view_form
 #: model_terms:ir.ui.view,arch_db:stock_demand_estimate.stock_demand_estimate_view_tree
 msgid "Date From"
-msgstr "Date de"
+msgstr ""
 
 #. module: stock_demand_estimate
 #: model_terms:ir.ui.view,arch_db:stock_demand_estimate.stock_demand_estimate_view_form
 #: model_terms:ir.ui.view,arch_db:stock_demand_estimate.stock_demand_estimate_view_tree
 msgid "Date To"
-msgstr "Date de fin"
+msgstr ""
 
 #. module: stock_demand_estimate
 #: model:ir.ui.menu,name:stock_demand_estimate.stock_demand_planning_menu
@@ -54,14 +51,13 @@ msgstr "Plannification de la Demande"
 #. module: stock_demand_estimate
 #: model:ir.model.fields,field_description:stock_demand_estimate.field_stock_demand_estimate__display_name
 msgid "Display Name"
-msgstr "Nom affiché"
+msgstr "Nom d'affichage"
 
 #. module: stock_demand_estimate
 #: model:ir.model.fields,field_description:stock_demand_estimate.field_stock_demand_estimate__manual_duration
 #: model_terms:ir.ui.view,arch_db:stock_demand_estimate.stock_demand_estimate_view_form
-#, fuzzy
 msgid "Duration"
-msgstr "Emplacement"
+msgstr "Durée"
 
 #. module: stock_demand_estimate
 #: model:ir.model.fields,field_description:stock_demand_estimate.field_stock_demand_estimate__duration
@@ -75,9 +71,8 @@ msgstr ""
 
 #. module: stock_demand_estimate
 #: model:ir.model.fields,field_description:stock_demand_estimate.field_stock_demand_estimate__manual_date_from
-#, fuzzy
 msgid "From"
-msgstr "Date de"
+msgstr "À partir de"
 
 #. module: stock_demand_estimate
 #: model:ir.model.fields,field_description:stock_demand_estimate.field_stock_demand_estimate__date_from
@@ -87,22 +82,22 @@ msgstr ""
 #. module: stock_demand_estimate
 #: model:ir.model.fields,field_description:stock_demand_estimate.field_stock_demand_estimate__id
 msgid "ID"
-msgstr "ID"
+msgstr ""
 
 #. module: stock_demand_estimate
 #: model:ir.model.fields,field_description:stock_demand_estimate.field_stock_demand_estimate____last_update
 msgid "Last Modified on"
-msgstr "Modifié le"
+msgstr "Dernière modification le"
 
 #. module: stock_demand_estimate
 #: model:ir.model.fields,field_description:stock_demand_estimate.field_stock_demand_estimate__write_uid
 msgid "Last Updated by"
-msgstr "Dernière màj par"
+msgstr "Dernière mise à jour par"
 
 #. module: stock_demand_estimate
 #: model:ir.model.fields,field_description:stock_demand_estimate.field_stock_demand_estimate__write_date
 msgid "Last Updated on"
-msgstr "Dernière màj le"
+msgstr "Dernière mise à jour le"
 
 #. module: stock_demand_estimate
 #: model:ir.model.fields,field_description:stock_demand_estimate.field_stock_demand_estimate__location_id
@@ -112,7 +107,7 @@ msgstr "Emplacement"
 #. module: stock_demand_estimate
 #: model:ir.model.fields,field_description:stock_demand_estimate.field_stock_demand_estimate__product_id
 msgid "Product"
-msgstr "Article"
+msgstr "Produit"
 
 #. module: stock_demand_estimate
 #: model:ir.model.fields,field_description:stock_demand_estimate.field_stock_demand_estimate__product_uom_qty
@@ -158,18 +153,13 @@ msgstr "Estimations de demande de stock"
 #. module: stock_demand_estimate
 #: code:addons/stock_demand_estimate/models/stock_demand_estimate.py:0
 #, python-format
-msgid ""
-"The requested operation cannot be processed because of a programming error "
-"setting the `product_qty` field instead of the `product_uom_qty`."
-msgstr ""
-"L'opération demandée ne peut aboutir en raison d'une erreur de "
-"programmation : le champ `product_qty` a été modifié, et non le champ "
-"`product_uom_qty`."
+msgid "The requested operation cannot be processed because of a programming error setting the `product_qty` field instead of the `product_uom_qty`."
+msgstr "L'opération demandée ne peut aboutir en raison d'une erreur de programmation : le champ `product_qty` a été modifié, et non le champ `product_uom_qty`."
 
 #. module: stock_demand_estimate
 #: model:ir.model.fields,field_description:stock_demand_estimate.field_stock_demand_estimate__manual_date_to
 msgid "To"
-msgstr ""
+msgstr "Pour"
 
 #. module: stock_demand_estimate
 #: model:ir.model.fields,field_description:stock_demand_estimate.field_stock_demand_estimate__date_to
@@ -181,83 +171,3 @@ msgstr ""
 msgid "Unit of measure"
 msgstr "Unité de mesure"
 
-#~ msgid "Cancel"
-#~ msgstr "Annuler"
-
-#~ msgid "Create Stock Demand Estimates"
-#~ msgstr "Créer des estimations de demande de stock"
-
-#~ msgid "Date Range"
-#~ msgstr "Période temporelle"
-
-#~ msgid "Date Range Type"
-#~ msgstr "Type de de période temporelle"
-
-#~ msgid "Date Ranges"
-#~ msgstr "Périodes temporelles"
-
-#~ msgid "Date to"
-#~ msgstr "Date de fin"
-
-#~ msgid "Days between dates"
-#~ msgstr "Nombre de jours dans la période"
-
-#~ msgid "Estimate"
-#~ msgstr "Estimation"
-
-#~ msgid "Estimate Sheet"
-#~ msgstr "Feuille d'estimation"
-
-#~ msgid "Estimated quantity"
-#~ msgstr "Quantité estimée"
-
-#~ msgid "Estimates"
-#~ msgstr "Estimations"
-
-#~ msgid "Estimating Period"
-#~ msgstr "Période d'estimation"
-
-#~ msgid "Period"
-#~ msgstr "Période"
-
-#~ msgid "Period Name"
-#~ msgstr "Nom de la période"
-
-#~ msgid "Prepare"
-#~ msgstr "Préparer"
-
-#~ msgid "Product Name"
-#~ msgstr "Nom de l'article"
-
-#~ msgid "Products"
-#~ msgstr "Articles"
-
-#~ msgid "Stock Demand Estimate Sheet"
-#~ msgstr "Feuille d'estimation de demande de stock"
-
-#~ msgid "Stock Demand Estimate Sheet Line"
-#~ msgstr "Ligne de la feuille d'estimation de demande de stock"
-
-#~ msgid "Stock Demand Estimate Wizard"
-#~ msgstr "Wizard d'estimation de demande de stock"
-
-#~ msgid "Stock Location"
-#~ msgstr "Emplacement"
-
-#~ msgid "The start date cannot be later than the end date."
-#~ msgstr "La date de début doit être antérieure à la date de fin."
-
-#~ msgid "There is no ranges created."
-#~ msgstr "Il n'y a pas de période."
-
-#~ msgid "Validate"
-#~ msgstr "Valider"
-
-#~ msgid "You must select at least one product."
-#~ msgstr "Vous devez choisir au moins un produit."
-
-#~ msgid "or"
-#~ msgstr "ou"
-
-#~ msgid "to"
-#~ msgstr "au"
