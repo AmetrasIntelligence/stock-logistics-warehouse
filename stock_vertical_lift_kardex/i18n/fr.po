@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ametras-xsolutions\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: French\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: ametras-xsolutions\n"
+"X-Crowdin-Project-ID: 530964\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_vertical_lift_kardex/i18n/stock_vertical_lift_kardex.pot\n"
+"X-Crowdin-File-ID: 6596\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2022-08-06 22:09\n"
+
+#. module: stock_vertical_lift_kardex
+#: code:addons/stock_vertical_lift_kardex/models/stock_location.py:0
+#, python-format
+msgid "Cell location %s has no position. Check if the dimensions of tray %s are properly set in the tray type."
+msgstr ""
+
+#. module: stock_vertical_lift_kardex
+#: model:ir.model,name:stock_vertical_lift_kardex.model_stock_location
+msgid "Inventory Locations"
+msgstr ""
+
+#. module: stock_vertical_lift_kardex
+#: code:addons/stock_vertical_lift_kardex/models/stock_location.py:0
+#, python-format
+msgid "Shuttle tray %s has no level. Please fix the configuration"
+msgstr ""
+
+#. module: stock_vertical_lift_kardex
+#: model:ir.model,name:stock_vertical_lift_kardex.model_vertical_lift_shuttle
+msgid "Vertical Lift Shuttle"
+msgstr ""
+
