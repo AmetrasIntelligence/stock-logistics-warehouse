@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ametras-xsolutions\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: German\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: ametras-xsolutions\n"
+"X-Crowdin-Project-ID: 530964\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_orderpoint_purchase_link/i18n/stock_orderpoint_purchase_link.pot\n"
+"X-Crowdin-File-ID: 6430\n"
+"Language: de_DE\n"
+"PO-Revision-Date: 2022-08-06 23:12\n"
+
+#. module: stock_orderpoint_purchase_link
+#: model:ir.model,name:stock_orderpoint_purchase_link.model_stock_warehouse_orderpoint
+msgid "Minimum Inventory Rule"
+msgstr "Mindestbestandsregel"
+
+#. module: stock_orderpoint_purchase_link
+#: model:ir.model.fields,field_description:stock_orderpoint_purchase_link.field_purchase_order_line__orderpoint_ids
+#: model_terms:ir.ui.view,arch_db:stock_orderpoint_purchase_link.purchase_order_form
+#: model_terms:ir.ui.view,arch_db:stock_orderpoint_purchase_link.purchase_order_line_form2
+msgid "Orderpoints"
+msgstr ""
+
+#. module: stock_orderpoint_purchase_link
+#: model:ir.model,name:stock_orderpoint_purchase_link.model_purchase_order_line
+msgid "Purchase Order Line"
+msgstr "Angebotsanfragen Position"
+
+#. module: stock_orderpoint_purchase_link
+#: model:ir.model.fields,field_description:stock_orderpoint_purchase_link.field_stock_warehouse_orderpoint__purchase_line_ids
+#: model:ir.model.fields,field_description:stock_orderpoint_purchase_link.field_stock_warehouse_orderpoint_template__purchase_line_ids
+msgid "Purchase Order Lines"
+msgstr ""
+
+#. module: stock_orderpoint_purchase_link
+#: model:ir.model,name:stock_orderpoint_purchase_link.model_stock_rule
+msgid "Stock Rule"
+msgstr "Lagerbestandsregel"
+
