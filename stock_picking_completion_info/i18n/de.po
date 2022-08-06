@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ametras-xsolutions\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: German\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: ametras-xsolutions\n"
+"X-Crowdin-Project-ID: 530964\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_picking_completion_info/i18n/stock_picking_completion_info.pot\n"
+"X-Crowdin-File-ID: 6472\n"
+"Language: de_DE\n"
+"PO-Revision-Date: 2022-08-06 23:13\n"
+
+#. module: stock_picking_completion_info
+#: model:ir.model.fields,field_description:stock_picking_completion_info.field_stock_picking__completion_info
+msgid "Completion Info"
+msgstr ""
+
+#. module: stock_picking_completion_info
+#: model:ir.model.fields,field_description:stock_picking_completion_info.field_stock_picking_type__display_completion_info
+msgid "Display Completion Info"
+msgstr ""
+
+#. module: stock_picking_completion_info
+#: model:ir.model.fields.selection,name:stock_picking_completion_info.selection__stock_picking__completion_info__full_order_picking
+msgid "Full order picking: You are processing a full order picking that will allow next operation to be processed"
+msgstr ""
+
+#. module: stock_picking_completion_info
+#: model:ir.model.fields,help:stock_picking_completion_info.field_stock_picking_type__display_completion_info
+msgid "Inform operator of a completed operation at processing and at completion"
+msgstr ""
+
+#. module: stock_picking_completion_info
+#: model:ir.model.fields.selection,name:stock_picking_completion_info.selection__stock_picking__completion_info__last_picking
+msgid "Last picking: Completion of this operation allows next operations to be processed."
+msgstr ""
+
+#. module: stock_picking_completion_info
+#: model:ir.model.fields.selection,name:stock_picking_completion_info.selection__stock_picking__completion_info__next_picking_ready
+msgid "Next operations are ready to be processed."
+msgstr ""
+
+#. module: stock_picking_completion_info
+#: model:ir.model.fields.selection,name:stock_picking_completion_info.selection__stock_picking__completion_info__no
+msgid "No"
+msgstr "Nein"
+
+#. module: stock_picking_completion_info
+#: model:ir.model,name:stock_picking_completion_info.model_stock_picking_type
+msgid "Picking Type"
+msgstr "Vorgangstyp"
+
+#. module: stock_picking_completion_info
+#: model:ir.model,name:stock_picking_completion_info.model_stock_move
+msgid "Stock Move"
+msgstr "Lagerbuchungen"
+
+#. module: stock_picking_completion_info
+#: model:ir.model,name:stock_picking_completion_info.model_stock_picking
+msgid "Transfer"
+msgstr ""
+
