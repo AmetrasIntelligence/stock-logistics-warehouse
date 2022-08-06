@@ -1,0 +1,89 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ametras-xsolutions\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: German\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: ametras-xsolutions\n"
+"X-Crowdin-Project-ID: 530964\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_inventory_justification/i18n/stock_inventory_justification.pot\n"
+"X-Crowdin-File-ID: 6288\n"
+"Language: de_DE\n"
+"PO-Revision-Date: 2022-08-06 22:08\n"
+
+#. module: stock_inventory_justification
+#: model:ir.model.fields,field_description:stock_inventory_justification.field_stock_inventory_justification__active
+msgid "Active"
+msgstr "Aktiv"
+
+#. module: stock_inventory_justification
+#: model:ir.model.fields,field_description:stock_inventory_justification.field_stock_inventory_justification__create_uid
+msgid "Created by"
+msgstr "Erstellt von"
+
+#. module: stock_inventory_justification
+#: model:ir.model.fields,field_description:stock_inventory_justification.field_stock_inventory_justification__create_date
+msgid "Created on"
+msgstr "Erstellt am"
+
+#. module: stock_inventory_justification
+#: model:ir.model.fields,field_description:stock_inventory_justification.field_stock_inventory_justification__display_name
+msgid "Display Name"
+msgstr "Anzeigename"
+
+#. module: stock_inventory_justification
+#: model:ir.model.fields,field_description:stock_inventory_justification.field_stock_inventory_justification__id
+msgid "ID"
+msgstr "ID"
+
+#. module: stock_inventory_justification
+#: model:ir.model,name:stock_inventory_justification.model_stock_inventory
+msgid "Inventory"
+msgstr "Inventur"
+
+#. module: stock_inventory_justification
+#: model:ir.model,name:stock_inventory_justification.model_stock_inventory_justification
+msgid "Inventory justification"
+msgstr ""
+
+#. module: stock_inventory_justification
+#: model:ir.actions.act_window,name:stock_inventory_justification.stock_inventory_justification_act_window
+#: model:ir.ui.menu,name:stock_inventory_justification.silog_stock_inventory_justification_menu
+msgid "Inventory justifications"
+msgstr ""
+
+#. module: stock_inventory_justification
+#: model:ir.model.fields,field_description:stock_inventory_justification.field_stock_inventory__justification_ids
+msgid "Justifications"
+msgstr ""
+
+#. module: stock_inventory_justification
+#: model:ir.model.fields,field_description:stock_inventory_justification.field_stock_inventory_justification____last_update
+msgid "Last Modified on"
+msgstr "Zuletzt geändert am"
+
+#. module: stock_inventory_justification
+#: model:ir.model.fields,field_description:stock_inventory_justification.field_stock_inventory_justification__write_uid
+msgid "Last Updated by"
+msgstr "Zuletzt aktualisiert von"
+
+#. module: stock_inventory_justification
+#: model:ir.model.fields,field_description:stock_inventory_justification.field_stock_inventory_justification__write_date
+msgid "Last Updated on"
+msgstr "Zuletzt aktualisiert am"
+
+#. module: stock_inventory_justification
+#: model:ir.model.fields,field_description:stock_inventory_justification.field_stock_inventory_justification__name
+msgid "Name"
+msgstr "Name"
+
+#. module: stock_inventory_justification
+#: model:ir.model.constraint,message:stock_inventory_justification.constraint_stock_inventory_justification_unique_name
+msgid "This stock inventory justification already exists."
+msgstr ""
+
