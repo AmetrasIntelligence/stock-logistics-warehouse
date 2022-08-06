@@ -1,20 +1,20 @@
-# Translation of Odoo Server.
-# This file contains the translation of the following modules:
-# 	* stock_move_location
-#
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 11.0\n"
+"Project-Id-Version: ametras-xsolutions\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2019-10-25 14:33+0000\n"
-"Last-Translator: Stefan Wild <stefan.wild@sewisoft.de>\n"
-"Language-Team: none\n"
-"Language: de\n"
+"Last-Translator: \n"
+"Language-Team: German\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: ametras-xsolutions\n"
+"X-Crowdin-Project-ID: 530964\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_move_location/i18n/stock_move_location.pot\n"
+"X-Crowdin-File-ID: 6404\n"
+"Language: de_DE\n"
+"PO-Revision-Date: 2022-08-06 22:08\n"
 
 #. module: stock_move_location
 #: model:ir.model.fields,field_description:stock_move_location.field_wiz_stock_move_location__apply_putaway_strategy
@@ -57,13 +57,12 @@ msgstr "Angepasste Zeile"
 #: model:ir.model.fields,field_description:stock_move_location.field_wiz_stock_move_location__destination_location_id
 #: model:ir.model.fields,field_description:stock_move_location.field_wiz_stock_move_location_line__destination_location_id
 msgid "Destination Location"
-msgstr "Ziellagerort"
+msgstr "Zielort"
 
 #. module: stock_move_location
 #: model:ir.model.fields,field_description:stock_move_location.field_wiz_stock_move_location__destination_location_disable
-#, fuzzy
 msgid "Destination Location Disable"
-msgstr "Ziellagerort"
+msgstr ""
 
 #. module: stock_move_location
 #: model:ir.model.fields,field_description:stock_move_location.field_wiz_stock_move_location__display_name
@@ -74,9 +73,8 @@ msgstr "Anzeigename"
 #. module: stock_move_location
 #: model:ir.model.fields,field_description:stock_move_location.field_wiz_stock_move_location__edit_locations
 #: model_terms:ir.ui.view,arch_db:stock_move_location.view_wiz_stock_move_location_form_stock_move_location
-#, fuzzy
 msgid "Edit Locations"
-msgstr "Quelllagerort"
+msgstr ""
 
 #. module: stock_move_location
 #: model:ir.model.fields,field_description:stock_move_location.field_wiz_stock_move_location__id
@@ -104,18 +102,18 @@ msgstr "Zuletzt geändert am"
 #: model:ir.model.fields,field_description:stock_move_location.field_wiz_stock_move_location__write_uid
 #: model:ir.model.fields,field_description:stock_move_location.field_wiz_stock_move_location_line__write_uid
 msgid "Last Updated by"
-msgstr "Zuletzt geändert von"
+msgstr "Zuletzt aktualisiert von"
 
 #. module: stock_move_location
 #: model:ir.model.fields,field_description:stock_move_location.field_wiz_stock_move_location__write_date
 #: model:ir.model.fields,field_description:stock_move_location.field_wiz_stock_move_location_line__write_date
 msgid "Last Updated on"
-msgstr "Zuletzt geändert am"
+msgstr "Zuletzt aktualisiert am"
 
 #. module: stock_move_location
 #: model:ir.model.fields,field_description:stock_move_location.field_wiz_stock_move_location_line__lot_id
 msgid "Lot/Serial Number"
-msgstr "Lot/Seriennummer"
+msgstr ""
 
 #. module: stock_move_location
 #: model:ir.model.fields,field_description:stock_move_location.field_wiz_stock_move_location_line__max_quantity
@@ -158,13 +156,12 @@ msgstr "Zu Lagerort bewegen..."
 #: model:ir.model.fields,field_description:stock_move_location.field_wiz_stock_move_location__origin_location_id
 #: model:ir.model.fields,field_description:stock_move_location.field_wiz_stock_move_location_line__origin_location_id
 msgid "Origin Location"
-msgstr "Quelllagerort"
+msgstr ""
 
 #. module: stock_move_location
 #: model:ir.model.fields,field_description:stock_move_location.field_wiz_stock_move_location__origin_location_disable
-#, fuzzy
 msgid "Origin Location Disable"
-msgstr "Quelllagerort"
+msgstr ""
 
 #. module: stock_move_location
 #: model:ir.model.fields,field_description:stock_move_location.field_stock_move__location_move
@@ -175,7 +172,7 @@ msgstr "Teil der Lagerortbewegung"
 #: model:ir.model,name:stock_move_location.model_stock_picking_type
 #: model:ir.model.fields,field_description:stock_move_location.field_wiz_stock_move_location__picking_type_id
 msgid "Picking Type"
-msgstr ""
+msgstr "Vorgangstyp"
 
 #. module: stock_move_location
 #: model_terms:ir.ui.view,arch_db:stock_move_location.view_wiz_stock_move_location_form_stock_move_location
@@ -190,7 +187,7 @@ msgstr "Produkt"
 #. module: stock_move_location
 #: model:ir.model.fields,field_description:stock_move_location.field_wiz_stock_move_location_line__product_uom_id
 msgid "Product Unit of Measure"
-msgstr "Produkt Maßeinheit"
+msgstr ""
 
 #. module: stock_move_location
 #: model:ir.model.fields,field_description:stock_move_location.field_wiz_stock_move_location_line__move_quantity
@@ -209,20 +206,18 @@ msgstr ""
 
 #. module: stock_move_location
 #: model:ir.model.fields,help:stock_move_location.field_stock_picking_type__show_move_onhand
-msgid ""
-"Show a button 'Move On Hand' in the Inventory Dashboard to initiate the "
-"process to move the products in stock at the origin location."
+msgid "Show a button 'Move On Hand' in the Inventory Dashboard to initiate the process to move the products in stock at the origin location."
 msgstr ""
 
 #. module: stock_move_location
 #: model:ir.model,name:stock_move_location.model_stock_move
 msgid "Stock Move"
-msgstr "Lagerbewegung"
+msgstr "Lagerbuchungen"
 
 #. module: stock_move_location
 #: model_terms:ir.ui.view,arch_db:stock_move_location.view_wiz_stock_move_location_form_stock_move_location
 msgid "UoM"
-msgstr "Einheit"
+msgstr ""
 
 #. module: stock_move_location
 #: model:ir.model.fields,help:stock_move_location.field_stock_move__location_move
@@ -231,15 +226,13 @@ msgstr "Ist diese Bewegung Teil der Lagerortbewegungen"
 
 #. module: stock_move_location
 #: model:ir.model,name:stock_move_location.model_wiz_stock_move_location
-#, fuzzy
 msgid "Wizard move location"
-msgstr "Teil der Lagerortbewegung"
+msgstr ""
 
 #. module: stock_move_location
 #: model:ir.model,name:stock_move_location.model_wiz_stock_move_location_line
-#, fuzzy
 msgid "Wizard move location line"
-msgstr "Lagerort Buchungszeilen"
+msgstr ""
 
 #. module: stock_move_location
 #: model:ir.model.fields,help:stock_move_location.field_wiz_stock_move_location__destination_location_disable
@@ -251,14 +244,3 @@ msgstr ""
 msgid "technical field to disable the edition of origin location."
 msgstr ""
 
-#~ msgid "Add all"
-#~ msgstr "Alle hinzufügen"
-
-#~ msgid "Clear all"
-#~ msgstr "Alle entfernen"
-
-#~ msgid "wiz.stock.move.location"
-#~ msgstr "wiz.stock.move.location"
-
-#~ msgid "wiz.stock.move.location.line"
-#~ msgstr "wiz.stock.move.location.line"
