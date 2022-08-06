@@ -1,28 +1,26 @@
-# Translation of Odoo Server.
-# This file contains the translation of the following modules:
-# * stock_request
-#
-# Translators:
-# OCA Transbot <transbot@odoo-community.org>, 2018
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 11.0\n"
+"Project-Id-Version: ametras-xsolutions\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-02 03:44+0000\n"
-"PO-Revision-Date: 2018-03-02 03:44+0000\n"
-"Last-Translator: OCA Transbot <transbot@odoo-community.org>, 2018\n"
-"Language-Team: French (https://www.transifex.com/oca/teams/23907/fr/)\n"
-"Language: fr\n"
+"Last-Translator: \n"
+"Language-Team: French\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: ametras-xsolutions\n"
+"X-Crowdin-Project-ID: 530964\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_request/i18n/stock_request.pot\n"
+"X-Crowdin-File-ID: 6532\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2022-08-06 22:09\n"
 
 #. module: stock_request
 #: code:addons/stock_request/models/stock_move_line.py:0
 #, python-format
 msgid "<li><b>%s</b>: Transferred quantity %s %s</li>"
-msgstr ""
+msgstr "<li><b>%s</b>: Quantité transférée %s %s</li>"
 
 #. module: stock_request
 #: model:ir.model.fields,field_description:stock_request.field_stock_request__message_needaction
@@ -100,22 +98,20 @@ msgstr ""
 
 #. module: stock_request
 #: model_terms:ir.ui.view,arch_db:stock_request.res_config_settings_view_form
-msgid ""
-"By default only internal and transit locations are allowed in Stock Request "
-"and Orders."
+msgid "By default only internal and transit locations are allowed in Stock Request and Orders."
 msgstr ""
 
 #. module: stock_request
 #: model_terms:ir.ui.view,arch_db:stock_request.stock_request_order_form
 #: model_terms:ir.ui.view,arch_db:stock_request.view_stock_request_form
 msgid "Cancel"
-msgstr ""
+msgstr "Annuler"
 
 #. module: stock_request
 #: model_terms:ir.ui.view,arch_db:stock_request.stock_request_order_search
 #: model_terms:ir.ui.view,arch_db:stock_request.stock_request_search
 msgid "Cancelled"
-msgstr ""
+msgstr "Annulé"
 
 #. module: stock_request
 #: model_terms:ir.actions.act_window,help:stock_request.action_stock_request_form
@@ -125,7 +121,7 @@ msgstr ""
 #. module: stock_request
 #: model:ir.model,name:stock_request.model_res_company
 msgid "Companies"
-msgstr ""
+msgstr "Entreprises"
 
 #. module: stock_request
 #: model:ir.model.fields,field_description:stock_request.field_stock_request__company_id
@@ -133,7 +129,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_request.field_stock_request_allocation__company_id
 #: model:ir.model.fields,field_description:stock_request.field_stock_request_order__company_id
 msgid "Company"
-msgstr ""
+msgstr "entreprise"
 
 #. module: stock_request
 #: code:addons/stock_request/models/stock_request.py:0
@@ -150,21 +146,21 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:stock_request.stock_request_order_form
 #: model_terms:ir.ui.view,arch_db:stock_request.view_stock_request_form
 msgid "Confirm"
-msgstr ""
+msgstr "Confirmer"
 
 #. module: stock_request
 #: model:ir.model.fields,field_description:stock_request.field_stock_request__create_uid
 #: model:ir.model.fields,field_description:stock_request.field_stock_request_allocation__create_uid
 #: model:ir.model.fields,field_description:stock_request.field_stock_request_order__create_uid
 msgid "Created by"
-msgstr ""
+msgstr "Créé par"
 
 #. module: stock_request
 #: model:ir.model.fields,field_description:stock_request.field_stock_request__create_date
 #: model:ir.model.fields,field_description:stock_request.field_stock_request_allocation__create_date
 #: model:ir.model.fields,field_description:stock_request.field_stock_request_order__create_date
 msgid "Created on"
-msgstr ""
+msgstr "Créé le"
 
 #. module: stock_request
 #: model_terms:ir.ui.view,arch_db:stock_request.stock_request_search
@@ -189,7 +185,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_request.field_stock_request_allocation__display_name
 #: model:ir.model.fields,field_description:stock_request.field_stock_request_order__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "Nom d'affichage"
 
 #. module: stock_request
 #: model_terms:ir.ui.view,arch_db:stock_request.view_stock_request_form
@@ -210,7 +206,7 @@ msgstr ""
 #. module: stock_request
 #: model_terms:ir.ui.view,arch_db:stock_request.res_config_settings_view_form
 msgid "Enable Orders"
-msgstr ""
+msgstr "Activer les commandes"
 
 #. module: stock_request
 #: model_terms:ir.ui.view,arch_db:stock_request.res_config_settings_view_form
@@ -248,7 +244,7 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:stock_request.stock_request_order_search
 #: model_terms:ir.ui.view,arch_db:stock_request.stock_request_search
 msgid "Finished"
-msgstr ""
+msgstr "Terminés"
 
 #. module: stock_request
 #: model:ir.model.fields,field_description:stock_request.field_stock_request__message_follower_ids
@@ -338,7 +334,7 @@ msgstr ""
 #. module: stock_request
 #: model:ir.model,name:stock_request.model_stock_location_route
 msgid "Inventory Routes"
-msgstr ""
+msgstr "Routes d'inventaire"
 
 #. module: stock_request
 #: model:ir.model.fields,field_description:stock_request.field_stock_request__message_is_follower
@@ -350,7 +346,7 @@ msgstr ""
 #. module: stock_request
 #: model_terms:ir.ui.view,arch_db:stock_request.stock_request_order_form
 msgid "Items"
-msgstr ""
+msgstr "Articles"
 
 #. module: stock_request
 #: model_terms:ir.ui.view,arch_db:stock_request.res_config_settings_view_form
@@ -363,21 +359,21 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_request.field_stock_request_allocation____last_update
 #: model:ir.model.fields,field_description:stock_request.field_stock_request_order____last_update
 msgid "Last Modified on"
-msgstr ""
+msgstr "Dernière modification le"
 
 #. module: stock_request
 #: model:ir.model.fields,field_description:stock_request.field_stock_request__write_uid
 #: model:ir.model.fields,field_description:stock_request.field_stock_request_allocation__write_uid
 #: model:ir.model.fields,field_description:stock_request.field_stock_request_order__write_uid
 msgid "Last Updated by"
-msgstr ""
+msgstr "Dernière mise à jour par"
 
 #. module: stock_request
 #: model:ir.model.fields,field_description:stock_request.field_stock_request__write_date
 #: model:ir.model.fields,field_description:stock_request.field_stock_request_allocation__write_date
 #: model:ir.model.fields,field_description:stock_request.field_stock_request_order__write_date
 msgid "Last Updated on"
-msgstr ""
+msgstr "Dernière mise à jour le"
 
 #. module: stock_request
 #: model:ir.model.fields,field_description:stock_request.field_stock_request__location_id
@@ -386,7 +382,7 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:stock_request.stock_request_order_search
 #: model_terms:ir.ui.view,arch_db:stock_request.stock_request_search
 msgid "Location"
-msgstr ""
+msgstr "Emplacement"
 
 #. module: stock_request
 #: code:addons/stock_request/models/stock_request.py:0
@@ -404,7 +400,7 @@ msgstr ""
 #. module: stock_request
 #: model_terms:ir.ui.view,arch_db:stock_request.res_config_settings_view_form
 msgid "Manufacturing"
-msgstr ""
+msgstr "Fabrication"
 
 #. module: stock_request
 #: model:ir.ui.menu,name:stock_request.menu_stock_request_master_data
@@ -429,10 +425,7 @@ msgstr ""
 #: model:ir.model.fields,help:stock_request.field_stock_request__procurement_group_id
 #: model:ir.model.fields,help:stock_request.field_stock_request_abstract__procurement_group_id
 #: model:ir.model.fields,help:stock_request.field_stock_request_order__procurement_group_id
-msgid ""
-"Moves created through this stock request will be put in this procurement "
-"group. If none is given, the moves generated by procurement rules will be "
-"grouped into one big picking."
+msgid "Moves created through this stock request will be put in this procurement group. If none is given, the moves generated by procurement rules will be grouped into one big picking."
 msgstr ""
 
 #. module: stock_request
@@ -440,7 +433,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_request.field_stock_request_abstract__name
 #: model:ir.model.fields,field_description:stock_request.field_stock_request_order__name
 msgid "Name"
-msgstr ""
+msgstr "Nom"
 
 #. module: stock_request
 #: model:ir.model.constraint,message:stock_request.constraint_stock_request_abstract_name_uniq
@@ -529,7 +522,7 @@ msgstr ""
 #. module: stock_request
 #: model:ir.model.fields,field_description:stock_request.field_stock_request__order_id
 msgid "Order"
-msgstr ""
+msgstr "Commande"
 
 #. module: stock_request
 #: model_terms:ir.ui.view,arch_db:stock_request.res_config_settings_view_form
@@ -548,7 +541,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_request.field_stock_request_abstract__procurement_group_id
 #: model:ir.model.fields,field_description:stock_request.field_stock_request_order__procurement_group_id
 msgid "Procurement Group"
-msgstr ""
+msgstr "Groupe des achats"
 
 #. module: stock_request
 #: code:addons/stock_request/models/stock_request.py:0
@@ -562,18 +555,18 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_request.field_stock_request_allocation__product_id
 #: model_terms:ir.ui.view,arch_db:stock_request.stock_request_search
 msgid "Product"
-msgstr "Article"
+msgstr "Produit"
 
 #. module: stock_request
 #: model:ir.model,name:stock_request.model_stock_move_line
 msgid "Product Moves (Stock Move Line)"
-msgstr ""
+msgstr "Déplacements de produits (ligne de transfert de stock)"
 
 #. module: stock_request
 #: model:ir.model.fields,field_description:stock_request.field_stock_request__product_uom_id
 #: model:ir.model.fields,field_description:stock_request.field_stock_request_abstract__product_uom_id
 msgid "Product Unit of Measure"
-msgstr ""
+msgstr "Unité de mesure du produit"
 
 #. module: stock_request
 #: model_terms:ir.ui.view,arch_db:stock_request.res_config_settings_view_form
@@ -599,7 +592,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_request.field_stock_request__product_uom_qty
 #: model:ir.model.fields,field_description:stock_request.field_stock_request_abstract__product_uom_qty
 msgid "Quantity"
-msgstr ""
+msgstr "Quantité"
 
 #. module: stock_request
 #: model:ir.model.fields,help:stock_request.field_stock_request__qty_cancelled
@@ -620,21 +613,17 @@ msgstr ""
 #: model:ir.model.fields,help:stock_request.field_stock_request__product_qty
 #: model:ir.model.fields,help:stock_request.field_stock_request_abstract__product_qty
 msgid "Quantity in the default UoM of the product"
-msgstr ""
+msgstr "Quantité dans l'unité par défaut du produit"
 
 #. module: stock_request
 #: model:ir.model.fields,help:stock_request.field_stock_request_allocation__requested_product_uom_qty
-msgid ""
-"Quantity of the stock request allocated to the stock move, in the UoM of the "
-"Stock Request"
+msgid "Quantity of the stock request allocated to the stock move, in the UoM of the Stock Request"
 msgstr ""
 
 #. module: stock_request
 #: model:ir.model.fields,help:stock_request.field_stock_request_allocation__allocated_product_qty
 #: model:ir.model.fields,help:stock_request.field_stock_request_allocation__requested_product_qty
-msgid ""
-"Quantity of the stock request allocated to the stock move, in the default "
-"UoM of the product"
+msgid "Quantity of the stock request allocated to the stock move, in the default UoM of the product"
 msgstr ""
 
 #. module: stock_request
@@ -647,7 +636,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_request.field_stock_request__product_qty
 #: model:ir.model.fields,field_description:stock_request.field_stock_request_abstract__product_qty
 msgid "Real Quantity"
-msgstr ""
+msgstr "Quantité réelle"
 
 #. module: stock_request
 #: code:addons/stock_request/models/stock_move_line.py:0
@@ -676,7 +665,7 @@ msgstr ""
 #. module: stock_request
 #: model:ir.model.fields,field_description:stock_request.field_stock_request_allocation__requested_product_qty
 msgid "Requested Quantity"
-msgstr ""
+msgstr "Quantité demandée"
 
 #. module: stock_request
 #: model:ir.model.fields,field_description:stock_request.field_stock_request_allocation__requested_product_uom_qty
@@ -732,13 +721,13 @@ msgstr ""
 #: model:ir.actions.act_window,name:stock_request.action_stock_request_config
 #: model:ir.ui.menu,name:stock_request.menu_stock_request_config
 msgid "Settings"
-msgstr ""
+msgstr "Configuration"
 
 #. module: stock_request
 #: model:ir.model.fields,field_description:stock_request.field_stock_request__picking_policy
 #: model:ir.model.fields,field_description:stock_request.field_stock_request_order__picking_policy
 msgid "Shipping Policy"
-msgstr ""
+msgstr "Politique d'expédition"
 
 #. module: stock_request
 #: model:ir.model.fields,field_description:stock_request.field_stock_request__state
@@ -751,8 +740,7 @@ msgstr ""
 #: model:ir.model.fields,help:stock_request.field_stock_request__activity_state
 #: model:ir.model.fields,help:stock_request.field_stock_request_abstract__activity_state
 #: model:ir.model.fields,help:stock_request.field_stock_request_order__activity_state
-msgid ""
-"Status based on activities\n"
+msgid "Status based on activities\n"
 "Overdue: Due date is already passed\n"
 "Today: Activity date is today\n"
 "Planned: Future activities."
@@ -762,7 +750,7 @@ msgstr ""
 #: model:ir.model,name:stock_request.model_stock_move
 #: model:ir.model.fields,field_description:stock_request.field_stock_request_allocation__stock_move_id
 msgid "Stock Move"
-msgstr ""
+msgstr "Mouvement du stock"
 
 #. module: stock_request
 #: model:ir.model.fields,field_description:stock_request.field_stock_request__move_ids
@@ -886,7 +874,7 @@ msgstr ""
 #. module: stock_request
 #: model:ir.model,name:stock_request.model_stock_rule
 msgid "Stock Rule"
-msgstr ""
+msgstr "Règle de stock"
 
 #. module: stock_request
 #: model_terms:ir.ui.view,arch_db:stock_request.stock_request_order_form
@@ -920,9 +908,7 @@ msgstr ""
 #. module: stock_request
 #: code:addons/stock_request/models/stock_move_line.py:0
 #, python-format
-msgid ""
-"The following requested items from Stock Request %s have now been received "
-"in %s using Picking %s:"
+msgid "The following requested items from Stock Request %s have now been received in %s using Picking %s:"
 msgstr ""
 
 #. module: stock_request
@@ -946,7 +932,7 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:stock_request.stock_request_order_form
 #: model_terms:ir.ui.view,arch_db:stock_request.view_stock_request_form
 msgid "Transfers"
-msgstr ""
+msgstr "Transferts"
 
 #. module: stock_request
 #: model:ir.model.fields,help:stock_request.field_stock_request__activity_exception_decoration
@@ -958,9 +944,7 @@ msgstr ""
 #. module: stock_request
 #: code:addons/stock_request/models/stock_request_order.py:0
 #, python-format
-msgid ""
-"Unfortunately it seems you do not have the necessary rights for creating "
-"stock requests. Please contact your administrator."
+msgid "Unfortunately it seems you do not have the necessary rights for creating stock requests. Please contact your administrator."
 msgstr ""
 
 #. module: stock_request
@@ -1005,7 +989,7 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:stock_request.stock_request_order_search
 #: model_terms:ir.ui.view,arch_db:stock_request.stock_request_search
 msgid "Warehouse"
-msgstr ""
+msgstr "Dépot"
 
 #. module: stock_request
 #: code:addons/stock_request/models/stock_request.py:0
@@ -1030,41 +1014,31 @@ msgstr ""
 #. module: stock_request
 #: code:addons/stock_request/models/stock_location.py:0
 #, python-format
-msgid ""
-"You cannot change the company of the location, as it is already assigned to "
-"stock request orders that belong to another company."
+msgid "You cannot change the company of the location, as it is already assigned to stock request orders that belong to another company."
 msgstr ""
 
 #. module: stock_request
 #: code:addons/stock_request/models/stock_location.py:0
 #, python-format
-msgid ""
-"You cannot change the company of the location, as it is already assigned to "
-"stock requests that belong to another company."
+msgid "You cannot change the company of the location, as it is already assigned to stock requests that belong to another company."
 msgstr ""
 
 #. module: stock_request
 #: code:addons/stock_request/models/stock_location_route.py:0
 #, python-format
-msgid ""
-"You cannot change the company of the route, as it is already assigned to "
-"stock requests that belong to another company."
+msgid "You cannot change the company of the route, as it is already assigned to stock requests that belong to another company."
 msgstr ""
 
 #. module: stock_request
 #: code:addons/stock_request/models/stock_warehouse.py:0
 #, python-format
-msgid ""
-"You cannot change the company of the warehouse, as it is already assigned to "
-"stock request orders that belong to another company."
+msgid "You cannot change the company of the warehouse, as it is already assigned to stock request orders that belong to another company."
 msgstr ""
 
 #. module: stock_request
 #: code:addons/stock_request/models/stock_warehouse.py:0
 #, python-format
-msgid ""
-"You cannot change the company of the warehouse, as it is already assigned to "
-"stock requests that belong to another company."
+msgid "You cannot change the company of the warehouse, as it is already assigned to stock requests that belong to another company."
 msgstr ""
 
 #. module: stock_request
@@ -1094,7 +1068,6 @@ msgstr ""
 #. module: stock_request
 #: code:addons/stock_request/models/stock_request_abstract.py:0
 #, python-format
-msgid ""
-"You have to select a product unit of measure in the same category than the "
-"default unit of measure of the product"
+msgid "You have to select a product unit of measure in the same category than the default unit of measure of the product"
 msgstr ""
+
