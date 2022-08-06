@@ -1,53 +1,40 @@
-# Translation of Odoo Server.
-# This file contains the translation of the following modules:
-# * stock_mts_mto_rule
-#
-# Translators:
-# OCA Transbot <transbot@odoo-community.org>, 2017
-# Quentin THEURET <odoo@kerpeo.com>, 2018
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 10.0\n"
+"Project-Id-Version: ametras-xsolutions\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-27 11:37+0000\n"
-"PO-Revision-Date: 2018-02-27 11:37+0000\n"
-"Last-Translator: Quentin THEURET <odoo@kerpeo.com>, 2018\n"
-"Language-Team: French (https://www.transifex.com/oca/teams/23907/fr/)\n"
-"Language: fr\n"
+"Last-Translator: \n"
+"Language-Team: French\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: ametras-xsolutions\n"
+"X-Crowdin-Project-ID: 530964\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_mts_mto_rule/i18n/stock_mts_mto_rule.pot\n"
+"X-Crowdin-File-ID: 6408\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2022-08-06 22:08\n"
 
 #. module: stock_mts_mto_rule
 #: model:ir.model.fields,field_description:stock_mts_mto_rule.field_stock_rule__action
 msgid "Action"
-msgstr ""
+msgstr "action"
 
 #. module: stock_mts_mto_rule
 #: model:ir.model.fields.selection,name:stock_mts_mto_rule.selection__stock_rule__action__split_procurement
 msgid "Choose between MTS and MTO"
-msgstr ""
-"Choisir entre MTS(Make To Stock: Produit géré en stock) et MTO(Make To "
-"Order: Produit fabriqué à la commande). "
+msgstr "Choisir entre MTS(Make To Stock: Produit géré en stock) et MTO(Make To Order: Produit fabriqué à la commande). "
 
 #. module: stock_mts_mto_rule
 #: model:ir.model.fields,help:stock_mts_mto_rule.field_stock_warehouse__mto_mts_management
-msgid ""
-"If this new route is selected on product form view, a purchase order will be "
-"created only if the virtual stock is less than 0 else, the product will be "
-"taken from stocks"
-msgstr ""
-"Si cette nouvelle route est sélectionnée sur la vue formulaire du produit, "
-"une commande d'achat sera créée seulement si le stock virtuel est inférieur "
-"à 0, sinon, le produit sera pris en stock."
+msgid "If this new route is selected on product form view, a purchase order will be created only if the virtual stock is less than 0 else, the product will be taken from stocks"
+msgstr "Si cette nouvelle route est sélectionnée sur la vue formulaire du produit, une commande d'achat sera créée seulement si le stock virtuel est inférieur à 0, sinon, le produit sera pris en stock."
 
 #. module: stock_mts_mto_rule
 #: code:addons/stock_mts_mto_rule/models/stock_rule.py:0
 #, python-format
-msgid ""
-"Inconsistency between the source locations of the mts and mto rules linked "
-"to the procurement rule: %s! It should be the same."
+msgid "Inconsistency between the source locations of the mts and mto rules linked to the procurement rule: %s! It should be the same."
 msgstr ""
 
 #. module: stock_mts_mto_rule
@@ -86,9 +73,8 @@ msgstr ""
 
 #. module: stock_mts_mto_rule
 #: model:ir.model,name:stock_mts_mto_rule.model_stock_rule
-#, fuzzy
 msgid "Stock Rule"
-msgstr "MTS: Produit stocké"
+msgstr "Règle de stock"
 
 #. module: stock_mts_mto_rule
 #: model:ir.model.fields,field_description:stock_mts_mto_rule.field_stock_warehouse__mto_mts_management
@@ -98,26 +84,5 @@ msgstr ""
 #. module: stock_mts_mto_rule
 #: model:ir.model,name:stock_mts_mto_rule.model_stock_warehouse
 msgid "Warehouse"
-msgstr "Entrepôt"
+msgstr "Dépot"
 
-#~ msgid "Can't find MTO Rule on the warehouse"
-#~ msgstr ""
-#~ "Ne trouve pas la règle MTO (Make To Order: Fabrication à la commande) de "
-#~ "l'entrepôt"
-
-#~ msgid "Can't find MTS Rule on the warehouse"
-#~ msgstr ""
-#~ "Ne trouve pas la règle MTS (Make To Stock: produit géré en stock) de "
-#~ "l'entrepôt"
-
-#~ msgid "Can't find any generic MTS+MTO route."
-#~ msgstr "Aucune règle par défaut MTS+MTO configurée. "
-
-#~ msgid "Procurement Rule"
-#~ msgstr "Règle d'approvisionnement"
-
-#~ msgid "Procurement"
-#~ msgstr "Procurement"
-
-#~ msgid "Procurements"
-#~ msgstr "Approvisionnements"
