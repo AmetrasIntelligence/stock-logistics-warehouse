@@ -1,22 +1,20 @@
-# Translation of Odoo Server.
-# This file contains the translation of the following modules:
-# * stock_request_purchase
-#
-# Translators:
-# Rudolf Schnapka <rs@techno-flex.de>, 2017
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 11.0\n"
+"Project-Id-Version: ametras-xsolutions\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-02 03:44+0000\n"
-"PO-Revision-Date: 2018-03-02 03:44+0000\n"
-"Last-Translator: Rudolf Schnapka <rs@techno-flex.de>, 2017\n"
-"Language-Team: German (https://www.transifex.com/oca/teams/23907/de/)\n"
-"Language: de\n"
+"Last-Translator: \n"
+"Language-Team: German\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: ametras-xsolutions\n"
+"X-Crowdin-Project-ID: 530964\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_request_purchase/i18n/stock_request_purchase.pot\n"
+"X-Crowdin-File-ID: 6568\n"
+"Language: de_DE\n"
+"PO-Revision-Date: 2022-08-06 22:09\n"
 
 #. module: stock_request_purchase
 #: model_terms:ir.ui.view,arch_db:stock_request_purchase.stock_request_order_form
@@ -27,25 +25,24 @@ msgstr "Einkauf"
 #. module: stock_request_purchase
 #: model:ir.model,name:stock_request_purchase.model_purchase_order
 msgid "Purchase Order"
-msgstr ""
+msgstr "Bestellung"
 
 #. module: stock_request_purchase
 #: model:ir.model,name:stock_request_purchase.model_purchase_order_line
 msgid "Purchase Order Line"
-msgstr "Bestellposition"
+msgstr "Angebotsanfragen Position"
 
 #. module: stock_request_purchase
 #: model:ir.model.fields,field_description:stock_request_purchase.field_stock_request__purchase_line_ids
 #: model:ir.model.fields,field_description:stock_request_purchase.field_stock_request_order__purchase_line_ids
 msgid "Purchase Order Lines"
-msgstr "Bestellpositionen"
+msgstr ""
 
 #. module: stock_request_purchase
 #: model:ir.model.fields,field_description:stock_request_purchase.field_stock_request__purchase_ids
 #: model:ir.model.fields,field_description:stock_request_purchase.field_stock_request_order__purchase_ids
-#, fuzzy
 msgid "Purchase Orders"
-msgstr "Bestellpositionen"
+msgstr ""
 
 #. module: stock_request_purchase
 #: model:ir.model.fields,field_description:stock_request_purchase.field_stock_request__purchase_count
@@ -61,13 +58,12 @@ msgstr "Bestandsanforderung"
 #. module: stock_request_purchase
 #: model:ir.model.fields,field_description:stock_request_purchase.field_purchase_order__stock_request_count
 msgid "Stock Request #"
-msgstr ""
+msgstr "Bestandsanforderung Nr."
 
 #. module: stock_request_purchase
 #: model:ir.model,name:stock_request_purchase.model_stock_request_order
-#, fuzzy
 msgid "Stock Request Order"
-msgstr "Bestandsanforderung"
+msgstr "Bestandsanforderungsauftrag"
 
 #. module: stock_request_purchase
 #: model:ir.model.fields,field_description:stock_request_purchase.field_purchase_order__stock_request_ids
@@ -79,27 +75,18 @@ msgstr "Bestandsanforderungen"
 
 #. module: stock_request_purchase
 #: model:ir.model,name:stock_request_purchase.model_stock_rule
-#, fuzzy
 msgid "Stock Rule"
-msgstr "Bestandsanforderung"
+msgstr "Lagerbestandsregel"
 
 #. module: stock_request_purchase
 #: code:addons/stock_request_purchase/models/purchase_order_line.py:0
 #, python-format
-msgid ""
-"You cannot link a purchase order line to a stock request that belongs to "
-"another company."
+msgid "You cannot link a purchase order line to a stock request that belongs to another company."
 msgstr ""
 
 #. module: stock_request_purchase
 #: code:addons/stock_request_purchase/models/stock_request.py:0
 #, python-format
-msgid ""
-"You have linked to a purchase order line that belongs to another company."
+msgid "You have linked to a purchase order line that belongs to another company."
 msgstr ""
 
-#~ msgid "Procurement Rule"
-#~ msgstr "Beschaffungsregel"
-
-#~ msgid "Pickings"
-#~ msgstr "Kommissionierungen"
