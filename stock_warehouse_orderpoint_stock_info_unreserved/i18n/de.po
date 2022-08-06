@@ -1,23 +1,20 @@
-# Translation of Odoo Server.
-# This file contains the translation of the following modules:
-# * stock_warehouse_orderpoint_stock_info_unreserved
-#
-# Translators:
-# OCA Transbot <transbot@odoo-community.org>, 2017
-# Rudolf Schnapka <rs@techno-flex.de>, 2017
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 9.0c\n"
+"Project-Id-Version: ametras-xsolutions\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-06-29 13:13+0000\n"
-"PO-Revision-Date: 2017-06-29 13:13+0000\n"
-"Last-Translator: Rudolf Schnapka <rs@techno-flex.de>, 2017\n"
-"Language-Team: German (https://www.transifex.com/oca/teams/23907/de/)\n"
-"Language: de\n"
+"Last-Translator: \n"
+"Language-Team: German\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: ametras-xsolutions\n"
+"X-Crowdin-Project-ID: 530964\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_warehouse_orderpoint_stock_info_unreserved/i18n/stock_warehouse_orderpoint_stock_info_unreserved.pot\n"
+"X-Crowdin-File-ID: 6608\n"
+"Language: de_DE\n"
+"PO-Revision-Date: 2022-08-06 22:09\n"
 
 #. module: stock_warehouse_orderpoint_stock_info_unreserved
 #: model:ir.model,name:stock_warehouse_orderpoint_stock_info_unreserved.model_stock_warehouse_orderpoint
@@ -29,3 +26,4 @@ msgstr "Mindestbestandsregel"
 #: model:ir.model.fields,field_description:stock_warehouse_orderpoint_stock_info_unreserved.field_stock_warehouse_orderpoint_template__product_location_qty_available_not_res
 msgid "Quantity On Location (Unreserved)"
 msgstr "Bestand am Lagerplatz (nicht reserviert)"
+
