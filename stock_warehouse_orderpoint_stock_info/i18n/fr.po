@@ -1,23 +1,20 @@
-# Translation of Odoo Server.
-# This file contains the translation of the following modules:
-# * stock_warehouse_orderpoint_stock_info
-#
-# Translators:
-# OCA Transbot <transbot@odoo-community.org>, 2018
-# Quentin THEURET <odoo@kerpeo.com>, 2018
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 11.0\n"
+"Project-Id-Version: ametras-xsolutions\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-02 03:44+0000\n"
-"PO-Revision-Date: 2018-03-02 03:44+0000\n"
-"Last-Translator: Quentin THEURET <odoo@kerpeo.com>, 2018\n"
-"Language-Team: French (https://www.transifex.com/oca/teams/23907/fr/)\n"
-"Language: fr\n"
+"Last-Translator: \n"
+"Language-Team: French\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: ametras-xsolutions\n"
+"X-Crowdin-Project-ID: 530964\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_warehouse_orderpoint_stock_info/i18n/stock_warehouse_orderpoint_stock_info.pot\n"
+"X-Crowdin-File-ID: 6606\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2022-08-06 22:09\n"
 
 #. module: stock_warehouse_orderpoint_stock_info
 #: model:ir.model.fields,field_description:stock_warehouse_orderpoint_stock_info.field_stock_warehouse_orderpoint__virtual_location_qty
@@ -45,14 +42,14 @@ msgstr "Sorties sur l'emplacement"
 #. module: stock_warehouse_orderpoint_stock_info
 #: model_terms:ir.ui.view,arch_db:stock_warehouse_orderpoint_stock_info.warehouse_orderpoint_search
 msgid "Product"
-msgstr "Article"
+msgstr "Produit"
 
 #. module: stock_warehouse_orderpoint_stock_info
 #: model:ir.model.fields,field_description:stock_warehouse_orderpoint_stock_info.field_stock_warehouse_orderpoint__product_category
 #: model:ir.model.fields,field_description:stock_warehouse_orderpoint_stock_info.field_stock_warehouse_orderpoint_template__product_category
 #: model_terms:ir.ui.view,arch_db:stock_warehouse_orderpoint_stock_info.warehouse_orderpoint_search
 msgid "Product Category"
-msgstr "Catégorie d'articles"
+msgstr "catégorie de produit"
 
 #. module: stock_warehouse_orderpoint_stock_info
 #: model:ir.model.fields,field_description:stock_warehouse_orderpoint_stock_info.field_stock_warehouse_orderpoint__product_location_qty
@@ -64,4 +61,5 @@ msgstr "Quantité sur l'emplacement"
 #: model:ir.model.fields,help:stock_warehouse_orderpoint_stock_info.field_stock_warehouse_orderpoint__product_category
 #: model:ir.model.fields,help:stock_warehouse_orderpoint_stock_info.field_stock_warehouse_orderpoint_template__product_category
 msgid "Select category for the current product"
-msgstr "Sélectionner la catégorie pour le produit actuel"
+msgstr ""
+
