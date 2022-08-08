@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_request/i18n/stock_request.pot\n"
 "X-Crowdin-File-ID: 6532\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 23:13\n"
+"PO-Revision-Date: 2022-08-08 01:48\n"
 
 #. module: stock_request
 #: code:addons/stock_request/models/stock_move_line.py:0
@@ -419,7 +419,7 @@ msgstr "Fehler beim Versenden der Nachrichten"
 #: model:ir.model.fields,field_description:stock_request.field_stock_request_abstract__message_ids
 #: model:ir.model.fields,field_description:stock_request.field_stock_request_order__message_ids
 msgid "Messages"
-msgstr "Mitteilungen"
+msgstr "Nachrichten"
 
 #. module: stock_request
 #: model:ir.model.fields,help:stock_request.field_stock_request__procurement_group_id
