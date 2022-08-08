@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_cycle_count/i18n/stock_cycle_count.pot\n"
 "X-Crowdin-File-ID: 6142\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 23:12\n"
+"PO-Revision-Date: 2022-08-08 01:47\n"
 
 #. module: stock_cycle_count
 #: code:addons/stock_cycle_count/models/stock_cycle_count_rule.py:0
@@ -452,7 +452,7 @@ msgstr "Fehler beim Versenden der Nachrichten"
 #. module: stock_cycle_count
 #: model:ir.model.fields,field_description:stock_cycle_count.field_stock_cycle_count__message_ids
 msgid "Messages"
-msgstr "Mitteilungen"
+msgstr "Nachrichten"
 
 #. module: stock_cycle_count
 #: code:addons/stock_cycle_count/models/stock_cycle_count_rule.py:0
