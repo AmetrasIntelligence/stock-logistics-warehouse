@@ -14,12 +14,12 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_archive_constraint/i18n/stock_archive_constraint.pot\n"
 "X-Crowdin-File-ID: 6128\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 22:08\n"
+"PO-Revision-Date: 2022-08-11 15:42\n"
 
 #. module: stock_archive_constraint
 #: model:ir.model,name:stock_archive_constraint.model_stock_location
 msgid "Inventory Locations"
-msgstr ""
+msgstr "Lagerstandorte"
 
 #. module: stock_archive_constraint
 #: code:addons/stock_archive_constraint/models/stock_location.py:0
