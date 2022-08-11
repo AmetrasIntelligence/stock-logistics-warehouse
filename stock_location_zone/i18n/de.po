@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_location_zone/i18n/stock_location_zone.pot\n"
 "X-Crowdin-File-ID: 6378\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 23:13\n"
+"PO-Revision-Date: 2022-08-11 15:43\n"
 
 #. module: stock_location_zone
 #: model:ir.model.fields.selection,name:stock_location_zone.selection__stock_location__location_kind__area
@@ -44,7 +44,7 @@ msgstr ""
 #. module: stock_location_zone
 #: model:ir.model,name:stock_location_zone.model_stock_location
 msgid "Inventory Locations"
-msgstr ""
+msgstr "Lagerstandorte"
 
 #. module: stock_location_zone
 #: model:ir.model.fields,field_description:stock_location_zone.field_stock_location__is_zone
