@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_cubiscan/i18n/stock_cubiscan.pot\n"
 "X-Crowdin-File-ID: 6140\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 22:08\n"
+"PO-Revision-Date: 2022-08-11 14:41\n"
 
 #. module: stock_cubiscan
 #: code:addons/stock_cubiscan/wizard/cubiscan_wizard.py:0
@@ -215,7 +215,7 @@ msgstr "Menge"
 #. module: stock_cubiscan
 #: model:ir.model.fields.selection,name:stock_cubiscan.selection__cubiscan_device__state__ready
 msgid "Ready"
-msgstr ""
+msgstr "Bereit"
 
 #. module: stock_cubiscan
 #: model:ir.model.fields,field_description:stock_cubiscan.field_cubiscan_wizard_line__required
