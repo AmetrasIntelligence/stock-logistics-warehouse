@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_location_last_inventory_date/i18n/stock_location_last_inventory_date.pot\n"
 "X-Crowdin-File-ID: 6360\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 23:13\n"
+"PO-Revision-Date: 2022-08-11 15:43\n"
 
 #. module: stock_location_last_inventory_date
 #: model:ir.model.fields,help:stock_location_last_inventory_date.field_stock_location__last_inventory_date
@@ -24,7 +24,7 @@ msgstr ""
 #. module: stock_location_last_inventory_date
 #: model:ir.model,name:stock_location_last_inventory_date.model_stock_location
 msgid "Inventory Locations"
-msgstr ""
+msgstr "Lagerstandorte"
 
 #. module: stock_location_last_inventory_date
 #: model:ir.model.fields,field_description:stock_location_last_inventory_date.field_stock_location__last_inventory_date
