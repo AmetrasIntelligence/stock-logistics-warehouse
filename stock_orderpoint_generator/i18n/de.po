@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_orderpoint_generator/i18n/stock_orderpoint_generator.pot\n"
 "X-Crowdin-File-ID: 6414\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-11 14:41\n"
+"PO-Revision-Date: 2022-08-12 08:06\n"
 
 #. module: stock_orderpoint_generator
 #: model:ir.model.fields,help:stock_orderpoint_generator.field_stock_warehouse_orderpoint_template__auto_product_ids
@@ -305,7 +305,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_orderpoint_generator.field_stock_warehouse_orderpoint_template__auto_product_ids
 #: model_terms:ir.ui.view,arch_db:stock_orderpoint_generator.view_warehouse_orderpoint_template_form
 msgid "Products"
-msgstr ""
+msgstr "Produkte"
 
 #. module: stock_orderpoint_generator
 #: model:ir.model.fields,field_description:stock_orderpoint_generator.field_stock_warehouse_orderpoint_template__qty_multiple
