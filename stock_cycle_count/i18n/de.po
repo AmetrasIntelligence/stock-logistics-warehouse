@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_cycle_count/i18n/stock_cycle_count.pot\n"
 "X-Crowdin-File-ID: 6142\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-17 15:49\n"
+"PO-Revision-Date: 2022-08-17 17:09\n"
 
 #. module: stock_cycle_count
 #: code:addons/stock_cycle_count/models/stock_cycle_count_rule.py:0
@@ -278,7 +278,7 @@ msgstr "Anzeigename"
 #: model:ir.model.fields.selection,name:stock_cycle_count.selection__stock_cycle_count__state__done
 #: model_terms:ir.ui.view,arch_db:stock_cycle_count.stock_cycle_count_search_view
 msgid "Done"
-msgstr ""
+msgstr "Erledigt"
 
 #. module: stock_cycle_count
 #: code:addons/stock_cycle_count/models/stock_cycle_count_rule.py:0
