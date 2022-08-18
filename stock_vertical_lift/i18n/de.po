@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_vertical_lift/i18n/stock_vertical_lift.pot\n"
 "X-Crowdin-File-ID: 6590\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-17 17:10\n"
+"PO-Revision-Date: 2022-08-18 16:50\n"
 
 #. module: stock_vertical_lift
 #: code:addons/stock_vertical_lift/models/stock_location.py:0
@@ -431,7 +431,7 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:stock_vertical_lift.vertical_lift_operation_base_button_view
 #: model_terms:ir.ui.view,arch_db:stock_vertical_lift.vertical_lift_operation_base_screen_view
 msgid "Operations"
-msgstr ""
+msgstr "Vorgänge"
 
 #. module: stock_vertical_lift
 #: model:ir.model.fields,field_description:stock_vertical_lift.field_vertical_lift_operation_inventory__package_id
