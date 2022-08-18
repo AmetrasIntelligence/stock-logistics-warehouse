@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_orderpoint_manual_procurement/i18n/stock_orderpoint_manual_procurement.pot\n"
 "X-Crowdin-File-ID: 6418\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 23:12\n"
+"PO-Revision-Date: 2022-08-18 14:35\n"
 
 #. module: stock_orderpoint_manual_procurement
 #: model_terms:ir.ui.view,arch_db:stock_orderpoint_manual_procurement.view_make_procure_without_security
@@ -138,7 +138,7 @@ msgstr "Produkt"
 #. module: stock_orderpoint_manual_procurement
 #: model:ir.model.fields,field_description:stock_orderpoint_manual_procurement.field_make_procurement_orderpoint_item__qty
 msgid "Qty"
-msgstr ""
+msgstr "Menge"
 
 #. module: stock_orderpoint_manual_procurement
 #: model:ir.model.fields,field_description:stock_orderpoint_manual_procurement.field_make_procurement_orderpoint_item__qty_without_security
