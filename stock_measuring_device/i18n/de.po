@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_measuring_device/i18n/stock_measuring_device.pot\n"
 "X-Crowdin-File-ID: 6386\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-18 08:04\n"
+"PO-Revision-Date: 2022-08-18 13:32\n"
 
 #. module: stock_measuring_device
 #: model:ir.model.fields,field_description:stock_measuring_device.field_measuring_wizard___barcode_scanned
@@ -310,5 +310,5 @@ msgstr ""
 #. module: stock_measuring_device
 #: model:uom.uom,name:stock_measuring_device.product_uom_mm
 msgid "mm"
-msgstr ""
+msgstr "mm"
 
