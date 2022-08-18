@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_inventory_preparation_filter/i18n/stock_inventory_preparation_filter.pot\n"
 "X-Crowdin-File-ID: 6348\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 23:13\n"
+"PO-Revision-Date: 2022-08-18 10:21\n"
 
 #. module: stock_inventory_preparation_filter
 #: code:addons/stock_inventory_preparation_filter/models/stock_inventory.py:0
@@ -63,11 +63,11 @@ msgstr ""
 #: code:addons/stock_inventory_preparation_filter/models/stock_inventory.py:0
 #, python-format
 msgid "Selected Categories"
-msgstr ""
+msgstr "Ausgewählte Kategorien"
 
 #. module: stock_inventory_preparation_filter
 #: code:addons/stock_inventory_preparation_filter/models/stock_inventory.py:0
 #, python-format
 msgid "Selected Lots"
-msgstr ""
+msgstr "Ausgewählte Lots"
 
