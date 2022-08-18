@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_request/i18n/stock_request.pot\n"
 "X-Crowdin-File-ID: 6532\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-18 14:35\n"
+"PO-Revision-Date: 2022-08-18 16:50\n"
 
 #. module: stock_request
 #: code:addons/stock_request/models/stock_move_line.py:0
@@ -517,7 +517,7 @@ msgstr ""
 #. module: stock_request
 #: model:ir.ui.menu,name:stock_request.menu_stock_request_operations
 msgid "Operations"
-msgstr ""
+msgstr "Vorgänge"
 
 #. module: stock_request
 #: model:ir.model.fields,field_description:stock_request.field_stock_request__order_id
