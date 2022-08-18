@@ -14,12 +14,12 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_request_submit/i18n/stock_request_submit.pot\n"
 "X-Crowdin-File-ID: 6576\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 22:09\n"
+"PO-Revision-Date: 2022-08-18 08:04\n"
 
 #. module: stock_request_submit
 #: model:ir.model.fields,field_description:stock_request_submit.field_stock_request__route_id
 msgid "Route"
-msgstr ""
+msgstr "Tour"
 
 #. module: stock_request_submit
 #: model:ir.model,name:stock_request_submit.model_stock_request
