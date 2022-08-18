@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_cubiscan/i18n/stock_cubiscan.pot\n"
 "X-Crowdin-File-ID: 6140\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-11 14:41\n"
+"PO-Revision-Date: 2022-08-18 08:04\n"
 
 #. module: stock_cubiscan
 #: code:addons/stock_cubiscan/wizard/cubiscan_wizard.py:0
@@ -126,7 +126,7 @@ msgstr ""
 #. module: stock_cubiscan
 #: model:ir.model.fields,field_description:stock_cubiscan.field_cubiscan_wizard_line__height
 msgid "Height (mm)"
-msgstr ""
+msgstr "Höhe (mm)"
 
 #. module: stock_cubiscan
 #: model:ir.model.fields,field_description:stock_cubiscan.field_cubiscan_device__id
@@ -159,7 +159,7 @@ msgstr "Zuletzt aktualisiert am"
 #. module: stock_cubiscan
 #: model:ir.model.fields,field_description:stock_cubiscan.field_cubiscan_wizard_line__lngth
 msgid "Length (mm)"
-msgstr ""
+msgstr "Länge (mm)"
 
 #. module: stock_cubiscan
 #: model:ir.model.fields,field_description:stock_cubiscan.field_cubiscan_wizard__line_ids
@@ -260,7 +260,7 @@ msgstr ""
 #. module: stock_cubiscan
 #: model:ir.model.fields,field_description:stock_cubiscan.field_cubiscan_wizard_line__volume
 msgid "Volume (m³)"
-msgstr ""
+msgstr "Volumen (m3)"
 
 #. module: stock_cubiscan
 #: model:ir.model,name:stock_cubiscan.model_stock_warehouse
@@ -271,12 +271,12 @@ msgstr "Lager"
 #. module: stock_cubiscan
 #: model:ir.model.fields,field_description:stock_cubiscan.field_cubiscan_wizard_line__max_weight
 msgid "Weight (kg)"
-msgstr ""
+msgstr "Gewicht (kg)"
 
 #. module: stock_cubiscan
 #: model:ir.model.fields,field_description:stock_cubiscan.field_cubiscan_wizard_line__width
 msgid "Width (mm)"
-msgstr ""
+msgstr "Breite (mm)"
 
 #. module: stock_cubiscan
 #: model:ir.model.fields,field_description:stock_cubiscan.field_cubiscan_wizard_line__wizard_id
