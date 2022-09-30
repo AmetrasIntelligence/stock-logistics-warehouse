@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_vertical_lift/i18n/stock_vertical_lift.pot\n"
 "X-Crowdin-File-ID: 6590\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-18 16:50\n"
+"PO-Revision-Date: 2022-09-30 08:18\n"
 
 #. module: stock_vertical_lift
 #: code:addons/stock_vertical_lift/models/stock_location.py:0
@@ -450,7 +450,7 @@ msgstr "Verpackung"
 #: model:ir.model.fields.selection,name:stock_vertical_lift.selection__vertical_lift_shuttle__mode__pick
 #: model_terms:ir.ui.view,arch_db:stock_vertical_lift.vertical_lift_shuttle_form_menu
 msgid "Pick"
-msgstr ""
+msgstr "Pick"
 
 #. module: stock_vertical_lift
 #: model_terms:ir.ui.view,arch_db:stock_vertical_lift.vertical_lift_operation_pick_button_view
