@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_inventory_preparation_filter/i18n/stock_inventory_preparation_filter.pot\n"
 "X-Crowdin-File-ID: 6348\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-18 16:50\n"
+"PO-Revision-Date: 2022-09-30 08:18\n"
 
 #. module: stock_inventory_preparation_filter
 #: code:addons/stock_inventory_preparation_filter/models/stock_inventory.py:0
@@ -30,7 +30,7 @@ msgstr "Kategorien"
 #. module: stock_inventory_preparation_filter
 #: model:ir.model.fields,field_description:stock_inventory_preparation_filter.field_stock_inventory__product_domain
 msgid "Domain"
-msgstr ""
+msgstr "Domäne"
 
 #. module: stock_inventory_preparation_filter
 #: code:addons/stock_inventory_preparation_filter/models/stock_inventory.py:0
@@ -52,7 +52,7 @@ msgstr "Inventur"
 #: model:ir.model.fields,field_description:stock_inventory_preparation_filter.field_stock_inventory__filter
 #: model_terms:ir.ui.view,arch_db:stock_inventory_preparation_filter.view_inventory_form
 msgid "Inventory of"
-msgstr ""
+msgstr "Inventur von"
 
 #. module: stock_inventory_preparation_filter
 #: model:ir.model.fields,field_description:stock_inventory_preparation_filter.field_stock_inventory__lot_ids
