@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_removal_location_by_priority/i18n/stock_removal_location_by_priority.pot\n"
 "X-Crowdin-File-ID: 6524\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-11 15:43\n"
+"PO-Revision-Date: 2022-10-05 12:36\n"
 
 #. module: stock_removal_location_by_priority
 #: model:ir.model,name:stock_removal_location_by_priority.model_res_config_settings
@@ -29,7 +29,7 @@ msgstr "Lagerstandorte"
 #. module: stock_removal_location_by_priority
 #: model:ir.model,name:stock_removal_location_by_priority.model_stock_quant
 msgid "Quants"
-msgstr ""
+msgstr "Mengen"
 
 #. module: stock_removal_location_by_priority
 #: model:ir.model.fields,field_description:stock_removal_location_by_priority.field_res_config_settings__group_removal_priority
