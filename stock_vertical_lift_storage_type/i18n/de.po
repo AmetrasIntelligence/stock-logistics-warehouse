@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_vertical_lift_storage_type/i18n/stock_vertical_lift_storage_type.pot\n"
 "X-Crowdin-File-ID: 6602\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-11 15:43\n"
+"PO-Revision-Date: 2022-10-05 12:36\n"
 
 #. module: stock_vertical_lift_storage_type
 #: code:addons/stock_vertical_lift_storage_type/models/stock_location.py:0
@@ -57,7 +57,7 @@ msgstr ""
 #. module: stock_vertical_lift_storage_type
 #: model:ir.model,name:stock_vertical_lift_storage_type.model_stock_quant
 msgid "Quants"
-msgstr ""
+msgstr "Mengen"
 
 #. module: stock_vertical_lift_storage_type
 #: model:ir.model,name:stock_vertical_lift_storage_type.model_stock_location_tray_type
