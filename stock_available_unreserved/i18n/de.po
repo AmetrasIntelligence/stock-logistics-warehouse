@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_available_unreserved/i18n/stock_available_unreserved.pot\n"
 "X-Crowdin-File-ID: 6136\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 22:08\n"
+"PO-Revision-Date: 2022-10-05 12:36\n"
 
 #. module: stock_available_unreserved
 #: model:ir.model.fields,field_description:stock_available_unreserved.field_stock_quant__contains_unreserved
@@ -61,7 +61,7 @@ msgstr "Nicht reservierte, verfügbare Menge"
 #. module: stock_available_unreserved
 #: model:ir.model,name:stock_available_unreserved.model_stock_quant
 msgid "Quants"
-msgstr ""
+msgstr "Mengen"
 
 #. module: stock_available_unreserved
 #: model_terms:ir.ui.view,arch_db:stock_available_unreserved.product_template_search_form_view_stock
