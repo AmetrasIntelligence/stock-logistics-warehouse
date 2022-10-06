@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_secondary_unit/i18n/stock_secondary_unit.pot\n"
 "X-Crowdin-File-ID: 6586\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-17 17:10\n"
+"PO-Revision-Date: 2022-10-06 07:45\n"
 
 #. module: stock_secondary_unit
 #: model_terms:ir.ui.view,arch_db:stock_secondary_unit.report_delivery_document
@@ -39,7 +39,7 @@ msgstr "ID"
 #. module: stock_secondary_unit
 #: model:ir.model.fields,field_description:stock_secondary_unit.field_stock_move__product_uom_qty
 msgid "Initial Demand"
-msgstr ""
+msgstr "Anfänglicher Bedarf"
 
 #. module: stock_secondary_unit
 #: model:ir.model.fields,field_description:stock_secondary_unit.field_stock_product_secondary_unit____last_update
@@ -92,5 +92,5 @@ msgstr ""
 #. module: stock_secondary_unit
 #: model:ir.model.fields,help:stock_secondary_unit.field_stock_move__product_uom_qty
 msgid "This is the quantity of products from an inventory point of view. For moves in the state 'done', this is the quantity of products that were actually moved. For other moves, this is the quantity of product that is planned to be moved. Lowering this quantity does not generate a backorder. Changing this quantity on assigned moves affects the product reservation, and should be done with care."
-msgstr ""
+msgstr "Dies ist die Menge der Produkte aus Sicht des Inventars. Bei Warenbewegungen im Zustand \"erledigt\" ist dies die Menge der tatsächlich bewegten Produkte. Bei anderen Umlagerungen handelt es sich um die Menge der Produkte, die für die Umlagerung vorgesehen ist. Eine Verringerung dieser Menge führt nicht zu einem Rückstand. Eine Änderung dieser Menge bei zugewiesenen Transporten wirkt sich auf die Produktreservierung aus und sollte daher mit Vorsicht vorgenommen werden."
 
