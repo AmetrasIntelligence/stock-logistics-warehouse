@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_request_kanban/i18n/stock_request_kanban.pot\n"
 "X-Crowdin-File-ID: 6548\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-18 08:04\n"
+"PO-Revision-Date: 2022-10-06 06:44\n"
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_product_product__kanban_card_count
@@ -37,7 +37,7 @@ msgstr "Aktiv"
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_inventory_kanban__activity_ids
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_request_kanban__activity_ids
 msgid "Activities"
-msgstr ""
+msgstr "Aktivitäten"
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_inventory_kanban__activity_exception_decoration
@@ -49,7 +49,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_inventory_kanban__activity_state
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_request_kanban__activity_state
 msgid "Activity State"
-msgstr ""
+msgstr "Aktivitätsstatus"
 
 #. module: stock_request_kanban
 #: model:ir.actions.act_window,name:stock_request_kanban.wizard_stock_inventory_kanban_action
@@ -249,7 +249,7 @@ msgstr "Symbol"
 #: model:ir.model.fields,help:stock_request_kanban.field_stock_inventory_kanban__activity_exception_icon
 #: model:ir.model.fields,help:stock_request_kanban.field_stock_request_kanban__activity_exception_icon
 msgid "Icon to indicate an exception activity."
-msgstr ""
+msgstr "Symbol zur Angabe einer Ausnahmeaktivität."
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,help:stock_request_kanban.field_stock_inventory_kanban__message_needaction
