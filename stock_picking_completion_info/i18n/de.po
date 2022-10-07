@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_picking_completion_info/i18n/stock_picking_completion_info.pot\n"
 "X-Crowdin-File-ID: 6472\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 23:13\n"
+"PO-Revision-Date: 2022-10-07 05:52\n"
 
 #. module: stock_picking_completion_info
 #: model:ir.model.fields,field_description:stock_picking_completion_info.field_stock_picking__completion_info
@@ -64,5 +64,5 @@ msgstr "Lagerbuchungen"
 #. module: stock_picking_completion_info
 #: model:ir.model,name:stock_picking_completion_info.model_stock_picking
 msgid "Transfer"
-msgstr ""
+msgstr "Transfer"
 
