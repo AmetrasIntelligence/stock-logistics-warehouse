@@ -2,6 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ametras-xsolutions\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-06 10:28+0000\n"
+"PO-Revision-Date: 2022-10-20 16:02\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "MIME-Version: 1.0\n"
@@ -11,53 +13,52 @@ msgstr ""
 "X-Crowdin-Project: ametras-xsolutions\n"
 "X-Crowdin-Project-ID: 530964\n"
 "X-Crowdin-Language: fr\n"
-"X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/sale_automatic_workflow_reserve_sale_stock/i18n/sale_automatic_workflow_reserve_sale_stock.pot\n"
-"X-Crowdin-File-ID: 9008\n"
+"X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/sale_automatic_workflow_reserve_sale_stock/i18n/sale_automatic_workflow_stock_reserve.pot\n"
+"X-Crowdin-File-ID: 9006\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-10-20 16:02\n"
 
-#. module: sale_automatic_workflow_reserve_sale_stock
-#: model:ir.model.fields,help:sale_automatic_workflow_reserve_sale_stock.field_sale_workflow_process__stock_reservation
+#. module: sale_automatic_workflow_stock_reserve
+#: model:ir.model.fields,help:sale_automatic_workflow_stock_reserve.field_sale_workflow_process__stock_reservation
 msgid "Allows to make stock reservations before the confirm the sale quotation"
 msgstr ""
 
-#. module: sale_automatic_workflow_reserve_sale_stock
-#: model:ir.model.fields,help:sale_automatic_workflow_reserve_sale_stock.field_sale_workflow_process__stock_reservation_validity
+#. module: sale_automatic_workflow_stock_reserve
+#: model:ir.model.fields,help:sale_automatic_workflow_stock_reserve.field_sale_workflow_process__stock_reservation_validity
 msgid "Make a stock reservation for this number of days. When this number of days pass the stock reservation is released"
 msgstr ""
 
-#. module: sale_automatic_workflow_reserve_sale_stock
-#: model_terms:ir.ui.view,arch_db:sale_automatic_workflow_reserve_sale_stock.sale_workflow_process_view_form
+#. module: sale_automatic_workflow_stock_reserve
+#: model_terms:ir.ui.view,arch_db:sale_automatic_workflow_stock_reserve.sale_workflow_process_view_form
 msgid "Reserve Options"
 msgstr ""
 
-#. module: sale_automatic_workflow_reserve_sale_stock
-#: model:ir.model,name:sale_automatic_workflow_reserve_sale_stock.model_sale_workflow_process
+#. module: sale_automatic_workflow_stock_reserve
+#: model:ir.model,name:sale_automatic_workflow_stock_reserve.model_sale_workflow_process
 msgid "Sale Workflow Process"
 msgstr "Flux automatique de vente"
 
-#. module: sale_automatic_workflow_reserve_sale_stock
-#: model:ir.model,name:sale_automatic_workflow_reserve_sale_stock.model_automatic_workflow_job
+#. module: sale_automatic_workflow_stock_reserve
+#: model:ir.model,name:sale_automatic_workflow_stock_reserve.model_automatic_workflow_job
 msgid "Scheduler that will play automatically the validation of invoices, pickings..."
 msgstr ""
 
-#. module: sale_automatic_workflow_reserve_sale_stock
-#: model:ir.model.fields,field_description:sale_automatic_workflow_reserve_sale_stock.field_sale_workflow_process__stock_reservation
+#. module: sale_automatic_workflow_stock_reserve
+#: model:ir.model.fields,field_description:sale_automatic_workflow_stock_reserve.field_sale_workflow_process__stock_reservation
 msgid "Stock Reservation"
 msgstr ""
 
-#. module: sale_automatic_workflow_reserve_sale_stock
-#: model:ir.model.fields,field_description:sale_automatic_workflow_reserve_sale_stock.field_sale_workflow_process__stock_reservation_validity
+#. module: sale_automatic_workflow_stock_reserve
+#: model:ir.model.fields,field_description:sale_automatic_workflow_stock_reserve.field_sale_workflow_process__stock_reservation_validity
 msgid "Stock Reservation Validity (Days)"
 msgstr ""
 
-#. module: sale_automatic_workflow_reserve_sale_stock
-#: model:ir.model.fields,field_description:sale_automatic_workflow_reserve_sale_stock.field_sale_workflow_process__stock_reservation_location_dest_id
+#. module: sale_automatic_workflow_stock_reserve
+#: model:ir.model.fields,field_description:sale_automatic_workflow_stock_reserve.field_sale_workflow_process__stock_reservation_location_dest_id
 msgid "Stock reservation Location"
 msgstr ""
 
-#. module: sale_automatic_workflow_reserve_sale_stock
-#: model:ir.model.fields,field_description:sale_automatic_workflow_reserve_sale_stock.field_sale_workflow_process__stock_reservation_location_id
+#. module: sale_automatic_workflow_stock_reserve
+#: model:ir.model.fields,field_description:sale_automatic_workflow_stock_reserve.field_sale_workflow_process__stock_reservation_location_id
 msgid "Stock reservation Source Location"
 msgstr ""
 
