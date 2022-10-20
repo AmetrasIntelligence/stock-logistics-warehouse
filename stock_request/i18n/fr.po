@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_request/i18n/stock_request.pot\n"
 "X-Crowdin-File-ID: 6532\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-08-06 22:09\n"
+"PO-Revision-Date: 2022-10-20 16:01\n"
 
 #. module: stock_request
 #: code:addons/stock_request/models/stock_move_line.py:0
@@ -165,6 +165,11 @@ msgstr "Créé le"
 #. module: stock_request
 #: model_terms:ir.ui.view,arch_db:stock_request.stock_request_search
 msgid "Current requests"
+msgstr ""
+
+#. module: stock_request
+#: model_terms:ir.ui.view,arch_db:stock_request.stock_request_pivot_search
+msgid "Date"
 msgstr ""
 
 #. module: stock_request
@@ -657,6 +662,11 @@ msgid "Receive each product when available"
 msgstr ""
 
 #. module: stock_request
+#: model:ir.ui.menu,name:stock_request.menu_stock_request_report_root
+msgid "Reports"
+msgstr "Rapports"
+
+#. module: stock_request
 #: model:ir.actions.server,name:stock_request.action_template_generate_stock_request_orders
 #: model:ir.actions.server,name:stock_request.action_variant_generate_stock_request_orders
 msgid "Request Stock"
@@ -806,6 +816,12 @@ msgid "Stock Request Orders"
 msgstr ""
 
 #. module: stock_request
+#: model:ir.actions.act_window,name:stock_request.stock_request_pivot_action
+#: model:ir.ui.menu,name:stock_request.menu_stock_request_report
+msgid "Stock Request Report"
+msgstr ""
+
+#. module: stock_request
 #: model:ir.model,name:stock_request.model_stock_request_abstract
 msgid "Stock Request Template"
 msgstr ""
@@ -839,6 +855,7 @@ msgstr ""
 #: model:ir.ui.menu,name:stock_request.menu_stock_request
 #: model:ir.ui.menu,name:stock_request.menu_stock_request_root
 #: model_terms:ir.ui.view,arch_db:stock_request.stock_request_order_form
+#: model_terms:ir.ui.view,arch_db:stock_request.stock_request_pivot
 #: model_terms:ir.ui.view,arch_db:stock_request.stock_request_search
 #: model_terms:ir.ui.view,arch_db:stock_request.view_picking_form
 #: model_terms:ir.ui.view,arch_db:stock_request.view_stock_request_form
