@@ -14,7 +14,12 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_available_mrp/i18n/stock_available_mrp.pot\n"
 "X-Crowdin-File-ID: 6134\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-08-06 22:08\n"
+"PO-Revision-Date: 2022-10-20 16:00\n"
+
+#. module: stock_available_mrp
+#: model:ir.model.fields,field_description:stock_available_mrp.field_mrp_bom__add_potential_exception
+msgid "Avoid adding potential to available to promise"
+msgstr ""
 
 #. module: stock_available_mrp
 #: model:ir.model.fields,field_description:stock_available_mrp.field_product_product__bom_id
@@ -22,10 +27,20 @@ msgid "BOM"
 msgstr "Nomenclature"
 
 #. module: stock_available_mrp
+#: model:ir.model,name:stock_available_mrp.model_mrp_bom
+msgid "Bill of Material"
+msgstr ""
+
+#. module: stock_available_mrp
 #: model:product.product,name:stock_available_mrp.product_computer_desk_bolt_white
 #: model:product.template,name:stock_available_mrp.product_computer_desk_bolt_white_product_template
 msgid "Bolt"
 msgstr "Boulon"
+
+#. module: stock_available_mrp
+#: model:ir.model.fields,help:stock_available_mrp.field_mrp_bom__add_potential_exception
+msgid "If potential qty added to available to promise is set in the company we can override this option for single BoMs"
+msgstr ""
 
 #. module: stock_available_mrp
 #: model:ir.model,name:stock_available_mrp.model_product_product
