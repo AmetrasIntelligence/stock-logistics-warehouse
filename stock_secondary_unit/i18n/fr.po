@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_secondary_unit/i18n/stock_secondary_unit.pot\n"
 "X-Crowdin-File-ID: 6586\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-08-06 22:08\n"
+"PO-Revision-Date: 2022-10-20 16:01\n"
 
 #. module: stock_secondary_unit
 #: model_terms:ir.ui.view,arch_db:stock_secondary_unit.report_delivery_document
@@ -38,6 +38,7 @@ msgstr ""
 
 #. module: stock_secondary_unit
 #: model:ir.model.fields,field_description:stock_secondary_unit.field_stock_move__product_uom_qty
+#: model:ir.model.fields,field_description:stock_secondary_unit.field_stock_reservation__product_uom_qty
 msgid "Initial Demand"
 msgstr ""
 
@@ -91,6 +92,7 @@ msgstr ""
 
 #. module: stock_secondary_unit
 #: model:ir.model.fields,help:stock_secondary_unit.field_stock_move__product_uom_qty
+#: model:ir.model.fields,help:stock_secondary_unit.field_stock_reservation__product_uom_qty
 msgid "This is the quantity of products from an inventory point of view. For moves in the state 'done', this is the quantity of products that were actually moved. For other moves, this is the quantity of product that is planned to be moved. Lowering this quantity does not generate a backorder. Changing this quantity on assigned moves affects the product reservation, and should be done with care."
 msgstr ""
 
