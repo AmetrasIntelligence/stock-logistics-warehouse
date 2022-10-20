@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_request/i18n/stock_request.pot\n"
 "X-Crowdin-File-ID: 6532\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-10-18 08:23\n"
+"PO-Revision-Date: 2022-10-20 16:02\n"
 
 #. module: stock_request
 #: code:addons/stock_request/models/stock_move_line.py:0
@@ -166,6 +166,11 @@ msgstr "Erstellt am"
 #: model_terms:ir.ui.view,arch_db:stock_request.stock_request_search
 msgid "Current requests"
 msgstr ""
+
+#. module: stock_request
+#: model_terms:ir.ui.view,arch_db:stock_request.stock_request_pivot_search
+msgid "Date"
+msgstr "Datum"
 
 #. module: stock_request
 #: model:ir.model.fields,help:stock_request.field_stock_request__expected_date
@@ -657,6 +662,11 @@ msgid "Receive each product when available"
 msgstr "Jedes Produkt bei Verfügbarkeit erhalten"
 
 #. module: stock_request
+#: model:ir.ui.menu,name:stock_request.menu_stock_request_report_root
+msgid "Reports"
+msgstr "Berichte"
+
+#. module: stock_request
 #: model:ir.actions.server,name:stock_request.action_template_generate_stock_request_orders
 #: model:ir.actions.server,name:stock_request.action_variant_generate_stock_request_orders
 msgid "Request Stock"
@@ -809,6 +819,12 @@ msgid "Stock Request Orders"
 msgstr "Bestandsanforderungsaufträge"
 
 #. module: stock_request
+#: model:ir.actions.act_window,name:stock_request.stock_request_pivot_action
+#: model:ir.ui.menu,name:stock_request.menu_stock_request_report
+msgid "Stock Request Report"
+msgstr ""
+
+#. module: stock_request
 #: model:ir.model,name:stock_request.model_stock_request_abstract
 msgid "Stock Request Template"
 msgstr "Bestandsanforderungsvorlage"
@@ -842,6 +858,7 @@ msgstr "Bestandsanforderungs-Produktmenge muss streng positiv sein."
 #: model:ir.ui.menu,name:stock_request.menu_stock_request
 #: model:ir.ui.menu,name:stock_request.menu_stock_request_root
 #: model_terms:ir.ui.view,arch_db:stock_request.stock_request_order_form
+#: model_terms:ir.ui.view,arch_db:stock_request.stock_request_pivot
 #: model_terms:ir.ui.view,arch_db:stock_request.stock_request_search
 #: model_terms:ir.ui.view,arch_db:stock_request.view_picking_form
 #: model_terms:ir.ui.view,arch_db:stock_request.view_stock_request_form
