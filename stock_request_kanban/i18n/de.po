@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_request_kanban/i18n/stock_request_kanban.pot\n"
 "X-Crowdin-File-ID: 6548\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-10-07 05:52\n"
+"PO-Revision-Date: 2022-10-25 12:21\n"
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_product_product__kanban_card_count
@@ -145,12 +145,12 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:stock_request_kanban.wizard_stock_inventory_kanban_form
 #: model_terms:ir.ui.view,arch_db:stock_request_kanban.wizard_stock_request_kanban_form
 msgid "Close"
-msgstr "schließen"
+msgstr "Schließen"
 
 #. module: stock_request_kanban
 #: model:ir.model.fields.selection,name:stock_request_kanban.selection__stock_inventory_kanban__state__closed
 msgid "Closed"
-msgstr ""
+msgstr "Geschlossen"
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_request_kanban__company_id
