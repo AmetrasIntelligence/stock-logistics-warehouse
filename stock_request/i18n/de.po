@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_request/i18n/stock_request.pot\n"
 "X-Crowdin-File-ID: 6532\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-10-20 16:02\n"
+"PO-Revision-Date: 2022-10-26 08:52\n"
 
 #. module: stock_request
 #: code:addons/stock_request/models/stock_move_line.py:0
@@ -602,17 +602,17 @@ msgstr "Menge"
 #. module: stock_request
 #: model:ir.model.fields,help:stock_request.field_stock_request__qty_cancelled
 msgid "Quantity cancelled"
-msgstr ""
+msgstr "Abgebrochene Menge"
 
 #. module: stock_request
 #: model:ir.model.fields,help:stock_request.field_stock_request__qty_done
 msgid "Quantity completed"
-msgstr ""
+msgstr "Abgeschlossene Menge"
 
 #. module: stock_request
 #: model:ir.model.fields,help:stock_request.field_stock_request__qty_in_progress
 msgid "Quantity in progress."
-msgstr ""
+msgstr "Menge in Bearbeitung."
 
 #. module: stock_request
 #: model:ir.model.fields,help:stock_request.field_stock_request__product_qty
@@ -686,7 +686,7 @@ msgstr "Angeforderte Menge (ME)"
 #: model:ir.model.fields,field_description:stock_request.field_stock_request__requested_by
 #: model:ir.model.fields,field_description:stock_request.field_stock_request_order__requested_by
 msgid "Requested by"
-msgstr ""
+msgstr "Angefragt von"
 
 #. module: stock_request
 #: code:addons/stock_request/models/stock_request.py:0
