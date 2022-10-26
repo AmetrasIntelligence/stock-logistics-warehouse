@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_location_lockdown/i18n/stock_location_lockdown.pot\n"
 "X-Crowdin-File-ID: 6362\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-10-05 12:36\n"
+"PO-Revision-Date: 2022-10-26 08:52\n"
 
 #. module: stock_location_lockdown
 #: model:ir.model.fields,field_description:stock_location_lockdown.field_stock_location__block_stock_entrance
@@ -46,5 +46,5 @@ msgstr ""
 #. module: stock_location_lockdown
 #: model:ir.model.fields,help:stock_location_lockdown.field_stock_location__block_stock_entrance
 msgid "if this box is checked, putting stock on this location won't be allowed. Usually used for a virtual location that has childrens."
-msgstr ""
+msgstr "Wenn dieser Haken gesetzt ist, kann kein Bestand auf diesen Lagerort gebucht werden. Üblicherweise wird diese Einstellung für virtuelle Lagerorte mit untergeordneten Lagerorten verwendet."
 
