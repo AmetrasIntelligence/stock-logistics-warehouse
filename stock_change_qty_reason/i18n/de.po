@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_change_qty_reason/i18n/stock_change_qty_reason.pot\n"
 "X-Crowdin-File-ID: 6138\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-10-20 16:00\n"
+"PO-Revision-Date: 2022-10-26 12:02\n"
 
 #. module: stock_change_qty_reason
 #: model:ir.model.fields,field_description:stock_change_qty_reason.field_stock_inventory_line_reason__active
@@ -71,7 +71,7 @@ msgstr "Inventur"
 #: model:ir.ui.menu,name:stock_change_qty_reason.menu_inventory_adjustments_config
 #: model_terms:ir.ui.view,arch_db:stock_change_qty_reason.qty_reason_preset_selection
 msgid "Inventory Adjustment"
-msgstr ""
+msgstr "Bestandskorrektur"
 
 #. module: stock_change_qty_reason
 #: model:ir.model,name:stock_change_qty_reason.model_stock_inventory_line
