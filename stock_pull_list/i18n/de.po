@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_pull_list/i18n/stock_pull_list.pot\n"
 "X-Crowdin-File-ID: 6508\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-09-07 15:22\n"
+"PO-Revision-Date: 2022-11-15 16:16\n"
 
 #. module: stock_pull_list
 #: model_terms:ir.ui.view,arch_db:stock_pull_list.view_run_stock_pull_list_wizard_wizard
@@ -127,7 +127,7 @@ msgstr "ID"
 #. module: stock_pull_list
 #: model:ir.model.fields,field_description:stock_pull_list.field_stock_pull_list_wizard_line__incoming_qty
 msgid "Incoming Qty"
-msgstr "Eigehende Menge"
+msgstr "Eingehende Menge"
 
 #. module: stock_pull_list
 #: model:ir.model.fields,field_description:stock_pull_list.field_stock_pull_list_wizard____last_update
