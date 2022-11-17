@@ -14,17 +14,17 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_move_packaging_qty/i18n/stock_move_packaging_qty.pot\n"
 "X-Crowdin-File-ID: 8992\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-10-20 16:02\n"
+"PO-Revision-Date: 2022-11-17 11:31\n"
 
 #. module: stock_move_packaging_qty
 #: model:ir.model.fields,field_description:stock_move_packaging_qty.field_stock_move__product_packaging
 msgid "Package"
-msgstr "Verpackung"
+msgstr "Paket"
 
 #. module: stock_move_packaging_qty
 #: model:ir.model.fields,field_description:stock_move_packaging_qty.field_stock_move__product_packaging_qty
 msgid "Package quantity"
-msgstr "Verpackungsmenge"
+msgstr "Paketmenge"
 
 #. module: stock_move_packaging_qty
 #: code:addons/stock_move_packaging_qty/models/stock_move.py:0
