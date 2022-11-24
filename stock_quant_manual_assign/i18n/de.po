@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_quant_manual_assign/i18n/stock_quant_manual_assign.pot\n"
 "X-Crowdin-File-ID: 6520\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-10-20 16:02\n"
+"PO-Revision-Date: 2022-11-24 17:15\n"
 
 #. module: stock_quant_manual_assign
 #: model:ir.model,name:stock_quant_manual_assign.model_assign_manual_quants
@@ -127,7 +127,7 @@ msgstr ""
 #. module: stock_quant_manual_assign
 #: model:ir.model.fields,field_description:stock_quant_manual_assign.field_assign_manual_quants_lines__package_id
 msgid "Package"
-msgstr "Verpackung"
+msgstr "Paket"
 
 #. module: stock_quant_manual_assign
 #: model:ir.model,name:stock_quant_manual_assign.model_stock_picking_type
