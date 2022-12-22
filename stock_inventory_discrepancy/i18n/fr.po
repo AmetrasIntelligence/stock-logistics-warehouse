@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_inventory_discrepancy/i18n/stock_inventory_discrepancy.pot\n"
 "X-Crowdin-File-ID: 6176\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-08-06 22:07\n"
+"PO-Revision-Date: 2022-12-22 22:26\n"
 
 #. module: stock_inventory_discrepancy
 #: model:ir.model.fields,field_description:stock_inventory_discrepancy.field_stock_inventory_line__discrepancy_qty
@@ -113,7 +113,7 @@ msgstr "Etats de l'ajustement d'inventaire :\n"
 #. module: stock_inventory_discrepancy
 #: model:ir.model.fields,field_description:stock_inventory_discrepancy.field_stock_inventory__state
 msgid "Status"
-msgstr ""
+msgstr "Statut"
 
 #. module: stock_inventory_discrepancy
 #: code:addons/stock_inventory_discrepancy/models/stock_inventory.py:0
