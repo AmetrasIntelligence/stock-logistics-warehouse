@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_inventory_chatter/i18n/stock_inventory_chatter.pot\n"
 "X-Crowdin-File-ID: 6150\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-08-06 22:07\n"
+"PO-Revision-Date: 2022-12-22 22:26\n"
 
 #. module: stock_inventory_chatter
 #: model:ir.model,name:stock_inventory_chatter.model_stock_inventory
@@ -47,5 +47,5 @@ msgstr "Etats de l'ajustement d'inventaire :\n"
 #. module: stock_inventory_chatter
 #: model:ir.model.fields,field_description:stock_inventory_chatter.field_stock_inventory__state
 msgid "Status"
-msgstr ""
+msgstr "Statut"
 
