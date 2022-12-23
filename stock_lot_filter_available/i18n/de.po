@@ -14,12 +14,12 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_lot_filter_available/i18n/stock_lot_filter_available.pot\n"
 "X-Crowdin-File-ID: 6382\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 23:13\n"
+"PO-Revision-Date: 2022-12-23 01:17\n"
 
 #. module: stock_lot_filter_available
 #: model:ir.model,name:stock_lot_filter_available.model_stock_production_lot
 msgid "Lot/Serial"
-msgstr "Los-/Seriennummer"
+msgstr "Nachverfolgung"
 
 #. module: stock_lot_filter_available
 #: model_terms:ir.ui.view,arch_db:stock_lot_filter_available.search_product_lot_filter
