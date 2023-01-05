@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_reserve/i18n/stock_reserve.pot\n"
 "X-Crowdin-File-ID: 8986\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-12-14 16:15\n"
+"PO-Revision-Date: 2023-01-05 12:44\n"
 
 #. module: stock_reserve
 #: model:ir.model.fields,field_description:stock_reserve.field_product_product__reservation_count
@@ -552,7 +552,7 @@ msgstr ""
 #. module: stock_reserve
 #: model:ir.model.fields,field_description:stock_reserve.field_stock_reservation__quantity_done
 msgid "Quantity Done"
-msgstr ""
+msgstr "Menge erledigt"
 
 #. module: stock_reserve
 #: model:ir.model.fields,field_description:stock_reserve.field_stock_reservation__reserved_availability
