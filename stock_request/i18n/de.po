@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_request/i18n/stock_request.pot\n"
 "X-Crowdin-File-ID: 6532\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-11-17 14:20\n"
+"PO-Revision-Date: 2023-01-06 11:54\n"
 
 #. module: stock_request
 #: code:addons/stock_request/models/stock_move_line.py:0
@@ -182,7 +182,7 @@ msgstr "Datum an dem Sie die Warenlieferung erwarten."
 #: model:ir.model.fields,field_description:stock_request.field_stock_request__picking_count
 #: model:ir.model.fields,field_description:stock_request.field_stock_request_order__picking_count
 msgid "Delivery Orders"
-msgstr ""
+msgstr "Lieferscheine"
 
 #. module: stock_request
 #: model:ir.model.fields,field_description:stock_request.field_stock_request__display_name
