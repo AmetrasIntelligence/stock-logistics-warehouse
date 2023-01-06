@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_move_location/i18n/stock_move_location.pot\n"
 "X-Crowdin-File-ID: 6404\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-10-20 16:00\n"
+"PO-Revision-Date: 2023-01-06 14:40\n"
 
 #. module: stock_move_location
 #: model:ir.model.fields,field_description:stock_move_location.field_wiz_stock_move_location__apply_putaway_strategy
@@ -232,12 +232,12 @@ msgstr "Ist diese Bewegung Teil der Lagerortbewegungen"
 #. module: stock_move_location
 #: model:ir.model,name:stock_move_location.model_wiz_stock_move_location
 msgid "Wizard move location"
-msgstr ""
+msgstr "Dialog für Lagerbewegung"
 
 #. module: stock_move_location
 #: model:ir.model,name:stock_move_location.model_wiz_stock_move_location_line
 msgid "Wizard move location line"
-msgstr ""
+msgstr "Dialog für Lagerbewegungsposition"
 
 #. module: stock_move_location
 #: model:ir.model.fields,help:stock_move_location.field_wiz_stock_move_location__destination_location_disable
