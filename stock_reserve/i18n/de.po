@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_reserve/i18n/stock_reserve.pot\n"
 "X-Crowdin-File-ID: 8986\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-01-05 12:44\n"
+"PO-Revision-Date: 2023-02-09 15:34\n"
 
 #. module: stock_reserve
 #: model:ir.model.fields,field_description:stock_reserve.field_product_product__reservation_count
@@ -484,7 +484,7 @@ msgstr ""
 #. module: stock_reserve
 #: model:ir.model.fields,field_description:stock_reserve.field_stock_reservation__priority
 msgid "Priority"
-msgstr "Priorität"
+msgstr "Mahnstufe"
 
 #. module: stock_reserve
 #: model:ir.model.fields,field_description:stock_reserve.field_stock_reservation__group_id
@@ -783,7 +783,7 @@ msgstr ""
 #. module: stock_reserve
 #: model:ir.model.fields,help:stock_reserve.field_stock_reservation__product_uom_qty
 msgid "This is the quantity of products from an inventory point of view. For moves in the state 'done', this is the quantity of products that were actually moved. For other moves, this is the quantity of product that is planned to be moved. Lowering this quantity does not generate a backorder. Changing this quantity on assigned moves affects the product reservation, and should be done with care."
-msgstr "Dies ist die Menge der Produkte aus Sicht des Inventars. Bei Warenbewegungen im Zustand \"erledigt\" ist dies die Menge der tatsächlich bewegten Produkte. Bei anderen Umlagerungen handelt es sich um die Menge der Produkte, die für die Umlagerung vorgesehen ist. Eine Verringerung dieser Menge führt nicht zu einem Rückstand. Eine Änderung dieser Menge bei zugewiesenen Transporten wirkt sich auf die Produktreservierung aus und sollte daher mit Vorsicht vorgenommen werden."
+msgstr "Dies ist die Menge der Produkte aus Sicht des Inventars. Bei Warenbewegungen im Zustand \"erledigt\" ist dies die Menge der tatsächlichen Bewegungen. Bei anderen Umlagerungen handelt es sich um die Menge der Produkte, die für die Umlagerung vorgesehen ist. Eine Verringerung dieser Menge führt nicht zu einem Rückstand. Eine Änderung dieser Menge bei zugewiesenen Transporten wirkt sich auf die Produktreservierung aus und sollte daher mit Vorsicht vorgenommen werden."
 
 #. module: stock_reserve
 #: model_terms:ir.actions.act_window,help:stock_reserve.action_stock_reservation_tree
