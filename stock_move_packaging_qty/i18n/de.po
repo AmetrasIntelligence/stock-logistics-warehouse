@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_move_packaging_qty/i18n/stock_move_packaging_qty.pot\n"
 "X-Crowdin-File-ID: 8992\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-11-17 11:31\n"
+"PO-Revision-Date: 2023-02-16 08:39\n"
 
 #. module: stock_move_packaging_qty
 #: model:ir.model.fields,field_description:stock_move_packaging_qty.field_stock_move__product_packaging
@@ -30,7 +30,7 @@ msgstr "Paketmenge"
 #: code:addons/stock_move_packaging_qty/models/stock_move.py:0
 #, python-format
 msgid "Please select a packaging with a quantity bigger than 0"
-msgstr ""
+msgstr "Bitte wählen Sie eine Verpackung mit der Menge größer als 0"
 
 #. module: stock_move_packaging_qty
 #: model:ir.model,name:stock_move_packaging_qty.model_stock_move
