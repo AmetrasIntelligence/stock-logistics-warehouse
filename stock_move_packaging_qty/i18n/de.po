@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_move_packaging_qty/i18n/stock_move_packaging_qty.pot\n"
 "X-Crowdin-File-ID: 8992\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-02-16 08:39\n"
+"PO-Revision-Date: 2023-02-16 10:37\n"
 
 #. module: stock_move_packaging_qty
 #: model:ir.model.fields,field_description:stock_move_packaging_qty.field_stock_move__product_packaging
@@ -53,5 +53,5 @@ msgstr "Warnung"
 #: code:addons/stock_move_packaging_qty/models/stock_move.py:0
 #, python-format
 msgid "You must define a package before setting a quantity of said package."
-msgstr ""
+msgstr "Sie müssen ein Paket definieren, bevor Sie eine Paketmenge festlegen."
 
