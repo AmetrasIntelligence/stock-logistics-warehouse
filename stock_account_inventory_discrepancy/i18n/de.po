@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_account_inventory_discrepancy/i18n/stock_account_inventory_discrepancy.pot\n"
 "X-Crowdin-File-ID: 9014\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-10-20 16:02\n"
+"PO-Revision-Date: 2023-02-23 08:28\n"
 
 #. module: stock_account_inventory_discrepancy
 #: model:ir.model.fields,field_description:stock_account_inventory_discrepancy.field_stock_inventory_line__discrepancy_amount
@@ -79,7 +79,7 @@ msgstr ""
 #. module: stock_account_inventory_discrepancy
 #: model:ir.model.fields,help:stock_account_inventory_discrepancy.field_stock_inventory_line__discrepancy_amount
 msgid "The difference between the actual qty counted and the theoretical quantity on hand expressed in the cost amount."
-msgstr ""
+msgstr "Die Differenz zwischen der tatsächlichen, gezählten Menge und der theoretischen Menge, die auf Lager sein müsste, im Kostenbetrag dargestellt."
 
 #. module: stock_account_inventory_discrepancy
 #: model:ir.model,name:stock_account_inventory_discrepancy.model_stock_warehouse
