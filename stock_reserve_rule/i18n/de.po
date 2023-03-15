@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_reserve_rule/i18n/stock_reserve_rule.pot\n"
 "X-Crowdin-File-ID: 6584\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-12-14 15:04\n"
+"PO-Revision-Date: 2023-03-15 11:15\n"
 
 #. module: stock_reserve_rule
 #: model:ir.model.fields,field_description:stock_reserve_rule.field_stock_reserve_rule__active
@@ -34,7 +34,7 @@ msgstr ""
 #. module: stock_reserve_rule
 #: model:ir.model.fields,help:stock_reserve_rule.field_stock_reserve_rule__picking_type_ids
 msgid "Apply this rule only if the operation type of the move is the same."
-msgstr ""
+msgstr "Wende diese Regel nur an, wenn der Vorgangstyp auf der Bewegung derselbe ist."
 
 #. module: stock_reserve_rule
 #: model_terms:ir.ui.view,arch_db:stock_reserve_rule.view_stock_reserve_rule_form
