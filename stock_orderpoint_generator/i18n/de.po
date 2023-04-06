@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_orderpoint_generator/i18n/stock_orderpoint_generator.pot\n"
 "X-Crowdin-File-ID: 6414\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-10-07 06:54\n"
+"PO-Revision-Date: 2023-04-06 13:00\n"
 
 #. module: stock_orderpoint_generator
 #: model:ir.model.fields,help:stock_orderpoint_generator.field_stock_warehouse_orderpoint_template__auto_product_ids
@@ -159,7 +159,7 @@ msgstr "Standardmaßeinheit für alle Lagervorgänge."
 #: model:ir.model.fields.selection,name:stock_orderpoint_generator.selection__stock_warehouse_orderpoint_template__auto_max_qty_criteria__delivered
 #: model:ir.model.fields.selection,name:stock_orderpoint_generator.selection__stock_warehouse_orderpoint_template__auto_min_qty_criteria__delivered
 msgid "Delivered"
-msgstr ""
+msgstr "Ausgeliefert"
 
 #. module: stock_orderpoint_generator
 #: model:ir.model.fields,field_description:stock_orderpoint_generator.field_stock_warehouse_orderpoint_generator__display_name
