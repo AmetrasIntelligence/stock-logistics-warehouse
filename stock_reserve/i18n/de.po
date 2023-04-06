@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_reserve/i18n/stock_reserve.pot\n"
 "X-Crowdin-File-ID: 8986\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-02-20 11:15\n"
+"PO-Revision-Date: 2023-04-06 14:10\n"
 
 #. module: stock_reserve
 #: model:ir.model.fields,field_description:stock_reserve.field_product_product__reservation_count
@@ -88,7 +88,7 @@ msgstr ""
 #. module: stock_reserve
 #: model:ir.model.fields,help:stock_reserve.field_stock_reservation__procure_method
 msgid "By default, the system will take from the stock in the source location and passively wait for availability. The other possibility allows you to directly create a procurement on the source location (and thus ignore its current stock) to gather products. If we want to chain moves and have this one to wait for the previous, this second option should be chosen."
-msgstr ""
+msgstr "Standardmäßig entnimmt das System die Produkte aus dem Bestand des Quellortes und wartet passiv auf die Verfügbarkeit. Die andere Möglichkeit erlaubt es Ihnen, direkt eine Beschaffung am Quellort zu erstellen (und somit den aktuellen Bestand zu ignorieren), um Produkte zu sammeln. Wenn wir Moves verketten und diesen einen auf den vorherigen warten lassen wollen, sollte die zweite Option gewählt werden."
 
 #. module: stock_reserve
 #: model:ir.model.fields,help:stock_reserve.field_stock_reservation__byproduct_id
@@ -454,7 +454,7 @@ msgstr ""
 #. module: stock_reserve
 #: model:ir.model.fields,field_description:stock_reserve.field_stock_reservation__product_packaging
 msgid "Package"
-msgstr "Paket"
+msgstr "Verpackung"
 
 #. module: stock_reserve
 #: model:ir.model.fields,field_description:stock_reserve.field_stock_reservation__package_level_id
