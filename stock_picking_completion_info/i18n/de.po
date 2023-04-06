@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_picking_completion_info/i18n/stock_picking_completion_info.pot\n"
 "X-Crowdin-File-ID: 6472\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-10-07 05:52\n"
+"PO-Revision-Date: 2023-04-06 14:10\n"
 
 #. module: stock_picking_completion_info
 #: model:ir.model.fields,field_description:stock_picking_completion_info.field_stock_picking__completion_info
@@ -39,12 +39,12 @@ msgstr ""
 #. module: stock_picking_completion_info
 #: model:ir.model.fields.selection,name:stock_picking_completion_info.selection__stock_picking__completion_info__last_picking
 msgid "Last picking: Completion of this operation allows next operations to be processed."
-msgstr ""
+msgstr "Letzte Kommissionierung: Nach Beendigung dieses Vorgangs können die nächsten Vorgänge bearbeitet werden."
 
 #. module: stock_picking_completion_info
 #: model:ir.model.fields.selection,name:stock_picking_completion_info.selection__stock_picking__completion_info__next_picking_ready
 msgid "Next operations are ready to be processed."
-msgstr ""
+msgstr "Die nächsten Vorgänge stehen zur Bearbeitung bereit."
 
 #. module: stock_picking_completion_info
 #: model:ir.model.fields.selection,name:stock_picking_completion_info.selection__stock_picking__completion_info__no
