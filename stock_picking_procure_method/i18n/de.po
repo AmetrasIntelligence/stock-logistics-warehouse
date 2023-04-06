@@ -14,12 +14,12 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_picking_procure_method/i18n/stock_picking_procure_method.pot\n"
 "X-Crowdin-File-ID: 6504\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-10-07 05:52\n"
+"PO-Revision-Date: 2023-04-06 14:10\n"
 
 #. module: stock_picking_procure_method
 #: model:ir.model.fields,help:stock_picking_procure_method.field_stock_picking__procure_method
 msgid "By default, the system will take from the stock in the source location and passively wait for availability. The other possibility allows you to directly create a procurement on the source location (and thus ignore its current stock) to gather products. If we want to chain moves and have this one to wait for the previous, this second option should be chosen."
-msgstr ""
+msgstr "Standardmäßig entnimmt das System die Produkte aus dem Bestand des Quellortes und wartet passiv auf die Verfügbarkeit. Die andere Möglichkeit erlaubt es Ihnen, direkt eine Beschaffung am Quellort zu erstellen (und somit den aktuellen Bestand zu ignorieren), um Produkte zu sammeln. Wenn wir Moves verketten und diesen einen auf den vorherigen warten lassen wollen, sollte die zweite Option gewählt werden."
 
 #. module: stock_picking_procure_method
 #: model:ir.model.fields,field_description:stock_picking_procure_method.field_stock_picking__procure_method
