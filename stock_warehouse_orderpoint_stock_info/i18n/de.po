@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_warehouse_orderpoint_stock_info/i18n/stock_warehouse_orderpoint_stock_info.pot\n"
 "X-Crowdin-File-ID: 6606\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 22:09\n"
+"PO-Revision-Date: 2023-05-15 15:31\n"
 
 #. module: stock_warehouse_orderpoint_stock_info
 #: model:ir.model.fields,field_description:stock_warehouse_orderpoint_stock_info.field_stock_warehouse_orderpoint__virtual_location_qty
@@ -61,5 +61,5 @@ msgstr ""
 #: model:ir.model.fields,help:stock_warehouse_orderpoint_stock_info.field_stock_warehouse_orderpoint__product_category
 #: model:ir.model.fields,help:stock_warehouse_orderpoint_stock_info.field_stock_warehouse_orderpoint_template__product_category
 msgid "Select category for the current product"
-msgstr ""
+msgstr "Produktkategorie des aktuellen Produkts"
 
