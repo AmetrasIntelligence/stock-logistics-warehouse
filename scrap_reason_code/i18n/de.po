@@ -14,52 +14,52 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/scrap_reason_code/i18n/scrap_reason_code.pot\n"
 "X-Crowdin-File-ID: 6124\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-07 00:08\n"
+"PO-Revision-Date: 2023-08-02 09:51\n"
 
 #. module: scrap_reason_code
 #: model:ir.model.fields,field_description:scrap_reason_code.field_scrap_reason_code__name
 msgid "Code"
-msgstr "Code"
+msgstr ""
 
 #. module: scrap_reason_code
 #: model:ir.model.fields,field_description:scrap_reason_code.field_scrap_reason_code__create_uid
 msgid "Created by"
-msgstr "Erstellt von"
+msgstr ""
 
 #. module: scrap_reason_code
 #: model:ir.model.fields,field_description:scrap_reason_code.field_scrap_reason_code__create_date
 msgid "Created on"
-msgstr "Erstellt am"
+msgstr ""
 
 #. module: scrap_reason_code
 #: model:ir.model.fields,field_description:scrap_reason_code.field_scrap_reason_code__description
 msgid "Description"
-msgstr "Produktbeschreibung"
+msgstr ""
 
 #. module: scrap_reason_code
 #: model:ir.model.fields,field_description:scrap_reason_code.field_scrap_reason_code__display_name
 msgid "Display Name"
-msgstr "Anzeigename"
+msgstr ""
 
 #. module: scrap_reason_code
 #: model:ir.model.fields,field_description:scrap_reason_code.field_scrap_reason_code__id
 msgid "ID"
-msgstr "ID"
+msgstr ""
 
 #. module: scrap_reason_code
 #: model:ir.model.fields,field_description:scrap_reason_code.field_scrap_reason_code____last_update
 msgid "Last Modified on"
-msgstr "Zuletzt geändert am"
+msgstr ""
 
 #. module: scrap_reason_code
 #: model:ir.model.fields,field_description:scrap_reason_code.field_scrap_reason_code__write_uid
 msgid "Last Updated by"
-msgstr "Zuletzt aktualisiert von"
+msgstr ""
 
 #. module: scrap_reason_code
 #: model:ir.model.fields,field_description:scrap_reason_code.field_scrap_reason_code__write_date
 msgid "Last Updated on"
-msgstr "Zuletzt aktualisiert am"
+msgstr ""
 
 #. module: scrap_reason_code
 #: model:ir.model,name:scrap_reason_code.model_scrap_reason_code
@@ -99,5 +99,5 @@ msgstr ""
 #. module: scrap_reason_code
 #: model:ir.model,name:scrap_reason_code.model_stock_move
 msgid "Stock Move"
-msgstr "Lagerbuchungen"
+msgstr ""
 
