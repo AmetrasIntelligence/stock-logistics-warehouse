@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_account_change_qty_reason/i18n/stock_account_change_qty_reason.pot\n"
 "X-Crowdin-File-ID: 6126\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-08-06 22:08\n"
+"PO-Revision-Date: 2023-08-02 09:50\n"
 
 #. module: stock_account_change_qty_reason
 #: model:ir.model.fields,field_description:stock_account_change_qty_reason.field_stock_inventory_line_reason__account_reason_input_id
@@ -34,7 +34,7 @@ msgstr ""
 #. module: stock_account_change_qty_reason
 #: model:ir.model,name:stock_account_change_qty_reason.model_stock_move
 msgid "Stock Move"
-msgstr "Mouvement du stock"
+msgstr ""
 
 #. module: stock_account_change_qty_reason
 #: model:ir.model.fields,help:stock_account_change_qty_reason.field_stock_inventory_line_reason__account_reason_output_id
