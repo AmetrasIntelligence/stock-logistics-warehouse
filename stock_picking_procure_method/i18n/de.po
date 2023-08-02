@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_picking_procure_method/i18n/stock_picking_procure_method.pot\n"
 "X-Crowdin-File-ID: 6504\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-04-06 14:10\n"
+"PO-Revision-Date: 2023-08-02 09:52\n"
 
 #. module: stock_picking_procure_method
 #: model:ir.model.fields,help:stock_picking_procure_method.field_stock_picking__procure_method
@@ -24,10 +24,10 @@ msgstr "Standardmäßig entnimmt das System die Produkte aus dem Bestand des Que
 #. module: stock_picking_procure_method
 #: model:ir.model.fields,field_description:stock_picking_procure_method.field_stock_picking__procure_method
 msgid "Supply Method"
-msgstr "Liefermethode"
+msgstr ""
 
 #. module: stock_picking_procure_method
 #: model:ir.model,name:stock_picking_procure_method.model_stock_picking
 msgid "Transfer"
-msgstr "Transfer"
+msgstr ""
 
