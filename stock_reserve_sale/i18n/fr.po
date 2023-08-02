@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_reserve_sale/i18n/stock_reserve_sale.pot\n"
 "X-Crowdin-File-ID: 9000\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-10-20 16:02\n"
+"PO-Revision-Date: 2023-08-02 09:50\n"
 
 #. module: stock_reserve_sale
 #: code:addons/stock_reserve_sale/model/sale.py:0
@@ -60,7 +60,7 @@ msgstr ""
 #. module: stock_reserve_sale
 #: model_terms:ir.ui.view,arch_db:stock_reserve_sale.view_sale_stock_reserve_form
 msgid "Cancel"
-msgstr "Annuler"
+msgstr ""
 
 #. module: stock_reserve_sale
 #: model_terms:ir.ui.view,arch_db:stock_reserve_sale.view_order_form_reserve
@@ -70,17 +70,17 @@ msgstr ""
 #. module: stock_reserve_sale
 #: model:ir.model.fields,field_description:stock_reserve_sale.field_sale_stock_reserve__create_uid
 msgid "Created by"
-msgstr "Créé par"
+msgstr ""
 
 #. module: stock_reserve_sale
 #: model:ir.model.fields,field_description:stock_reserve_sale.field_sale_stock_reserve__create_date
 msgid "Created on"
-msgstr "Créé le"
+msgstr ""
 
 #. module: stock_reserve_sale
 #: model:ir.model.fields,field_description:stock_reserve_sale.field_sale_stock_reserve__display_name
 msgid "Display Name"
-msgstr "Nom d'affichage"
+msgstr ""
 
 #. module: stock_reserve_sale
 #: code:addons/stock_reserve_sale/model/sale.py:0
@@ -112,17 +112,17 @@ msgstr ""
 #. module: stock_reserve_sale
 #: model:ir.model.fields,field_description:stock_reserve_sale.field_sale_stock_reserve____last_update
 msgid "Last Modified on"
-msgstr "Dernière modification le"
+msgstr ""
 
 #. module: stock_reserve_sale
 #: model:ir.model.fields,field_description:stock_reserve_sale.field_sale_stock_reserve__write_uid
 msgid "Last Updated by"
-msgstr "Dernière mise à jour par"
+msgstr ""
 
 #. module: stock_reserve_sale
 #: model:ir.model.fields,field_description:stock_reserve_sale.field_sale_stock_reserve__write_date
 msgid "Last Updated on"
-msgstr "Dernière mise à jour le"
+msgstr ""
 
 #. module: stock_reserve_sale
 #: model:ir.model.fields,help:stock_reserve_sale.field_sale_stock_reserve__location_dest_id
@@ -133,7 +133,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_reserve_sale.field_sale_stock_reserve__note
 #: model_terms:ir.ui.view,arch_db:stock_reserve_sale.view_sale_stock_reserve_form
 msgid "Notes"
-msgstr "Remarques"
+msgstr ""
 
 #. module: stock_reserve_sale
 #: model_terms:ir.ui.view,arch_db:stock_reserve_sale.view_order_form_reserve
@@ -169,7 +169,7 @@ msgstr ""
 #. module: stock_reserve_sale
 #: model:ir.model.fields,field_description:stock_reserve_sale.field_stock_reservation__sale_id
 msgid "Sale Order"
-msgstr "Ordre de vente"
+msgstr ""
 
 #. module: stock_reserve_sale
 #: code:addons/stock_reserve_sale/model/sale.py:0
@@ -198,17 +198,17 @@ msgstr ""
 #. module: stock_reserve_sale
 #: model_terms:ir.ui.view,arch_db:stock_reserve_sale.view_stock_reservation_form
 msgid "Sales"
-msgstr "Ventes"
+msgstr ""
 
 #. module: stock_reserve_sale
 #: model:ir.model,name:stock_reserve_sale.model_sale_order
 msgid "Sales Order"
-msgstr "Bon de commande"
+msgstr ""
 
 #. module: stock_reserve_sale
 #: model:ir.model,name:stock_reserve_sale.model_sale_order_line
 msgid "Sales Order Line"
-msgstr "Ligne de commande client"
+msgstr ""
 
 #. module: stock_reserve_sale
 #: code:addons/stock_reserve_sale/model/sale.py:0
@@ -219,7 +219,7 @@ msgstr ""
 #. module: stock_reserve_sale
 #: model:ir.model.fields,field_description:stock_reserve_sale.field_sale_stock_reserve__location_id
 msgid "Source Location"
-msgstr "Emplacement de la source"
+msgstr ""
 
 #. module: stock_reserve_sale
 #: model:ir.model.fields,field_description:stock_reserve_sale.field_sale_stock_reserve__owner_id
@@ -253,5 +253,5 @@ msgstr ""
 #. module: stock_reserve_sale
 #: model_terms:ir.ui.view,arch_db:stock_reserve_sale.view_sale_stock_reserve_form
 msgid "or"
-msgstr "ou"
+msgstr ""
 
