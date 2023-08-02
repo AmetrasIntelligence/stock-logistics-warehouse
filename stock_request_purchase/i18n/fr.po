@@ -14,23 +14,23 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_request_purchase/i18n/stock_request_purchase.pot\n"
 "X-Crowdin-File-ID: 6568\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-08-06 22:09\n"
+"PO-Revision-Date: 2023-08-02 09:50\n"
 
 #. module: stock_request_purchase
 #: model_terms:ir.ui.view,arch_db:stock_request_purchase.stock_request_order_form
 #: model_terms:ir.ui.view,arch_db:stock_request_purchase.view_stock_request_form
 msgid "Purchase"
-msgstr "Acheter"
+msgstr ""
 
 #. module: stock_request_purchase
 #: model:ir.model,name:stock_request_purchase.model_purchase_order
 msgid "Purchase Order"
-msgstr "Bon de commande"
+msgstr ""
 
 #. module: stock_request_purchase
 #: model:ir.model,name:stock_request_purchase.model_purchase_order_line
 msgid "Purchase Order Line"
-msgstr "Ligne de bon de commande"
+msgstr ""
 
 #. module: stock_request_purchase
 #: model:ir.model.fields,field_description:stock_request_purchase.field_stock_request__purchase_line_ids
@@ -76,7 +76,7 @@ msgstr ""
 #. module: stock_request_purchase
 #: model:ir.model,name:stock_request_purchase.model_stock_rule
 msgid "Stock Rule"
-msgstr "Règle de stock"
+msgstr ""
 
 #. module: stock_request_purchase
 #: code:addons/stock_request_purchase/models/purchase_order_line.py:0
