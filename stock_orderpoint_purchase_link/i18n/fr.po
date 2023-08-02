@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_orderpoint_purchase_link/i18n/stock_orderpoint_purchase_link.pot\n"
 "X-Crowdin-File-ID: 6430\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-10-20 16:01\n"
+"PO-Revision-Date: 2023-08-02 09:51\n"
 
 #. module: stock_orderpoint_purchase_link
 #: code:addons/stock_orderpoint_purchase_link/models/stock_warehouse_orderpoint.py:0
@@ -25,7 +25,7 @@ msgstr ""
 #. module: stock_orderpoint_purchase_link
 #: model:ir.model,name:stock_orderpoint_purchase_link.model_stock_warehouse_orderpoint
 msgid "Minimum Inventory Rule"
-msgstr "Règle d'inventaire minimum"
+msgstr ""
 
 #. module: stock_orderpoint_purchase_link
 #: model:ir.model.fields,field_description:stock_orderpoint_purchase_link.field_purchase_order_line__orderpoint_ids
@@ -43,7 +43,7 @@ msgstr ""
 #. module: stock_orderpoint_purchase_link
 #: model:ir.model,name:stock_orderpoint_purchase_link.model_purchase_order_line
 msgid "Purchase Order Line"
-msgstr "Ligne de bon de commande"
+msgstr ""
 
 #. module: stock_orderpoint_purchase_link
 #: model:ir.model.fields,field_description:stock_orderpoint_purchase_link.field_stock_warehouse_orderpoint__purchase_line_ids
@@ -59,5 +59,5 @@ msgstr ""
 #. module: stock_orderpoint_purchase_link
 #: model:ir.model,name:stock_orderpoint_purchase_link.model_stock_rule
 msgid "Stock Rule"
-msgstr "Règle de stock"
+msgstr ""
 
