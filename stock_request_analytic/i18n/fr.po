@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_request_analytic/i18n/stock_request_analytic.pot\n"
 "X-Crowdin-File-ID: 6538\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-08-06 22:09\n"
+"PO-Revision-Date: 2023-08-02 09:51\n"
 
 #. module: stock_request_analytic
 #: model:ir.model,name:stock_request_analytic.model_account_analytic_account
@@ -43,7 +43,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_request_analytic.field_stock_request_order__analytic_tag_ids
 #: model_terms:ir.ui.view,arch_db:stock_request_analytic.stock_request_order_form
 msgid "Analytic Tags"
-msgstr "Étiquettes analytiques"
+msgstr ""
 
 #. module: stock_request_analytic
 #: code:addons/stock_request_analytic/models/stock_request_order.py:0
@@ -70,5 +70,5 @@ msgstr ""
 #. module: stock_request_analytic
 #: model:ir.model,name:stock_request_analytic.model_stock_rule
 msgid "Stock Rule"
-msgstr "Règle de stock"
+msgstr ""
 
