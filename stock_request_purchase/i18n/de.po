@@ -14,35 +14,35 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_request_purchase/i18n/stock_request_purchase.pot\n"
 "X-Crowdin-File-ID: 6568\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-10-26 08:52\n"
+"PO-Revision-Date: 2023-08-02 09:50\n"
 
 #. module: stock_request_purchase
 #: model_terms:ir.ui.view,arch_db:stock_request_purchase.stock_request_order_form
 #: model_terms:ir.ui.view,arch_db:stock_request_purchase.view_stock_request_form
 msgid "Purchase"
-msgstr "Einkauf"
+msgstr ""
 
 #. module: stock_request_purchase
 #: model:ir.model,name:stock_request_purchase.model_purchase_order
 msgid "Purchase Order"
-msgstr "Bestellung"
+msgstr ""
 
 #. module: stock_request_purchase
 #: model:ir.model,name:stock_request_purchase.model_purchase_order_line
 msgid "Purchase Order Line"
-msgstr "Angebotsanfragen Position"
+msgstr ""
 
 #. module: stock_request_purchase
 #: model:ir.model.fields,field_description:stock_request_purchase.field_stock_request__purchase_line_ids
 #: model:ir.model.fields,field_description:stock_request_purchase.field_stock_request_order__purchase_line_ids
 msgid "Purchase Order Lines"
-msgstr "Bestellungszeilen"
+msgstr ""
 
 #. module: stock_request_purchase
 #: model:ir.model.fields,field_description:stock_request_purchase.field_stock_request__purchase_ids
 #: model:ir.model.fields,field_description:stock_request_purchase.field_stock_request_order__purchase_ids
 msgid "Purchase Orders"
-msgstr "Bestellungen"
+msgstr ""
 
 #. module: stock_request_purchase
 #: model:ir.model.fields,field_description:stock_request_purchase.field_stock_request__purchase_count
@@ -53,17 +53,17 @@ msgstr "Bestellhäufigkeit"
 #. module: stock_request_purchase
 #: model:ir.model,name:stock_request_purchase.model_stock_request
 msgid "Stock Request"
-msgstr "Bestandsanforderung"
+msgstr ""
 
 #. module: stock_request_purchase
 #: model:ir.model.fields,field_description:stock_request_purchase.field_purchase_order__stock_request_count
 msgid "Stock Request #"
-msgstr "Bestandsanforderung Nr."
+msgstr ""
 
 #. module: stock_request_purchase
 #: model:ir.model,name:stock_request_purchase.model_stock_request_order
 msgid "Stock Request Order"
-msgstr "Bestandsanforderungsauftrag"
+msgstr ""
 
 #. module: stock_request_purchase
 #: model:ir.model.fields,field_description:stock_request_purchase.field_purchase_order__stock_request_ids
@@ -71,12 +71,12 @@ msgstr "Bestandsanforderungsauftrag"
 #: model_terms:ir.ui.view,arch_db:stock_request_purchase.purchase_order_form
 #: model_terms:ir.ui.view,arch_db:stock_request_purchase.purchase_order_line_form2
 msgid "Stock Requests"
-msgstr "Bestandsanforderungen"
+msgstr ""
 
 #. module: stock_request_purchase
 #: model:ir.model,name:stock_request_purchase.model_stock_rule
 msgid "Stock Rule"
-msgstr "Lagerbestandsregel"
+msgstr ""
 
 #. module: stock_request_purchase
 #: code:addons/stock_request_purchase/models/purchase_order_line.py:0
