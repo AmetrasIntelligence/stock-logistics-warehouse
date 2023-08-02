@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_request_mrp/i18n/stock_request_mrp.pot\n"
 "X-Crowdin-File-ID: 6554\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-08-06 22:09\n"
+"PO-Revision-Date: 2023-08-02 09:51\n"
 
 #. module: stock_request_mrp
 #: model_terms:ir.ui.view,arch_db:stock_request_mrp.stock_request_order_form
@@ -63,7 +63,7 @@ msgstr ""
 #. module: stock_request_mrp
 #: model:ir.model,name:stock_request_mrp.model_stock_rule
 msgid "Stock Rule"
-msgstr "Règle de stock"
+msgstr ""
 
 #. module: stock_request_mrp
 #: code:addons/stock_request_mrp/models/stock_request.py:0
