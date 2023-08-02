@@ -14,12 +14,12 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_mts_mto_rule/i18n/stock_mts_mto_rule.pot\n"
 "X-Crowdin-File-ID: 6408\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-08-06 22:08\n"
+"PO-Revision-Date: 2023-08-02 09:51\n"
 
 #. module: stock_mts_mto_rule
 #: model:ir.model.fields,field_description:stock_mts_mto_rule.field_stock_rule__action
 msgid "Action"
-msgstr "action"
+msgstr ""
 
 #. module: stock_mts_mto_rule
 #: model:ir.model.fields.selection,name:stock_mts_mto_rule.selection__stock_rule__action__split_procurement
@@ -74,7 +74,7 @@ msgstr ""
 #. module: stock_mts_mto_rule
 #: model:ir.model,name:stock_mts_mto_rule.model_stock_rule
 msgid "Stock Rule"
-msgstr "Règle de stock"
+msgstr ""
 
 #. module: stock_mts_mto_rule
 #: model:ir.model.fields,field_description:stock_mts_mto_rule.field_stock_warehouse__mto_mts_management
@@ -84,5 +84,5 @@ msgstr ""
 #. module: stock_mts_mto_rule
 #: model:ir.model,name:stock_mts_mto_rule.model_stock_warehouse
 msgid "Warehouse"
-msgstr "Dépot"
+msgstr ""
 
