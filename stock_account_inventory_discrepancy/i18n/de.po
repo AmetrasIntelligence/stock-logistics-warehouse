@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_account_inventory_discrepancy/i18n/stock_account_inventory_discrepancy.pot\n"
 "X-Crowdin-File-ID: 9014\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-02-23 08:28\n"
+"PO-Revision-Date: 2023-08-02 09:52\n"
 
 #. module: stock_account_inventory_discrepancy
 #: model:ir.model.fields,field_description:stock_account_inventory_discrepancy.field_stock_inventory_line__discrepancy_amount
@@ -35,17 +35,17 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_account_inventory_discrepancy.field_stock_location__discrepancy_amount_threshold_currency_id
 #: model:ir.model.fields,field_description:stock_account_inventory_discrepancy.field_stock_warehouse__discrepancy_amount_threshold_currency_id
 msgid "Currency"
-msgstr "Währung"
+msgstr ""
 
 #. module: stock_account_inventory_discrepancy
 #: model:ir.model,name:stock_account_inventory_discrepancy.model_stock_inventory_line
 msgid "Inventory Line"
-msgstr "Inventurzeile"
+msgstr ""
 
 #. module: stock_account_inventory_discrepancy
 #: model:ir.model,name:stock_account_inventory_discrepancy.model_stock_location
 msgid "Inventory Locations"
-msgstr "Lagerstandorte"
+msgstr ""
 
 #. module: stock_account_inventory_discrepancy
 #: model:ir.model.fields,field_description:stock_account_inventory_discrepancy.field_stock_location__discrepancy_amount_threshold
@@ -67,7 +67,7 @@ msgstr ""
 #. module: stock_account_inventory_discrepancy
 #: model:ir.model,name:stock_account_inventory_discrepancy.model_stock_quant
 msgid "Quants"
-msgstr "Mengen"
+msgstr ""
 
 #. module: stock_account_inventory_discrepancy
 #: code:addons/stock_account_inventory_discrepancy/models/stock_quant.py:0
@@ -84,5 +84,5 @@ msgstr "Die Differenz zwischen der tatsächlichen, gezählten Menge und der theo
 #. module: stock_account_inventory_discrepancy
 #: model:ir.model,name:stock_account_inventory_discrepancy.model_stock_warehouse
 msgid "Warehouse"
-msgstr "Lager"
+msgstr ""
 
