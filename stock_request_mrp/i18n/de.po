@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_request_mrp/i18n/stock_request_mrp.pot\n"
 "X-Crowdin-File-ID: 6554\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 22:09\n"
+"PO-Revision-Date: 2023-08-02 09:52\n"
 
 #. module: stock_request_mrp
 #: model_terms:ir.ui.view,arch_db:stock_request_mrp.stock_request_order_form
@@ -26,7 +26,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_request_mrp.field_stock_request__production_ids
 #: model:ir.model.fields,field_description:stock_request_mrp.field_stock_request_order__production_ids
 msgid "Manufacturing Orders"
-msgstr "Produktionsaufträge"
+msgstr ""
 
 #. module: stock_request_mrp
 #: model:ir.model.fields,field_description:stock_request_mrp.field_stock_request__production_count
@@ -37,33 +37,33 @@ msgstr ""
 #. module: stock_request_mrp
 #: model:ir.model,name:stock_request_mrp.model_mrp_production
 msgid "Production Order"
-msgstr "Produktionsauftrag"
+msgstr ""
 
 #. module: stock_request_mrp
 #: model:ir.model,name:stock_request_mrp.model_stock_request
 msgid "Stock Request"
-msgstr "Bestandsanforderung"
+msgstr ""
 
 #. module: stock_request_mrp
 #: model:ir.model.fields,field_description:stock_request_mrp.field_mrp_production__stock_request_count
 msgid "Stock Request #"
-msgstr "Bestandsanforderung Nr."
+msgstr ""
 
 #. module: stock_request_mrp
 #: model:ir.model,name:stock_request_mrp.model_stock_request_order
 msgid "Stock Request Order"
-msgstr "Bestandsanforderungsauftrag"
+msgstr ""
 
 #. module: stock_request_mrp
 #: model:ir.model.fields,field_description:stock_request_mrp.field_mrp_production__stock_request_ids
 #: model_terms:ir.ui.view,arch_db:stock_request_mrp.mrp_production_form_view
 msgid "Stock Requests"
-msgstr "Bestandsanforderungen"
+msgstr ""
 
 #. module: stock_request_mrp
 #: model:ir.model,name:stock_request_mrp.model_stock_rule
 msgid "Stock Rule"
-msgstr "Lagerbestandsregel"
+msgstr ""
 
 #. module: stock_request_mrp
 #: code:addons/stock_request_mrp/models/stock_request.py:0
