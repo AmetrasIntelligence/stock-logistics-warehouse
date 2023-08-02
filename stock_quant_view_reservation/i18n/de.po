@@ -14,10 +14,10 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_quant_view_reservation/i18n/stock_quant_view_reservation.pot\n"
 "X-Crowdin-File-ID: 9020\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-10-20 16:02\n"
+"PO-Revision-Date: 2023-08-02 09:52\n"
 
 #. module: stock_quant_view_reservation
 #: model:ir.model,name:stock_quant_view_reservation.model_stock_quant
 msgid "Quants"
-msgstr "Mengen"
+msgstr ""
 
