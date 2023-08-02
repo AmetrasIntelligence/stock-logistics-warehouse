@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_measuring_device/i18n/stock_measuring_device.pot\n"
 "X-Crowdin-File-ID: 6386\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-08-06 23:13\n"
+"PO-Revision-Date: 2023-08-02 09:50\n"
 
 #. module: stock_measuring_device
 #: model:ir.model.fields,field_description:stock_measuring_device.field_measuring_wizard___barcode_scanned
@@ -29,21 +29,21 @@ msgstr ""
 #. module: stock_measuring_device
 #: model_terms:ir.ui.view,arch_db:stock_measuring_device.view_measuring_wizard
 msgid "Close"
-msgstr "Fermer"
+msgstr ""
 
 #. module: stock_measuring_device
 #: model:ir.model.fields,field_description:stock_measuring_device.field_measuring_device__create_uid
 #: model:ir.model.fields,field_description:stock_measuring_device.field_measuring_wizard__create_uid
 #: model:ir.model.fields,field_description:stock_measuring_device.field_measuring_wizard_line__create_uid
 msgid "Created by"
-msgstr "Créé par"
+msgstr ""
 
 #. module: stock_measuring_device
 #: model:ir.model.fields,field_description:stock_measuring_device.field_measuring_device__create_date
 #: model:ir.model.fields,field_description:stock_measuring_device.field_measuring_wizard__create_date
 #: model:ir.model.fields,field_description:stock_measuring_device.field_measuring_wizard_line__create_date
 msgid "Created on"
-msgstr "Créé le"
+msgstr ""
 
 #. module: stock_measuring_device
 #: model:ir.model.fields,field_description:stock_measuring_device.field_measuring_wizard__device_id
@@ -60,7 +60,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_measuring_device.field_measuring_wizard__display_name
 #: model:ir.model.fields,field_description:stock_measuring_device.field_measuring_wizard_line__display_name
 msgid "Display Name"
-msgstr "Nom d'affichage"
+msgstr ""
 
 #. module: stock_measuring_device
 #: model_terms:ir.ui.view,arch_db:stock_measuring_device.view_measuring_wizard
@@ -99,21 +99,21 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_measuring_device.field_measuring_wizard____last_update
 #: model:ir.model.fields,field_description:stock_measuring_device.field_measuring_wizard_line____last_update
 msgid "Last Modified on"
-msgstr "Dernière modification le"
+msgstr ""
 
 #. module: stock_measuring_device
 #: model:ir.model.fields,field_description:stock_measuring_device.field_measuring_device__write_uid
 #: model:ir.model.fields,field_description:stock_measuring_device.field_measuring_wizard__write_uid
 #: model:ir.model.fields,field_description:stock_measuring_device.field_measuring_wizard_line__write_uid
 msgid "Last Updated by"
-msgstr "Dernière mise à jour par"
+msgstr ""
 
 #. module: stock_measuring_device
 #: model:ir.model.fields,field_description:stock_measuring_device.field_measuring_device__write_date
 #: model:ir.model.fields,field_description:stock_measuring_device.field_measuring_wizard__write_date
 #: model:ir.model.fields,field_description:stock_measuring_device.field_measuring_wizard_line__write_date
 msgid "Last Updated on"
-msgstr "Dernière mise à jour le"
+msgstr ""
 
 #. module: stock_measuring_device
 #: model:ir.model.fields,field_description:stock_measuring_device.field_measuring_wizard_line__lngth
@@ -123,7 +123,7 @@ msgstr ""
 #. module: stock_measuring_device
 #: model:ir.model.fields,field_description:stock_measuring_device.field_measuring_wizard__line_ids
 msgid "Line"
-msgstr "Ligne"
+msgstr ""
 
 #. module: stock_measuring_device
 #: code:addons/stock_measuring_device/models/measuring_device.py:0
@@ -157,7 +157,7 @@ msgstr ""
 #. module: stock_measuring_device
 #: model:ir.model.fields,field_description:stock_measuring_device.field_measuring_device__name
 msgid "Name"
-msgstr "Nom"
+msgstr ""
 
 #. module: stock_measuring_device
 #: model:ir.model.fields.selection,name:stock_measuring_device.selection__measuring_device__state__not_ready
@@ -177,22 +177,22 @@ msgstr ""
 #. module: stock_measuring_device
 #: model:ir.model.fields,field_description:stock_measuring_device.field_measuring_wizard_line__packaging_type_id
 msgid "Packaging Type"
-msgstr "Type d'emballage"
+msgstr ""
 
 #. module: stock_measuring_device
 #: model:ir.model.fields,field_description:stock_measuring_device.field_measuring_wizard__product_id
 msgid "Product"
-msgstr "Produit"
+msgstr ""
 
 #. module: stock_measuring_device
 #: model:ir.model,name:stock_measuring_device.model_product_packaging
 msgid "Product Packaging"
-msgstr "L'emballage du produit"
+msgstr ""
 
 #. module: stock_measuring_device
 #: model:ir.model.fields,field_description:stock_measuring_device.field_measuring_wizard_line__qty
 msgid "Quantity"
-msgstr "Quantité"
+msgstr ""
 
 #. module: stock_measuring_device
 #: model:ir.model.fields.selection,name:stock_measuring_device.selection__measuring_device__state__ready
@@ -217,7 +217,7 @@ msgstr ""
 #. module: stock_measuring_device
 #: model_terms:ir.ui.view,arch_db:stock_measuring_device.view_measuring_wizard
 msgid "Save"
-msgstr "sauvegarde"
+msgstr ""
 
 #. module: stock_measuring_device
 #: model_terms:ir.ui.view,arch_db:stock_measuring_device.view_measuring_wizard
@@ -232,7 +232,7 @@ msgstr ""
 #. module: stock_measuring_device
 #: model:ir.model.fields,field_description:stock_measuring_device.field_measuring_wizard_line__sequence
 msgid "Sequence"
-msgstr "Séquence"
+msgstr ""
 
 #. module: stock_measuring_device
 #: code:addons/stock_measuring_device/models/product_packaging.py:0
@@ -279,7 +279,7 @@ msgstr ""
 #: model:ir.model,name:stock_measuring_device.model_stock_warehouse
 #: model:ir.model.fields,field_description:stock_measuring_device.field_measuring_device__warehouse_id
 msgid "Warehouse"
-msgstr "Dépot"
+msgstr ""
 
 #. module: stock_measuring_device
 #: model:ir.model.fields,field_description:stock_measuring_device.field_measuring_wizard_line__max_weight
