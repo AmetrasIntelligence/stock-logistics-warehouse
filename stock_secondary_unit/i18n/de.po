@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_secondary_unit/i18n/stock_secondary_unit.pot\n"
 "X-Crowdin-File-ID: 6586\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-02-09 15:36\n"
+"PO-Revision-Date: 2023-08-02 09:52\n"
 
 #. module: stock_secondary_unit
 #: model_terms:ir.ui.view,arch_db:stock_secondary_unit.report_delivery_document
@@ -24,43 +24,43 @@ msgstr ""
 #. module: stock_secondary_unit
 #: model:ir.model.fields,field_description:stock_secondary_unit.field_stock_product_secondary_unit__display_name
 msgid "Display Name"
-msgstr "Anzeigename"
+msgstr ""
 
 #. module: stock_secondary_unit
 #: model:ir.model.fields,field_description:stock_secondary_unit.field_stock_move_line__qty_done
 msgid "Done"
-msgstr "Erledigt"
+msgstr ""
 
 #. module: stock_secondary_unit
 #: model:ir.model.fields,field_description:stock_secondary_unit.field_stock_product_secondary_unit__id
 msgid "ID"
-msgstr "ID"
+msgstr ""
 
 #. module: stock_secondary_unit
 #: model:ir.model.fields,field_description:stock_secondary_unit.field_stock_move__product_uom_qty
 #: model:ir.model.fields,field_description:stock_secondary_unit.field_stock_reservation__product_uom_qty
 msgid "Initial Demand"
-msgstr "Anfänglicher Bedarf"
+msgstr ""
 
 #. module: stock_secondary_unit
 #: model:ir.model.fields,field_description:stock_secondary_unit.field_stock_product_secondary_unit____last_update
 msgid "Last Modified on"
-msgstr "Zuletzt geändert am"
+msgstr ""
 
 #. module: stock_secondary_unit
 #: model:ir.model,name:stock_secondary_unit.model_product_product
 msgid "Product"
-msgstr "Produkt"
+msgstr ""
 
 #. module: stock_secondary_unit
 #: model:ir.model,name:stock_secondary_unit.model_stock_move_line
 msgid "Product Moves (Stock Move Line)"
-msgstr "Produktbewegungen (Lagerbewegungszeile)"
+msgstr ""
 
 #. module: stock_secondary_unit
 #: model:ir.model,name:stock_secondary_unit.model_product_template
 msgid "Product Template"
-msgstr "Produktvorlage"
+msgstr ""
 
 #. module: stock_secondary_unit
 #: model:ir.model.fields,field_description:stock_secondary_unit.field_product_product__secondary_unit_qty_available
@@ -83,7 +83,7 @@ msgstr ""
 #. module: stock_secondary_unit
 #: model:ir.model,name:stock_secondary_unit.model_stock_move
 msgid "Stock Move"
-msgstr "Lagerbuchungen"
+msgstr ""
 
 #. module: stock_secondary_unit
 #: model:ir.model,name:stock_secondary_unit.model_stock_product_secondary_unit
