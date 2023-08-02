@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_request_tier_validation/i18n/stock_request_tier_validation.pot\n"
 "X-Crowdin-File-ID: 6578\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 22:08\n"
+"PO-Revision-Date: 2023-08-02 09:52\n"
 
 #. module: stock_request_tier_validation
 #: model_terms:ir.ui.view,arch_db:stock_request_tier_validation.stock_request_order_form_inherit_tier
@@ -90,12 +90,12 @@ msgstr ""
 #. module: stock_request_tier_validation
 #: model:ir.model,name:stock_request_tier_validation.model_stock_request
 msgid "Stock Request"
-msgstr "Bestandsanforderung"
+msgstr ""
 
 #. module: stock_request_tier_validation
 #: model:ir.model,name:stock_request_tier_validation.model_stock_request_order
 msgid "Stock Request Order"
-msgstr "Bestandsanforderungsauftrag"
+msgstr ""
 
 #. module: stock_request_tier_validation
 #: model_terms:ir.ui.view,arch_db:stock_request_tier_validation.view_stock_request_filter
@@ -118,11 +118,11 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:stock_request_tier_validation.stock_request_order_form_inherit_tier
 #: model_terms:ir.ui.view,arch_db:stock_request_tier_validation.view_stock_request_form_inherit_tier
 msgid "Validate"
-msgstr "Bestätigen"
+msgstr ""
 
 #. module: stock_request_tier_validation
 #: model_terms:ir.ui.view,arch_db:stock_request_tier_validation.view_stock_request_filter
 #: model_terms:ir.ui.view,arch_db:stock_request_tier_validation.view_stock_request_order_filter
 msgid "Validated"
-msgstr "Bestätigt"
+msgstr ""
 
