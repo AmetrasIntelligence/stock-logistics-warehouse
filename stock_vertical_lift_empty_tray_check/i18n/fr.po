@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_vertical_lift_empty_tray_check/i18n/stock_vertical_lift_empty_tray_check.pot\n"
 "X-Crowdin-File-ID: 6594\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-08-06 22:08\n"
+"PO-Revision-Date: 2023-08-02 09:51\n"
 
 #. module: stock_vertical_lift_empty_tray_check
 #: model:ir.model,name:stock_vertical_lift_empty_tray_check.model_res_config_settings
@@ -24,17 +24,17 @@ msgstr ""
 #. module: stock_vertical_lift_empty_tray_check
 #: model:ir.model.fields,field_description:stock_vertical_lift_empty_tray_check.field_vertical_lift_operation_pick_zero_check__create_uid
 msgid "Created by"
-msgstr "Créé par"
+msgstr ""
 
 #. module: stock_vertical_lift_empty_tray_check
 #: model:ir.model.fields,field_description:stock_vertical_lift_empty_tray_check.field_vertical_lift_operation_pick_zero_check__create_date
 msgid "Created on"
-msgstr "Créé le"
+msgstr ""
 
 #. module: stock_vertical_lift_empty_tray_check
 #: model:ir.model.fields,field_description:stock_vertical_lift_empty_tray_check.field_vertical_lift_operation_pick_zero_check__display_name
 msgid "Display Name"
-msgstr "Nom d'affichage"
+msgstr ""
 
 #. module: stock_vertical_lift_empty_tray_check
 #: model:ir.model.fields,field_description:stock_vertical_lift_empty_tray_check.field_vertical_lift_operation_pick_zero_check__id
@@ -57,17 +57,17 @@ msgstr ""
 #. module: stock_vertical_lift_empty_tray_check
 #: model:ir.model.fields,field_description:stock_vertical_lift_empty_tray_check.field_vertical_lift_operation_pick_zero_check____last_update
 msgid "Last Modified on"
-msgstr "Dernière modification le"
+msgstr ""
 
 #. module: stock_vertical_lift_empty_tray_check
 #: model:ir.model.fields,field_description:stock_vertical_lift_empty_tray_check.field_vertical_lift_operation_pick_zero_check__write_uid
 msgid "Last Updated by"
-msgstr "Dernière mise à jour par"
+msgstr ""
 
 #. module: stock_vertical_lift_empty_tray_check
 #: model:ir.model.fields,field_description:stock_vertical_lift_empty_tray_check.field_vertical_lift_operation_pick_zero_check__write_date
 msgid "Last Updated on"
-msgstr "Dernière mise à jour le"
+msgstr ""
 
 #. module: stock_vertical_lift_empty_tray_check
 #: model:ir.model,name:stock_vertical_lift_empty_tray_check.model_vertical_lift_operation_pick_zero_check
