@@ -14,13 +14,13 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_demand_estimate_matrix/i18n/stock_demand_estimate_matrix.pot\n"
 "X-Crowdin-File-ID: 6146\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-12 08:06\n"
+"PO-Revision-Date: 2023-08-02 09:50\n"
 
 #. module: stock_demand_estimate_matrix
 #: model_terms:ir.ui.view,arch_db:stock_demand_estimate_matrix.demand_estimate_wizard_view_form
 #: model_terms:ir.ui.view,arch_db:stock_demand_estimate_matrix.stock_demand_estimate_sheet_view_form
 msgid "Cancel"
-msgstr "Abbrechen"
+msgstr ""
 
 #. module: stock_demand_estimate_matrix
 #: model:ir.actions.act_window,name:stock_demand_estimate_matrix.stock_demand_estimate_wizard_action
@@ -33,20 +33,20 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_demand_estimate_matrix.field_stock_demand_estimate_sheet_line__create_uid
 #: model:ir.model.fields,field_description:stock_demand_estimate_matrix.field_stock_demand_estimate_wizard__create_uid
 msgid "Created by"
-msgstr "Erstellt von"
+msgstr ""
 
 #. module: stock_demand_estimate_matrix
 #: model:ir.model.fields,field_description:stock_demand_estimate_matrix.field_stock_demand_estimate_sheet__create_date
 #: model:ir.model.fields,field_description:stock_demand_estimate_matrix.field_stock_demand_estimate_sheet_line__create_date
 #: model:ir.model.fields,field_description:stock_demand_estimate_matrix.field_stock_demand_estimate_wizard__create_date
 msgid "Created on"
-msgstr "Erstellt am"
+msgstr ""
 
 #. module: stock_demand_estimate_matrix
 #: model:ir.model.fields,field_description:stock_demand_estimate_matrix.field_stock_demand_estimate_sheet__date_start
 #: model:ir.model.fields,field_description:stock_demand_estimate_matrix.field_stock_demand_estimate_wizard__date_start
 msgid "Date From"
-msgstr "Datum von"
+msgstr ""
 
 #. module: stock_demand_estimate_matrix
 #: model:ir.model,name:stock_demand_estimate_matrix.model_date_range
@@ -62,12 +62,12 @@ msgstr ""
 #. module: stock_demand_estimate_matrix
 #: model:ir.ui.menu,name:stock_demand_estimate_matrix.date_range_menu
 msgid "Date Ranges"
-msgstr "Datumsbereiche"
+msgstr ""
 
 #. module: stock_demand_estimate_matrix
 #: model:ir.model.fields,field_description:stock_demand_estimate_matrix.field_stock_demand_estimate_wizard__date_end
 msgid "Date To"
-msgstr "Datum bis"
+msgstr ""
 
 #. module: stock_demand_estimate_matrix
 #: model:ir.model.fields,field_description:stock_demand_estimate_matrix.field_stock_demand_estimate_sheet__date_end
@@ -84,7 +84,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_demand_estimate_matrix.field_stock_demand_estimate_sheet_line__display_name
 #: model:ir.model.fields,field_description:stock_demand_estimate_matrix.field_stock_demand_estimate_wizard__display_name
 msgid "Display Name"
-msgstr "Anzeigename"
+msgstr ""
 
 #. module: stock_demand_estimate_matrix
 #: model:ir.model.fields,field_description:stock_demand_estimate_matrix.field_stock_demand_estimate_sheet_line__estimate_id
@@ -117,34 +117,34 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_demand_estimate_matrix.field_stock_demand_estimate_sheet_line__id
 #: model:ir.model.fields,field_description:stock_demand_estimate_matrix.field_stock_demand_estimate_wizard__id
 msgid "ID"
-msgstr "ID"
+msgstr ""
 
 #. module: stock_demand_estimate_matrix
 #: model:ir.model.fields,field_description:stock_demand_estimate_matrix.field_stock_demand_estimate_sheet____last_update
 #: model:ir.model.fields,field_description:stock_demand_estimate_matrix.field_stock_demand_estimate_sheet_line____last_update
 #: model:ir.model.fields,field_description:stock_demand_estimate_matrix.field_stock_demand_estimate_wizard____last_update
 msgid "Last Modified on"
-msgstr "Zuletzt geändert am"
+msgstr ""
 
 #. module: stock_demand_estimate_matrix
 #: model:ir.model.fields,field_description:stock_demand_estimate_matrix.field_stock_demand_estimate_sheet__write_uid
 #: model:ir.model.fields,field_description:stock_demand_estimate_matrix.field_stock_demand_estimate_sheet_line__write_uid
 #: model:ir.model.fields,field_description:stock_demand_estimate_matrix.field_stock_demand_estimate_wizard__write_uid
 msgid "Last Updated by"
-msgstr "Zuletzt aktualisiert von"
+msgstr ""
 
 #. module: stock_demand_estimate_matrix
 #: model:ir.model.fields,field_description:stock_demand_estimate_matrix.field_stock_demand_estimate_sheet__write_date
 #: model:ir.model.fields,field_description:stock_demand_estimate_matrix.field_stock_demand_estimate_sheet_line__write_date
 #: model:ir.model.fields,field_description:stock_demand_estimate_matrix.field_stock_demand_estimate_wizard__write_date
 msgid "Last Updated on"
-msgstr "Zuletzt aktualisiert am"
+msgstr ""
 
 #. module: stock_demand_estimate_matrix
 #: model:ir.model.fields,field_description:stock_demand_estimate_matrix.field_stock_demand_estimate_sheet__location_id
 #: model:ir.model.fields,field_description:stock_demand_estimate_matrix.field_stock_demand_estimate_wizard__location_id
 msgid "Location"
-msgstr "Standort"
+msgstr ""
 
 #. module: stock_demand_estimate_matrix
 #: model:ir.model.fields,field_description:stock_demand_estimate_matrix.field_stock_demand_estimate_sheet_line__date_range_id
@@ -166,7 +166,7 @@ msgstr ""
 #. module: stock_demand_estimate_matrix
 #: model:ir.model.fields,field_description:stock_demand_estimate_matrix.field_stock_demand_estimate_sheet_line__product_id
 msgid "Product"
-msgstr "Produkt"
+msgstr ""
 
 #. module: stock_demand_estimate_matrix
 #: model:ir.model.fields,field_description:stock_demand_estimate_matrix.field_stock_demand_estimate_sheet_line__value_y
@@ -178,12 +178,12 @@ msgstr "Artikelbezeichnung"
 #: model:ir.model.fields,field_description:stock_demand_estimate_matrix.field_stock_demand_estimate_wizard__product_ids
 #: model_terms:ir.ui.view,arch_db:stock_demand_estimate_matrix.demand_estimate_wizard_view_form
 msgid "Products"
-msgstr "Produkte"
+msgstr ""
 
 #. module: stock_demand_estimate_matrix
 #: model:ir.model.fields,field_description:stock_demand_estimate_matrix.field_stock_demand_estimate_sheet_line__product_uom_qty
 msgid "Quantity"
-msgstr "Menge"
+msgstr ""
 
 #. module: stock_demand_estimate_matrix
 #: model:ir.model,name:stock_demand_estimate_matrix.model_stock_demand_estimate
@@ -233,12 +233,12 @@ msgstr ""
 #. module: stock_demand_estimate_matrix
 #: model:ir.model.fields,field_description:stock_demand_estimate_matrix.field_stock_demand_estimate_sheet_line__product_uom
 msgid "Unit of measure"
-msgstr "Mengeneinheit"
+msgstr ""
 
 #. module: stock_demand_estimate_matrix
 #: model_terms:ir.ui.view,arch_db:stock_demand_estimate_matrix.stock_demand_estimate_sheet_view_form
 msgid "Validate"
-msgstr "Bestätigen"
+msgstr ""
 
 #. module: stock_demand_estimate_matrix
 #: code:addons/stock_demand_estimate_matrix/wizards/stock_demand_estimate_wizard.py:0
@@ -255,5 +255,5 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:stock_demand_estimate_matrix.demand_estimate_wizard_view_form
 #: model_terms:ir.ui.view,arch_db:stock_demand_estimate_matrix.stock_demand_estimate_sheet_view_form
 msgid "to"
-msgstr "bis"
+msgstr ""
 
