@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_request_kanban/i18n/stock_request_kanban.pot\n"
 "X-Crowdin-File-ID: 6548\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-10-25 12:21\n"
+"PO-Revision-Date: 2023-08-02 09:50\n"
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_product_product__kanban_card_count
@@ -26,18 +26,18 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_inventory_kanban__message_needaction
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_request_kanban__message_needaction
 msgid "Action Needed"
-msgstr "Aktion erforderlich"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_request_kanban__active
 msgid "Active"
-msgstr "Aktiv"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_inventory_kanban__activity_ids
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_request_kanban__activity_ids
 msgid "Activities"
-msgstr "Aktivitäten"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_inventory_kanban__activity_exception_decoration
@@ -49,7 +49,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_inventory_kanban__activity_state
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_request_kanban__activity_state
 msgid "Activity State"
-msgstr "Aktivitätsstatus"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model:ir.actions.act_window,name:stock_request_kanban.wizard_stock_inventory_kanban_action
@@ -69,18 +69,18 @@ msgstr ""
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_request_kanban__allow_virtual_location
 msgid "Allow Virtual locations on Stock Requests"
-msgstr "Erlaube virtuelle Lagerplätze in Anforderungen"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model_terms:ir.ui.view,arch_db:stock_request_kanban.stock_request_kanban_search
 msgid "Archived"
-msgstr "Archiviert"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_inventory_kanban__message_attachment_count
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_request_kanban__message_attachment_count
 msgid "Attachment Count"
-msgstr "Anzahl der Anhänge"
+msgstr ""
 
 #. module: stock_request_kanban
 #: code:addons/stock_request_kanban/wizard/wizard_stock_request_kanban_abstract.py:0
@@ -123,12 +123,12 @@ msgstr ""
 #. module: stock_request_kanban
 #: model_terms:ir.ui.view,arch_db:stock_request_kanban.view_stock_inventory_kanban_form
 msgid "Cancel"
-msgstr "Abbrechen"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model:ir.model.fields.selection,name:stock_request_kanban.selection__stock_inventory_kanban__state__cancelled
 msgid "Cancelled"
-msgstr "Storniert"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model_terms:ir.actions.act_window,help:stock_request_kanban.stock_inventory_kanban_action
@@ -145,17 +145,17 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:stock_request_kanban.wizard_stock_inventory_kanban_form
 #: model_terms:ir.ui.view,arch_db:stock_request_kanban.wizard_stock_request_kanban_form
 msgid "Close"
-msgstr "Schließen"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model:ir.model.fields.selection,name:stock_request_kanban.selection__stock_inventory_kanban__state__closed
 msgid "Closed"
-msgstr "Geschlossen"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_request_kanban__company_id
 msgid "Company"
-msgstr "Unternehmen"
+msgstr ""
 
 #. module: stock_request_kanban
 #: code:addons/stock_request_kanban/wizard/wizard_stock_request_order_kanban.py:0
@@ -170,7 +170,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_request_kanban.field_wizard_stock_request_kanban__create_uid
 #: model:ir.model.fields,field_description:stock_request_kanban.field_wizard_stock_request_order_kanban__create_uid
 msgid "Created by"
-msgstr "Erstellt von"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_inventory_kanban__create_date
@@ -179,7 +179,7 @@ msgstr "Erstellt von"
 #: model:ir.model.fields,field_description:stock_request_kanban.field_wizard_stock_request_kanban__create_date
 #: model:ir.model.fields,field_description:stock_request_kanban.field_wizard_stock_request_order_kanban__create_date
 msgid "Created on"
-msgstr "Erstellt am"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_inventory_kanban__display_name
@@ -189,12 +189,12 @@ msgstr "Erstellt am"
 #: model:ir.model.fields,field_description:stock_request_kanban.field_wizard_stock_request_kanban_abstract__display_name
 #: model:ir.model.fields,field_description:stock_request_kanban.field_wizard_stock_request_order_kanban__display_name
 msgid "Display Name"
-msgstr "Anzeigename"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model:ir.model.fields.selection,name:stock_request_kanban.selection__stock_inventory_kanban__state__draft
 msgid "Draft"
-msgstr "Entwurf"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model_terms:ir.ui.view,arch_db:stock_request_kanban.view_stock_inventory_kanban_form
@@ -204,30 +204,30 @@ msgstr "Beenden"
 #. module: stock_request_kanban
 #: model:ir.model.fields.selection,name:stock_request_kanban.selection__stock_inventory_kanban__state__finished
 msgid "Finished"
-msgstr "Beendet"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_inventory_kanban__message_follower_ids
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_request_kanban__message_follower_ids
 msgid "Followers"
-msgstr "Beobachter"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_inventory_kanban__message_channel_ids
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_request_kanban__message_channel_ids
 msgid "Followers (Channels)"
-msgstr "Beobachter (Kanäle)"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_inventory_kanban__message_partner_ids
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_request_kanban__message_partner_ids
 msgid "Followers (Partners)"
-msgstr "Beobachter (Partner)"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model_terms:ir.ui.view,arch_db:stock_request_kanban.stock_request_kanban_search
 msgid "Group By"
-msgstr "Gruppiere nach"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_inventory_kanban__id
@@ -237,19 +237,19 @@ msgstr "Gruppiere nach"
 #: model:ir.model.fields,field_description:stock_request_kanban.field_wizard_stock_request_kanban_abstract__id
 #: model:ir.model.fields,field_description:stock_request_kanban.field_wizard_stock_request_order_kanban__id
 msgid "ID"
-msgstr "ID"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_inventory_kanban__activity_exception_icon
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_request_kanban__activity_exception_icon
 msgid "Icon"
-msgstr "Symbol"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,help:stock_request_kanban.field_stock_inventory_kanban__activity_exception_icon
 #: model:ir.model.fields,help:stock_request_kanban.field_stock_request_kanban__activity_exception_icon
 msgid "Icon to indicate an exception activity."
-msgstr "Symbol zur Angabe einer Ausnahmeaktivität."
+msgstr ""
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,help:stock_request_kanban.field_stock_inventory_kanban__message_needaction
@@ -257,7 +257,7 @@ msgstr "Symbol zur Angabe einer Ausnahmeaktivität."
 #: model:ir.model.fields,help:stock_request_kanban.field_stock_request_kanban__message_needaction
 #: model:ir.model.fields,help:stock_request_kanban.field_stock_request_kanban__message_unread
 msgid "If checked, new messages require your attention."
-msgstr "Wenn aktiviert, benötigen neue Nachrichten Ihre Aufmerksamkeit."
+msgstr ""
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,help:stock_request_kanban.field_stock_inventory_kanban__message_has_error
@@ -265,17 +265,17 @@ msgstr "Wenn aktiviert, benötigen neue Nachrichten Ihre Aufmerksamkeit."
 #: model:ir.model.fields,help:stock_request_kanban.field_stock_request_kanban__message_has_error
 #: model:ir.model.fields,help:stock_request_kanban.field_stock_request_kanban__message_has_sms_error
 msgid "If checked, some messages have a delivery error."
-msgstr "Wenn aktiviert, haben einige Nachrichten einen Zustellfehler."
+msgstr ""
 
 #. module: stock_request_kanban
 #: model:ir.model.fields.selection,name:stock_request_kanban.selection__stock_inventory_kanban__state__in_progress
 msgid "In progress"
-msgstr "In Bearbeitung"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model:ir.ui.menu,name:stock_request_kanban.menu_wizard_stock_inventory_kanban
 msgid "Inventory"
-msgstr "Inventur"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_wizard_stock_inventory_kanban__inventory_kanban_id
@@ -292,7 +292,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_inventory_kanban__message_is_follower
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_request_kanban__message_is_follower
 msgid "Is Follower"
-msgstr "Ist Beobachter"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_inventory_kanban__kanban_ids
@@ -329,7 +329,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_request_kanban.field_wizard_stock_request_kanban_abstract____last_update
 #: model:ir.model.fields,field_description:stock_request_kanban.field_wizard_stock_request_order_kanban____last_update
 msgid "Last Modified on"
-msgstr "Zuletzt geändert am"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_inventory_kanban__write_uid
@@ -338,7 +338,7 @@ msgstr "Zuletzt geändert am"
 #: model:ir.model.fields,field_description:stock_request_kanban.field_wizard_stock_request_kanban__write_uid
 #: model:ir.model.fields,field_description:stock_request_kanban.field_wizard_stock_request_order_kanban__write_uid
 msgid "Last Updated by"
-msgstr "Zuletzt aktualisiert von"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_inventory_kanban__write_date
@@ -347,7 +347,7 @@ msgstr "Zuletzt aktualisiert von"
 #: model:ir.model.fields,field_description:stock_request_kanban.field_wizard_stock_request_kanban__write_date
 #: model:ir.model.fields,field_description:stock_request_kanban.field_wizard_stock_request_order_kanban__write_date
 msgid "Last Updated on"
-msgstr "Zuletzt aktualisiert am"
+msgstr ""
 
 #. module: stock_request_kanban
 #: code:addons/stock_request_kanban/wizard/wizard_stock_request_order_kanban.py:0
@@ -360,7 +360,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_request_kanban__location_id
 #: model_terms:ir.ui.view,arch_db:stock_request_kanban.stock_request_kanban_search
 msgid "Location"
-msgstr "Standort"
+msgstr ""
 
 #. module: stock_request_kanban
 #: code:addons/stock_request_kanban/wizard/wizard_stock_request_order_kanban.py:0
@@ -372,19 +372,19 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_inventory_kanban__message_main_attachment_id
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_request_kanban__message_main_attachment_id
 msgid "Main Attachment"
-msgstr "Hauptanhang"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_inventory_kanban__message_has_error
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_request_kanban__message_has_error
 msgid "Message Delivery error"
-msgstr "Fehler beim Versenden der Nachrichten"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_inventory_kanban__message_ids
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_request_kanban__message_ids
 msgid "Messages"
-msgstr "Nachrichten"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model_terms:ir.ui.view,arch_db:stock_request_kanban.view_stock_inventory_kanban_form
@@ -404,66 +404,66 @@ msgstr ""
 #. module: stock_request_kanban
 #: model:ir.model.fields,help:stock_request_kanban.field_stock_request_kanban__procurement_group_id
 msgid "Moves created through this stock request will be put in this procurement group. If none is given, the moves generated by procurement rules will be grouped into one big picking."
-msgstr "Umlagerungen infolge dieser Anforderung werden in dieser Beschaffungsgruppe zusammengefasst. Ohne Angabe werden Umlagerungen aus Beschaffungsregeln in einer gemeinsamen Kommissionierung gesammelt."
+msgstr ""
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_inventory_kanban__name
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_request_kanban__name
 msgid "Name"
-msgstr "Name"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_inventory_kanban__activity_date_deadline
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_request_kanban__activity_date_deadline
 msgid "Next Activity Deadline"
-msgstr "Frist für die nächste Aktivität"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_inventory_kanban__activity_summary
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_request_kanban__activity_summary
 msgid "Next Activity Summary"
-msgstr "Zusammenfassung der nächsten Aktivität"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_inventory_kanban__activity_type_id
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_request_kanban__activity_type_id
 msgid "Next Activity Type"
-msgstr "Nächster Aktivitätstyp"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_inventory_kanban__message_needaction_counter
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_request_kanban__message_needaction_counter
 msgid "Number of Actions"
-msgstr "Anzahl Aktionen"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_inventory_kanban__message_has_error_counter
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_request_kanban__message_has_error_counter
 msgid "Number of errors"
-msgstr "Anzahl Fehler"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,help:stock_request_kanban.field_stock_inventory_kanban__message_needaction_counter
 #: model:ir.model.fields,help:stock_request_kanban.field_stock_request_kanban__message_needaction_counter
 msgid "Number of messages which requires an action"
-msgstr "Anzahl der Nachrichten, die eine Aktion erfordern"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,help:stock_request_kanban.field_stock_inventory_kanban__message_has_error_counter
 #: model:ir.model.fields,help:stock_request_kanban.field_stock_request_kanban__message_has_error_counter
 msgid "Number of messages with delivery error"
-msgstr "Anzahl der Nachrichten mit Zustellfehlern"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,help:stock_request_kanban.field_stock_inventory_kanban__message_unread_counter
 #: model:ir.model.fields,help:stock_request_kanban.field_stock_request_kanban__message_unread_counter
 msgid "Number of unread messages"
-msgstr "Anzahl ungelesener Nachrichten"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_wizard_stock_request_order_kanban__order_id
 msgid "Order"
-msgstr "Auftrag"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model:ir.actions.report,name:stock_request_kanban.action_report_kanban
@@ -478,7 +478,7 @@ msgstr ""
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_request_kanban__procurement_group_id
 msgid "Procurement Group"
-msgstr "Beschaffungsgruppe"
+msgstr ""
 
 #. module: stock_request_kanban
 #: code:addons/stock_request_kanban/wizard/wizard_stock_request_order_kanban.py:0
@@ -490,28 +490,28 @@ msgstr ""
 #: model:ir.model,name:stock_request_kanban.model_product_product
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_request_kanban__product_id
 msgid "Product"
-msgstr "Produkt"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model:ir.model,name:stock_request_kanban.model_product_template
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_request_kanban__product_template_id
 msgid "Product Template"
-msgstr "Produktvorlage"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_request_kanban__product_uom_id
 msgid "Product Unit of Measure"
-msgstr "Produkt Mengeneinheit"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_inventory_kanban__product_ids
 msgid "Products"
-msgstr "Produkte"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_request_kanban__product_uom_qty
 msgid "Quantity"
-msgstr "Menge"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,help:stock_request_kanban.field_stock_request_kanban__product_qty
@@ -521,7 +521,7 @@ msgstr ""
 #. module: stock_request_kanban
 #: model:ir.model.fields,help:stock_request_kanban.field_stock_request_kanban__product_uom_qty
 msgid "Quantity, specified in the unit of measure indicated in the request."
-msgstr "Menge, angegeben in Mengeneinheit der Anforderung."
+msgstr ""
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_request_kanban__product_qty
@@ -537,23 +537,23 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_inventory_kanban__activity_user_id
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_request_kanban__activity_user_id
 msgid "Responsible User"
-msgstr "Verantwortlicher Nutzer"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_request_kanban__route_id
 msgid "Route"
-msgstr "Tour"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_request_kanban__route_ids
 msgid "Routes"
-msgstr "Touren"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_inventory_kanban__message_has_sms_error
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_request_kanban__message_has_sms_error
 msgid "SMS Delivery error"
-msgstr "SMS-Zustellungsfehler"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model_terms:ir.ui.view,arch_db:stock_request_kanban.stock_request_order_form
@@ -591,7 +591,7 @@ msgstr "Start"
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_inventory_kanban__state
 msgid "State"
-msgstr "Status"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_wizard_stock_inventory_kanban__status
@@ -599,7 +599,7 @@ msgstr "Status"
 #: model:ir.model.fields,field_description:stock_request_kanban.field_wizard_stock_request_kanban_abstract__status
 #: model:ir.model.fields,field_description:stock_request_kanban.field_wizard_stock_request_order_kanban__status
 msgid "Status"
-msgstr "Status"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_wizard_stock_inventory_kanban__status_state
@@ -616,10 +616,7 @@ msgid "Status based on activities\n"
 "Overdue: Due date is already passed\n"
 "Today: Activity date is today\n"
 "Planned: Future activities."
-msgstr "Status basierend auf Aktivitäten\n"
-"Überfällig: Fälligkeitsdatum ist bereits überschritten\n"
-"Heute: Aktivitätsdatum ist heute\n"
-"Geplant: Zukünftige Aktivitäten."
+msgstr ""
 
 #. module: stock_request_kanban
 #: model_terms:ir.ui.view,arch_db:stock_request_kanban.view_stock_inventory_kanban_form
@@ -642,7 +639,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_request_kanban.field_wizard_stock_request_kanban__stock_request_id
 #: model:ir.model.fields,field_description:stock_request_kanban.field_wizard_stock_request_order_kanban__stock_request_id
 msgid "Stock Request"
-msgstr "Bestandsanforderung"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model:ir.model,name:stock_request_kanban.model_stock_request_kanban
@@ -674,7 +671,7 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:stock_request_kanban.view_stock_request_kanban_form
 #: model_terms:ir.ui.view,arch_db:stock_request_kanban.view_stock_request_kanban_tree
 msgid "Stock Requests"
-msgstr "Bestandsanforderungen"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model_terms:ir.ui.view,arch_db:stock_request_kanban.stock_request_kanban_search
@@ -685,19 +682,19 @@ msgstr ""
 #: model:ir.model.fields,help:stock_request_kanban.field_stock_inventory_kanban__activity_exception_decoration
 #: model:ir.model.fields,help:stock_request_kanban.field_stock_request_kanban__activity_exception_decoration
 msgid "Type of the exception activity on record."
-msgstr "Art der aufgezeichneten Ausnahmeaktivität."
+msgstr ""
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_inventory_kanban__message_unread
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_request_kanban__message_unread
 msgid "Unread Messages"
-msgstr "Ungelesene Nachrichten"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_inventory_kanban__message_unread_counter
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_request_kanban__message_unread_counter
 msgid "Unread Messages Counter"
-msgstr "Zähler für ungelesene Nachrichten"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,help:stock_request_kanban.field_wizard_stock_inventory_kanban___barcode_scanned
@@ -712,7 +709,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_request_kanban__warehouse_id
 #: model_terms:ir.ui.view,arch_db:stock_request_kanban.stock_request_kanban_search
 msgid "Warehouse"
-msgstr "Lager"
+msgstr ""
 
 #. module: stock_request_kanban
 #: code:addons/stock_request_kanban/wizard/wizard_stock_request_order_kanban.py:0
@@ -724,11 +721,11 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_inventory_kanban__website_message_ids
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_request_kanban__website_message_ids
 msgid "Website Messages"
-msgstr "Webseiten Nachrichten"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,help:stock_request_kanban.field_stock_inventory_kanban__website_message_ids
 #: model:ir.model.fields,help:stock_request_kanban.field_stock_request_kanban__website_message_ids
 msgid "Website communication history"
-msgstr "Webseiten-Kommunikationsverlauf"
+msgstr ""
 
