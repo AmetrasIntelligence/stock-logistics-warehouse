@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_vertical_lift_storage_type/i18n/stock_vertical_lift_storage_type.pot\n"
 "X-Crowdin-File-ID: 6602\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-10-05 12:36\n"
+"PO-Revision-Date: 2023-08-02 09:52\n"
 
 #. module: stock_vertical_lift_storage_type
 #: code:addons/stock_vertical_lift_storage_type/models/stock_location.py:0
@@ -31,7 +31,7 @@ msgstr ""
 #. module: stock_vertical_lift_storage_type
 #: model:ir.model,name:stock_vertical_lift_storage_type.model_stock_location
 msgid "Inventory Locations"
-msgstr "Lagerstandorte"
+msgstr ""
 
 #. module: stock_vertical_lift_storage_type
 #: model:ir.model.fields,field_description:stock_vertical_lift_storage_type.field_stock_location_tray_type__location_storage_type_ids
@@ -57,7 +57,7 @@ msgstr ""
 #. module: stock_vertical_lift_storage_type
 #: model:ir.model,name:stock_vertical_lift_storage_type.model_stock_quant
 msgid "Quants"
-msgstr "Mengen"
+msgstr ""
 
 #. module: stock_vertical_lift_storage_type
 #: model:ir.model,name:stock_vertical_lift_storage_type.model_stock_location_tray_type
