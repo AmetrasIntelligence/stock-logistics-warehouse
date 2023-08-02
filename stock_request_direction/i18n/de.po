@@ -14,33 +14,33 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_request_direction/i18n/stock_request_direction.pot\n"
 "X-Crowdin-File-ID: 6544\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 22:09\n"
+"PO-Revision-Date: 2023-08-02 09:52\n"
 
 #. module: stock_request_direction
 #: model:ir.model.fields,field_description:stock_request_direction.field_stock_request__direction
 #: model:ir.model.fields,field_description:stock_request_direction.field_stock_request_order__direction
 msgid "Direction"
-msgstr "Richtung"
+msgstr ""
 
 #. module: stock_request_direction
 #: model:ir.model.fields.selection,name:stock_request_direction.selection__stock_request__direction__inbound
 #: model:ir.model.fields.selection,name:stock_request_direction.selection__stock_request_order__direction__inbound
 msgid "Inbound"
-msgstr "Eingehend"
+msgstr ""
 
 #. module: stock_request_direction
 #: model:ir.model.fields.selection,name:stock_request_direction.selection__stock_request__direction__outbound
 #: model:ir.model.fields.selection,name:stock_request_direction.selection__stock_request_order__direction__outbound
 msgid "Outbound"
-msgstr "Ausgehend"
+msgstr ""
 
 #. module: stock_request_direction
 #: model:ir.model,name:stock_request_direction.model_stock_request
 msgid "Stock Request"
-msgstr "Bestandsanforderung"
+msgstr ""
 
 #. module: stock_request_direction
 #: model:ir.model,name:stock_request_direction.model_stock_request_order
 msgid "Stock Request Order"
-msgstr "Bestandsanforderungsauftrag"
+msgstr ""
 
