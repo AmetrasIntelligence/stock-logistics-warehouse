@@ -14,26 +14,26 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_request_submit/i18n/stock_request_submit.pot\n"
 "X-Crowdin-File-ID: 6576\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-01-05 11:41\n"
+"PO-Revision-Date: 2023-08-02 09:52\n"
 
 #. module: stock_request_submit
 #: model:ir.model.fields,field_description:stock_request_submit.field_stock_request__route_id
 msgid "Route"
-msgstr "Tour"
+msgstr ""
 
 #. module: stock_request_submit
 #: model:ir.model,name:stock_request_submit.model_stock_request
 msgid "Stock Request"
-msgstr "Bestandsanforderung"
+msgstr ""
 
 #. module: stock_request_submit
 #: model:ir.model,name:stock_request_submit.model_stock_request_order
 msgid "Stock Request Order"
-msgstr "Bestandsanforderungsauftrag"
+msgstr ""
 
 #. module: stock_request_submit
 #: model_terms:ir.ui.view,arch_db:stock_request_submit.stock_request_order_form
 #: model_terms:ir.ui.view,arch_db:stock_request_submit.view_stock_request_form
 msgid "Submit"
-msgstr "Bestätigen"
+msgstr ""
 
