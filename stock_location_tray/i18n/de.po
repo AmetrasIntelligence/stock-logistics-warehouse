@@ -14,12 +14,12 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_location_tray/i18n/stock_location_tray.pot\n"
 "X-Crowdin-File-ID: 6372\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-10-26 14:02\n"
+"PO-Revision-Date: 2023-08-02 09:50\n"
 
 #. module: stock_location_tray
 #: model:ir.model.fields,field_description:stock_location_tray.field_stock_location_tray_type__active
 msgid "Active"
-msgstr "Aktiv"
+msgstr ""
 
 #. module: stock_location_tray
 #: model_terms:ir.actions.act_window,help:stock_location_tray.action_stock_location_tray_type
@@ -30,7 +30,7 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:stock_location_tray.view_stock_location_tray_type_form
 #: model_terms:ir.ui.view,arch_db:stock_location_tray.view_stock_location_tray_type_search
 msgid "Archived"
-msgstr "Archiviert"
+msgstr ""
 
 #. module: stock_location_tray
 #: model:ir.model.fields,field_description:stock_location_tray.field_stock_location__cell_in_tray_type_id
@@ -50,12 +50,12 @@ msgstr ""
 #. module: stock_location_tray
 #: model_terms:ir.ui.view,arch_db:stock_location_tray.view_stock_move_line_tray
 msgid "Close"
-msgstr "Schließen"
+msgstr ""
 
 #. module: stock_location_tray
 #: model:ir.model.fields,field_description:stock_location_tray.field_stock_location_tray_type__code
 msgid "Code"
-msgstr "Code"
+msgstr ""
 
 #. module: stock_location_tray
 #: model:ir.model.fields,field_description:stock_location_tray.field_stock_location_tray_type__cols
@@ -65,12 +65,12 @@ msgstr ""
 #. module: stock_location_tray
 #: model:ir.model.fields,field_description:stock_location_tray.field_stock_location_tray_type__create_uid
 msgid "Created by"
-msgstr "Erstellt von"
+msgstr ""
 
 #. module: stock_location_tray
 #: model:ir.model.fields,field_description:stock_location_tray.field_stock_location_tray_type__create_date
 msgid "Created on"
-msgstr "Erstellt am"
+msgstr ""
 
 #. module: stock_location_tray
 #: model_terms:ir.actions.act_window,help:stock_location_tray.action_stock_location_tray_type
@@ -107,7 +107,7 @@ msgstr ""
 #. module: stock_location_tray
 #: model:ir.model.fields,field_description:stock_location_tray.field_stock_location_tray_type__display_name
 msgid "Display Name"
-msgstr "Anzeigename"
+msgstr ""
 
 #. module: stock_location_tray
 #: model_terms:ir.ui.view,arch_db:stock_location_tray.view_stock_location_tray_type_form
@@ -127,32 +127,32 @@ msgstr ""
 #. module: stock_location_tray
 #: model:ir.model.fields,field_description:stock_location_tray.field_stock_location_tray_type__id
 msgid "ID"
-msgstr "ID"
+msgstr ""
 
 #. module: stock_location_tray
 #: model:ir.model,name:stock_location_tray.model_stock_location
 msgid "Inventory Locations"
-msgstr "Lagerstandorte"
+msgstr ""
 
 #. module: stock_location_tray
 #: model:ir.model.fields,field_description:stock_location_tray.field_stock_location_tray_type____last_update
 msgid "Last Modified on"
-msgstr "Zuletzt geändert am"
+msgstr ""
 
 #. module: stock_location_tray
 #: model:ir.model.fields,field_description:stock_location_tray.field_stock_location_tray_type__write_uid
 msgid "Last Updated by"
-msgstr "Zuletzt aktualisiert von"
+msgstr ""
 
 #. module: stock_location_tray
 #: model:ir.model.fields,field_description:stock_location_tray.field_stock_location_tray_type__write_date
 msgid "Last Updated on"
-msgstr "Zuletzt aktualisiert am"
+msgstr ""
 
 #. module: stock_location_tray
 #: model:ir.model.fields,field_description:stock_location_tray.field_stock_location_tray_type__location_ids
 msgid "Location"
-msgstr "Standort"
+msgstr ""
 
 #. module: stock_location_tray
 #: code:addons/stock_location_tray/models/stock_location.py:0
@@ -176,12 +176,12 @@ msgstr ""
 #. module: stock_location_tray
 #: model_terms:ir.ui.view,arch_db:stock_location_tray.view_stock_location_tray_type_form
 msgid "Locations"
-msgstr "Standorte"
+msgstr ""
 
 #. module: stock_location_tray
 #: model:ir.model.fields,field_description:stock_location_tray.field_stock_location_tray_type__name
 msgid "Name"
-msgstr "Name"
+msgstr ""
 
 #. module: stock_location_tray
 #: model:ir.model.fields,field_description:stock_location_tray.field_stock_location__cell_name_format
@@ -191,7 +191,7 @@ msgstr ""
 #. module: stock_location_tray
 #: model:ir.model,name:stock_location_tray.model_stock_move_line
 msgid "Product Moves (Stock Move Line)"
-msgstr "Produktbewegungen (Lagerbewegungszeile)"
+msgstr ""
 
 #. module: stock_location_tray
 #: model:ir.model.fields,field_description:stock_location_tray.field_stock_location_tray_type__rows
@@ -289,7 +289,7 @@ msgstr ""
 #. module: stock_location_tray
 #: model:ir.model.fields,field_description:stock_location_tray.field_stock_location_tray_type__width
 msgid "Width"
-msgstr "Breite"
+msgstr ""
 
 #. module: stock_location_tray
 #: model:ir.model.fields,field_description:stock_location_tray.field_stock_location_tray_type__width_per_cell
