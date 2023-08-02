@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_pull_list/i18n/stock_pull_list.pot\n"
 "X-Crowdin-File-ID: 6508\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-11-15 16:16\n"
+"PO-Revision-Date: 2023-08-02 09:50\n"
 
 #. module: stock_pull_list
 #: model_terms:ir.ui.view,arch_db:stock_pull_list.view_run_stock_pull_list_wizard_wizard
@@ -46,7 +46,7 @@ msgstr "Verfügbare Menge"
 #: model_terms:ir.ui.view,arch_db:stock_pull_list.view_run_stock_pull_list_wizard_wizard
 #: model_terms:ir.ui.view,arch_db:stock_pull_list.view_run_stock_pull_list_wizard_wizard_step_2
 msgid "Cancel"
-msgstr "Abbrechen"
+msgstr ""
 
 #. module: stock_pull_list
 #: model:ir.model.fields,field_description:stock_pull_list.field_stock_pull_list_wizard__consolidate_by_product
@@ -57,13 +57,13 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_pull_list.field_stock_pull_list_wizard__create_uid
 #: model:ir.model.fields,field_description:stock_pull_list.field_stock_pull_list_wizard_line__create_uid
 msgid "Created by"
-msgstr "Erstellt von"
+msgstr ""
 
 #. module: stock_pull_list
 #: model:ir.model.fields,field_description:stock_pull_list.field_stock_pull_list_wizard__create_date
 #: model:ir.model.fields,field_description:stock_pull_list.field_stock_pull_list_wizard_line__create_date
 msgid "Created on"
-msgstr "Erstellt am"
+msgstr ""
 
 #. module: stock_pull_list
 #: model:ir.model.fields,field_description:stock_pull_list.field_stock_pull_list_wizard_line__date_expected
@@ -73,18 +73,18 @@ msgstr ""
 #. module: stock_pull_list
 #: model:ir.model.fields,field_description:stock_pull_list.field_stock_pull_list_wizard__date_to
 msgid "Date To"
-msgstr "Datum bis"
+msgstr ""
 
 #. module: stock_pull_list
 #: model:ir.model.fields,field_description:stock_pull_list.field_stock_pull_list_wizard__location_dest_id
 msgid "Destination Location"
-msgstr "Zielort"
+msgstr ""
 
 #. module: stock_pull_list
 #: model:ir.model.fields,field_description:stock_pull_list.field_stock_pull_list_wizard__display_name
 #: model:ir.model.fields,field_description:stock_pull_list.field_stock_pull_list_wizard_line__display_name
 msgid "Display Name"
-msgstr "Anzeigename"
+msgstr ""
 
 #. module: stock_pull_list
 #: model:ir.model.fields,field_description:stock_pull_list.field_stock_pull_list_wizard__exclude_reserved
@@ -122,7 +122,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_pull_list.field_stock_pull_list_wizard__id
 #: model:ir.model.fields,field_description:stock_pull_list.field_stock_pull_list_wizard_line__id
 msgid "ID"
-msgstr "ID"
+msgstr ""
 
 #. module: stock_pull_list
 #: model:ir.model.fields,field_description:stock_pull_list.field_stock_pull_list_wizard_line__incoming_qty
@@ -133,30 +133,30 @@ msgstr "Eingehende Menge"
 #: model:ir.model.fields,field_description:stock_pull_list.field_stock_pull_list_wizard____last_update
 #: model:ir.model.fields,field_description:stock_pull_list.field_stock_pull_list_wizard_line____last_update
 msgid "Last Modified on"
-msgstr "Zuletzt geändert am"
+msgstr ""
 
 #. module: stock_pull_list
 #: model:ir.model.fields,field_description:stock_pull_list.field_stock_pull_list_wizard__write_uid
 #: model:ir.model.fields,field_description:stock_pull_list.field_stock_pull_list_wizard_line__write_uid
 msgid "Last Updated by"
-msgstr "Zuletzt aktualisiert von"
+msgstr ""
 
 #. module: stock_pull_list
 #: model:ir.model.fields,field_description:stock_pull_list.field_stock_pull_list_wizard__write_date
 #: model:ir.model.fields,field_description:stock_pull_list.field_stock_pull_list_wizard_line__write_date
 msgid "Last Updated on"
-msgstr "Zuletzt aktualisiert am"
+msgstr ""
 
 #. module: stock_pull_list
 #: model:ir.model.fields,field_description:stock_pull_list.field_stock_pull_list_wizard__line_ids
 msgid "Line"
-msgstr "Zeile"
+msgstr ""
 
 #. module: stock_pull_list
 #: model:ir.model.fields,field_description:stock_pull_list.field_stock_pull_list_wizard__location_id
 #: model:ir.model.fields,field_description:stock_pull_list.field_stock_pull_list_wizard_line__location_id
 msgid "Location"
-msgstr "Standort"
+msgstr ""
 
 #. module: stock_pull_list
 #: model:ir.model.fields,field_description:stock_pull_list.field_stock_pull_list_wizard__max_lines
@@ -181,17 +181,17 @@ msgstr ""
 #. module: stock_pull_list
 #: model_terms:ir.ui.view,arch_db:stock_pull_list.view_run_stock_pull_list_wizard_wizard_step_2
 msgid "Procure"
-msgstr "Beschaffen"
+msgstr ""
 
 #. module: stock_pull_list
 #: model:ir.model.fields,field_description:stock_pull_list.field_stock_pull_list_wizard__procurement_group_ids
 msgid "Procurement Group"
-msgstr "Beschaffungsgruppe"
+msgstr ""
 
 #. module: stock_pull_list
 #: model:ir.model.fields,field_description:stock_pull_list.field_stock_pull_list_wizard_line__product_id
 msgid "Product"
-msgstr "Produkt"
+msgstr ""
 
 #. module: stock_pull_list
 #: code:addons/stock_pull_list/wizards/stock_pull_list_wizard.py:0
@@ -242,7 +242,7 @@ msgstr ""
 #. module: stock_pull_list
 #: model:ir.model.fields,field_description:stock_pull_list.field_stock_pull_list_wizard_line__stock_rule_id
 msgid "Stock Rule"
-msgstr "Lagerbestandsregel"
+msgstr ""
 
 #. module: stock_pull_list
 #: model_terms:ir.ui.view,arch_db:stock_pull_list.view_run_stock_pull_list_wizard_wizard
@@ -253,12 +253,12 @@ msgstr ""
 #. module: stock_pull_list
 #: model:ir.model.fields,field_description:stock_pull_list.field_stock_pull_list_wizard__warehouse_id
 msgid "Warehouse"
-msgstr "Lager"
+msgstr ""
 
 #. module: stock_pull_list
 #: model:ir.model.fields,field_description:stock_pull_list.field_stock_pull_list_wizard_line__wizard_id
 msgid "Wizard"
-msgstr "Assistent"
+msgstr ""
 
 #. module: stock_pull_list
 #: model_terms:ir.ui.view,arch_db:stock_pull_list.view_run_stock_pull_list_wizard_wizard
