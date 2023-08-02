@@ -14,13 +14,13 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_orderpoint_manual_procurement/i18n/stock_orderpoint_manual_procurement.pot\n"
 "X-Crowdin-File-ID: 6418\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-08-06 23:12\n"
+"PO-Revision-Date: 2023-08-02 09:50\n"
 
 #. module: stock_orderpoint_manual_procurement
 #: model_terms:ir.ui.view,arch_db:stock_orderpoint_manual_procurement.view_make_procure_without_security
 #: model_terms:ir.ui.view,arch_db:stock_orderpoint_manual_procurement.view_make_procurment_buffer_wizard
 msgid "Cancel"
-msgstr "Annuler"
+msgstr ""
 
 #. module: stock_orderpoint_manual_procurement
 #: model:res.groups,name:stock_orderpoint_manual_procurement.group_change_orderpoint_procure_qty
@@ -36,25 +36,25 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_orderpoint_manual_procurement.field_make_procurement_orderpoint__create_uid
 #: model:ir.model.fields,field_description:stock_orderpoint_manual_procurement.field_make_procurement_orderpoint_item__create_uid
 msgid "Created by"
-msgstr "Créé par"
+msgstr ""
 
 #. module: stock_orderpoint_manual_procurement
 #: model:ir.model.fields,field_description:stock_orderpoint_manual_procurement.field_make_procurement_orderpoint__create_date
 #: model:ir.model.fields,field_description:stock_orderpoint_manual_procurement.field_make_procurement_orderpoint_item__create_date
 msgid "Created on"
-msgstr "Créé le"
+msgstr ""
 
 #. module: stock_orderpoint_manual_procurement
 #: model:ir.model.fields,field_description:stock_orderpoint_manual_procurement.field_make_procurement_orderpoint__display_name
 #: model:ir.model.fields,field_description:stock_orderpoint_manual_procurement.field_make_procurement_orderpoint_item__display_name
 msgid "Display Name"
-msgstr "Nom d'affichage"
+msgstr ""
 
 #. module: stock_orderpoint_manual_procurement
 #: model_terms:ir.ui.view,arch_db:stock_orderpoint_manual_procurement.view_make_procure_without_security
 #: model_terms:ir.ui.view,arch_db:stock_orderpoint_manual_procurement.view_make_procurment_buffer_wizard
 msgid "Execute"
-msgstr "Exécuter"
+msgstr ""
 
 #. module: stock_orderpoint_manual_procurement
 #: model:ir.model.fields,field_description:stock_orderpoint_manual_procurement.field_make_procurement_orderpoint__id
@@ -67,30 +67,30 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:stock_orderpoint_manual_procurement.view_make_procure_without_security
 #: model_terms:ir.ui.view,arch_db:stock_orderpoint_manual_procurement.view_make_procurment_buffer_wizard
 msgid "Items"
-msgstr "Articles"
+msgstr ""
 
 #. module: stock_orderpoint_manual_procurement
 #: model:ir.model.fields,field_description:stock_orderpoint_manual_procurement.field_make_procurement_orderpoint____last_update
 #: model:ir.model.fields,field_description:stock_orderpoint_manual_procurement.field_make_procurement_orderpoint_item____last_update
 msgid "Last Modified on"
-msgstr "Dernière modification le"
+msgstr ""
 
 #. module: stock_orderpoint_manual_procurement
 #: model:ir.model.fields,field_description:stock_orderpoint_manual_procurement.field_make_procurement_orderpoint__write_uid
 #: model:ir.model.fields,field_description:stock_orderpoint_manual_procurement.field_make_procurement_orderpoint_item__write_uid
 msgid "Last Updated by"
-msgstr "Dernière mise à jour par"
+msgstr ""
 
 #. module: stock_orderpoint_manual_procurement
 #: model:ir.model.fields,field_description:stock_orderpoint_manual_procurement.field_make_procurement_orderpoint__write_date
 #: model:ir.model.fields,field_description:stock_orderpoint_manual_procurement.field_make_procurement_orderpoint_item__write_date
 msgid "Last Updated on"
-msgstr "Dernière mise à jour le"
+msgstr ""
 
 #. module: stock_orderpoint_manual_procurement
 #: model:ir.model.fields,field_description:stock_orderpoint_manual_procurement.field_make_procurement_orderpoint_item__location_id
 msgid "Location"
-msgstr "Emplacement"
+msgstr ""
 
 #. module: stock_orderpoint_manual_procurement
 #: model:ir.model,name:stock_orderpoint_manual_procurement.model_make_procurement_orderpoint_item
@@ -105,7 +105,7 @@ msgstr ""
 #. module: stock_orderpoint_manual_procurement
 #: model:ir.model,name:stock_orderpoint_manual_procurement.model_stock_warehouse_orderpoint
 msgid "Minimum Inventory Rule"
-msgstr "Règle d'inventaire minimum"
+msgstr ""
 
 #. module: stock_orderpoint_manual_procurement
 #: code:addons/stock_orderpoint_manual_procurement/wizards/make_procurement_orderpoint.py:0
@@ -133,7 +133,7 @@ msgstr ""
 #. module: stock_orderpoint_manual_procurement
 #: model:ir.model.fields,field_description:stock_orderpoint_manual_procurement.field_make_procurement_orderpoint_item__product_id
 msgid "Product"
-msgstr "Produit"
+msgstr ""
 
 #. module: stock_orderpoint_manual_procurement
 #: model:ir.model.fields,field_description:stock_orderpoint_manual_procurement.field_make_procurement_orderpoint_item__qty
@@ -143,13 +143,13 @@ msgstr ""
 #. module: stock_orderpoint_manual_procurement
 #: model:ir.model.fields,field_description:stock_orderpoint_manual_procurement.field_make_procurement_orderpoint_item__qty_without_security
 msgid "Quantity"
-msgstr "Quantité"
+msgstr ""
 
 #. module: stock_orderpoint_manual_procurement
 #: code:addons/stock_orderpoint_manual_procurement/wizards/make_procurement_orderpoint.py:0
 #, python-format
 msgid "Quantity must be positive."
-msgstr "La quantité doit être positive."
+msgstr ""
 
 #. module: stock_orderpoint_manual_procurement
 #: model:ir.model.fields,field_description:stock_orderpoint_manual_procurement.field_stock_warehouse_orderpoint__procure_recommended_date
@@ -184,7 +184,7 @@ msgstr ""
 #. module: stock_orderpoint_manual_procurement
 #: model:ir.model.fields,field_description:stock_orderpoint_manual_procurement.field_make_procurement_orderpoint_item__warehouse_id
 msgid "Warehouse"
-msgstr "Dépot"
+msgstr ""
 
 #. module: stock_orderpoint_manual_procurement
 #: model:ir.model.fields,field_description:stock_orderpoint_manual_procurement.field_make_procurement_orderpoint_item__wiz_id
