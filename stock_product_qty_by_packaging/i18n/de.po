@@ -14,25 +14,25 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_product_qty_by_packaging/i18n/stock_product_qty_by_packaging.pot\n"
 "X-Crowdin-File-ID: 8974\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-10-20 16:02\n"
+"PO-Revision-Date: 2023-08-02 09:52\n"
 
 #. module: stock_product_qty_by_packaging
 #: model:ir.model,name:stock_product_qty_by_packaging.model_stock_inventory_line
 msgid "Inventory Line"
-msgstr "Inventurzeile"
+msgstr ""
 
 #. module: stock_product_qty_by_packaging
 #: model:ir.model,name:stock_product_qty_by_packaging.model_stock_move_line
 msgid "Product Moves (Stock Move Line)"
-msgstr "Produktbewegungen (Lagerbewegungszeile)"
+msgstr ""
 
 #. module: stock_product_qty_by_packaging
 #: model:ir.model,name:stock_product_qty_by_packaging.model_stock_quant
 msgid "Quants"
-msgstr "Mengen"
+msgstr ""
 
 #. module: stock_product_qty_by_packaging
 #: model:ir.model,name:stock_product_qty_by_packaging.model_stock_move
 msgid "Stock Move"
-msgstr "Lagerbuchungen"
+msgstr ""
 
