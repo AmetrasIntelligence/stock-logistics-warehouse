@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_inventory_include_exhausted/i18n/stock_inventory_include_exhausted.pot\n"
 "X-Crowdin-File-ID: 6264\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 22:08\n"
+"PO-Revision-Date: 2023-08-02 09:51\n"
 
 #. module: stock_inventory_include_exhausted
 #: model:ir.model.fields,help:stock_inventory_include_exhausted.field_stock_inventory__include_exhausted
@@ -29,5 +29,5 @@ msgstr ""
 #. module: stock_inventory_include_exhausted
 #: model:ir.model,name:stock_inventory_include_exhausted.model_stock_inventory
 msgid "Inventory"
-msgstr "Inventur"
+msgstr ""
 
