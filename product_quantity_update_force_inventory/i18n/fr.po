@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/product_quantity_update_force_inventory/i18n/product_quantity_update_force_inventory.pot\n"
 "X-Crowdin-File-ID: 6118\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-08-06 22:08\n"
+"PO-Revision-Date: 2023-08-02 09:50\n"
 
 #. module: product_quantity_update_force_inventory
 #: code:addons/product_quantity_update_force_inventory/models/product.py:0
@@ -26,7 +26,7 @@ msgstr ""
 #. module: product_quantity_update_force_inventory
 #: model:ir.model,name:product_quantity_update_force_inventory.model_product_product
 msgid "Product"
-msgstr "Produit"
+msgstr ""
 
 #. module: product_quantity_update_force_inventory
 #: model:ir.model,name:product_quantity_update_force_inventory.model_product_template
