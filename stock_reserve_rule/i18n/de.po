@@ -14,12 +14,12 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_reserve_rule/i18n/stock_reserve_rule.pot\n"
 "X-Crowdin-File-ID: 6584\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-03-15 11:15\n"
+"PO-Revision-Date: 2023-08-02 09:52\n"
 
 #. module: stock_reserve_rule
 #: model:ir.model.fields,field_description:stock_reserve_rule.field_stock_reserve_rule__active
 msgid "Active"
-msgstr "Aktiv"
+msgstr ""
 
 #. module: stock_reserve_rule
 #: model_terms:ir.actions.act_window,help:stock_reserve_rule.action_stock_reserve_rule
@@ -40,24 +40,24 @@ msgstr "Wende diese Regel nur an, wenn der Vorgangstyp auf der Bewegung derselbe
 #: model_terms:ir.ui.view,arch_db:stock_reserve_rule.view_stock_reserve_rule_form
 #: model_terms:ir.ui.view,arch_db:stock_reserve_rule.view_stock_reserve_rule_search
 msgid "Archived"
-msgstr "Archiviert"
+msgstr ""
 
 #. module: stock_reserve_rule
 #: model:ir.model.fields,field_description:stock_reserve_rule.field_stock_reserve_rule__company_id
 msgid "Company"
-msgstr "Unternehmen"
+msgstr ""
 
 #. module: stock_reserve_rule
 #: model:ir.model.fields,field_description:stock_reserve_rule.field_stock_reserve_rule__create_uid
 #: model:ir.model.fields,field_description:stock_reserve_rule.field_stock_reserve_rule_removal__create_uid
 msgid "Created by"
-msgstr "Erstellt von"
+msgstr ""
 
 #. module: stock_reserve_rule
 #: model:ir.model.fields,field_description:stock_reserve_rule.field_stock_reserve_rule__create_date
 #: model:ir.model.fields,field_description:stock_reserve_rule.field_stock_reserve_rule_removal__create_date
 msgid "Created on"
-msgstr "Erstellt am"
+msgstr ""
 
 #. module: stock_reserve_rule
 #: model:ir.model.fields.selection,name:stock_reserve_rule.selection__stock_reserve_rule_removal__removal_strategy__default
@@ -75,13 +75,13 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_reserve_rule.field_stock_reserve_rule__name
 #: model:ir.model.fields,field_description:stock_reserve_rule.field_stock_reserve_rule_removal__name
 msgid "Description"
-msgstr "Produktbeschreibung"
+msgstr ""
 
 #. module: stock_reserve_rule
 #: model:ir.model.fields,field_description:stock_reserve_rule.field_stock_reserve_rule__display_name
 #: model:ir.model.fields,field_description:stock_reserve_rule.field_stock_reserve_rule_removal__display_name
 msgid "Display Name"
-msgstr "Anzeigename"
+msgstr ""
 
 #. module: stock_reserve_rule
 #: model:ir.model.fields,help:stock_reserve_rule.field_stock_reserve_rule__rule_domain
@@ -113,31 +113,31 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_reserve_rule.field_stock_reserve_rule__id
 #: model:ir.model.fields,field_description:stock_reserve_rule.field_stock_reserve_rule_removal__id
 msgid "ID"
-msgstr "ID"
+msgstr ""
 
 #. module: stock_reserve_rule
 #: model:ir.model.fields,field_description:stock_reserve_rule.field_stock_reserve_rule____last_update
 #: model:ir.model.fields,field_description:stock_reserve_rule.field_stock_reserve_rule_removal____last_update
 msgid "Last Modified on"
-msgstr "Zuletzt geändert am"
+msgstr ""
 
 #. module: stock_reserve_rule
 #: model:ir.model.fields,field_description:stock_reserve_rule.field_stock_reserve_rule__write_uid
 #: model:ir.model.fields,field_description:stock_reserve_rule.field_stock_reserve_rule_removal__write_uid
 msgid "Last Updated by"
-msgstr "Zuletzt aktualisiert von"
+msgstr ""
 
 #. module: stock_reserve_rule
 #: model:ir.model.fields,field_description:stock_reserve_rule.field_stock_reserve_rule__write_date
 #: model:ir.model.fields,field_description:stock_reserve_rule.field_stock_reserve_rule_removal__write_date
 msgid "Last Updated on"
-msgstr "Zuletzt aktualisiert am"
+msgstr ""
 
 #. module: stock_reserve_rule
 #: model:ir.model.fields,field_description:stock_reserve_rule.field_stock_reserve_rule__location_id
 #: model:ir.model.fields,field_description:stock_reserve_rule.field_stock_reserve_rule_removal__location_id
 msgid "Location"
-msgstr "Standort"
+msgstr ""
 
 #. module: stock_reserve_rule
 #: model:ir.model.fields,field_description:stock_reserve_rule.field_stock_reserve_rule__picking_type_ids
@@ -154,17 +154,17 @@ msgstr ""
 #. module: stock_reserve_rule
 #: model:ir.model.fields,field_description:stock_reserve_rule.field_stock_reserve_rule_removal__packaging_type_ids
 msgid "Packaging Type"
-msgstr "Verpackungstyp"
+msgstr ""
 
 #. module: stock_reserve_rule
 #: model:ir.model,name:stock_reserve_rule.model_stock_picking_type
 msgid "Picking Type"
-msgstr "Vorgangstyp"
+msgstr ""
 
 #. module: stock_reserve_rule
 #: model:ir.model,name:stock_reserve_rule.model_stock_quant
 msgid "Quants"
-msgstr "Mengen"
+msgstr ""
 
 #. module: stock_reserve_rule
 #: model:ir.model.fields,field_description:stock_reserve_rule.field_stock_reserve_rule_removal__quant_domain
@@ -208,7 +208,7 @@ msgstr ""
 #. module: stock_reserve_rule
 #: model:ir.model.fields,field_description:stock_reserve_rule.field_stock_reserve_rule_removal__rule_id
 msgid "Rule"
-msgstr "Regel"
+msgstr ""
 
 #. module: stock_reserve_rule
 #: model_terms:ir.ui.view,arch_db:stock_reserve_rule.view_stock_reserve_rule_form
@@ -234,12 +234,12 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_reserve_rule.field_stock_reserve_rule__sequence
 #: model:ir.model.fields,field_description:stock_reserve_rule.field_stock_reserve_rule_removal__sequence
 msgid "Sequence"
-msgstr "Sequenz"
+msgstr ""
 
 #. module: stock_reserve_rule
 #: model:ir.model,name:stock_reserve_rule.model_stock_move
 msgid "Stock Move"
-msgstr "Lagerbuchungen"
+msgstr ""
 
 #. module: stock_reserve_rule
 #: model:ir.model,name:stock_reserve_rule.model_stock_reserve_rule
@@ -255,5 +255,5 @@ msgstr ""
 #: model:product.product,uom_name:stock_reserve_rule.product_funky_socks
 #: model:product.template,uom_name:stock_reserve_rule.product_funky_socks_product_template
 msgid "Units"
-msgstr "Einheiten"
+msgstr ""
 
