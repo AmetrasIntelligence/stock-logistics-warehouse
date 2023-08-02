@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_request_kanban/i18n/stock_request_kanban.pot\n"
 "X-Crowdin-File-ID: 6548\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-22 22:26\n"
+"PO-Revision-Date: 2023-08-02 09:50\n"
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_product_product__kanban_card_count
@@ -31,7 +31,7 @@ msgstr ""
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_request_kanban__active
 msgid "Active"
-msgstr "Actif"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_inventory_kanban__activity_ids
@@ -123,12 +123,12 @@ msgstr ""
 #. module: stock_request_kanban
 #: model_terms:ir.ui.view,arch_db:stock_request_kanban.view_stock_inventory_kanban_form
 msgid "Cancel"
-msgstr "Annuler"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model:ir.model.fields.selection,name:stock_request_kanban.selection__stock_inventory_kanban__state__cancelled
 msgid "Cancelled"
-msgstr "Annulé"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model_terms:ir.actions.act_window,help:stock_request_kanban.stock_inventory_kanban_action
@@ -145,7 +145,7 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:stock_request_kanban.wizard_stock_inventory_kanban_form
 #: model_terms:ir.ui.view,arch_db:stock_request_kanban.wizard_stock_request_kanban_form
 msgid "Close"
-msgstr "Fermer"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model:ir.model.fields.selection,name:stock_request_kanban.selection__stock_inventory_kanban__state__closed
@@ -155,7 +155,7 @@ msgstr ""
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_request_kanban__company_id
 msgid "Company"
-msgstr "entreprise"
+msgstr ""
 
 #. module: stock_request_kanban
 #: code:addons/stock_request_kanban/wizard/wizard_stock_request_order_kanban.py:0
@@ -170,7 +170,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_request_kanban.field_wizard_stock_request_kanban__create_uid
 #: model:ir.model.fields,field_description:stock_request_kanban.field_wizard_stock_request_order_kanban__create_uid
 msgid "Created by"
-msgstr "Créé par"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_inventory_kanban__create_date
@@ -179,7 +179,7 @@ msgstr "Créé par"
 #: model:ir.model.fields,field_description:stock_request_kanban.field_wizard_stock_request_kanban__create_date
 #: model:ir.model.fields,field_description:stock_request_kanban.field_wizard_stock_request_order_kanban__create_date
 msgid "Created on"
-msgstr "Créé le"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_inventory_kanban__display_name
@@ -189,7 +189,7 @@ msgstr "Créé le"
 #: model:ir.model.fields,field_description:stock_request_kanban.field_wizard_stock_request_kanban_abstract__display_name
 #: model:ir.model.fields,field_description:stock_request_kanban.field_wizard_stock_request_order_kanban__display_name
 msgid "Display Name"
-msgstr "Nom d'affichage"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model:ir.model.fields.selection,name:stock_request_kanban.selection__stock_inventory_kanban__state__draft
@@ -204,7 +204,7 @@ msgstr ""
 #. module: stock_request_kanban
 #: model:ir.model.fields.selection,name:stock_request_kanban.selection__stock_inventory_kanban__state__finished
 msgid "Finished"
-msgstr "Terminés"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_inventory_kanban__message_follower_ids
@@ -270,12 +270,12 @@ msgstr ""
 #. module: stock_request_kanban
 #: model:ir.model.fields.selection,name:stock_request_kanban.selection__stock_inventory_kanban__state__in_progress
 msgid "In progress"
-msgstr "En cours"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model:ir.ui.menu,name:stock_request_kanban.menu_wizard_stock_inventory_kanban
 msgid "Inventory"
-msgstr "Inventaire"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_wizard_stock_inventory_kanban__inventory_kanban_id
@@ -329,7 +329,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_request_kanban.field_wizard_stock_request_kanban_abstract____last_update
 #: model:ir.model.fields,field_description:stock_request_kanban.field_wizard_stock_request_order_kanban____last_update
 msgid "Last Modified on"
-msgstr "Dernière modification le"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_inventory_kanban__write_uid
@@ -338,7 +338,7 @@ msgstr "Dernière modification le"
 #: model:ir.model.fields,field_description:stock_request_kanban.field_wizard_stock_request_kanban__write_uid
 #: model:ir.model.fields,field_description:stock_request_kanban.field_wizard_stock_request_order_kanban__write_uid
 msgid "Last Updated by"
-msgstr "Dernière mise à jour par"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_inventory_kanban__write_date
@@ -347,7 +347,7 @@ msgstr "Dernière mise à jour par"
 #: model:ir.model.fields,field_description:stock_request_kanban.field_wizard_stock_request_kanban__write_date
 #: model:ir.model.fields,field_description:stock_request_kanban.field_wizard_stock_request_order_kanban__write_date
 msgid "Last Updated on"
-msgstr "Dernière mise à jour le"
+msgstr ""
 
 #. module: stock_request_kanban
 #: code:addons/stock_request_kanban/wizard/wizard_stock_request_order_kanban.py:0
@@ -360,7 +360,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_request_kanban__location_id
 #: model_terms:ir.ui.view,arch_db:stock_request_kanban.stock_request_kanban_search
 msgid "Location"
-msgstr "Emplacement"
+msgstr ""
 
 #. module: stock_request_kanban
 #: code:addons/stock_request_kanban/wizard/wizard_stock_request_order_kanban.py:0
@@ -410,7 +410,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_inventory_kanban__name
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_request_kanban__name
 msgid "Name"
-msgstr "Nom"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_inventory_kanban__activity_date_deadline
@@ -463,7 +463,7 @@ msgstr ""
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_wizard_stock_request_order_kanban__order_id
 msgid "Order"
-msgstr "Commande"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model:ir.actions.report,name:stock_request_kanban.action_report_kanban
@@ -478,7 +478,7 @@ msgstr ""
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_request_kanban__procurement_group_id
 msgid "Procurement Group"
-msgstr "Groupe des achats"
+msgstr ""
 
 #. module: stock_request_kanban
 #: code:addons/stock_request_kanban/wizard/wizard_stock_request_order_kanban.py:0
@@ -490,7 +490,7 @@ msgstr ""
 #: model:ir.model,name:stock_request_kanban.model_product_product
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_request_kanban__product_id
 msgid "Product"
-msgstr "Produit"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model:ir.model,name:stock_request_kanban.model_product_template
@@ -501,7 +501,7 @@ msgstr ""
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_request_kanban__product_uom_id
 msgid "Product Unit of Measure"
-msgstr "Unité de mesure du produit"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_inventory_kanban__product_ids
@@ -511,12 +511,12 @@ msgstr ""
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_request_kanban__product_uom_qty
 msgid "Quantity"
-msgstr "Quantité"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,help:stock_request_kanban.field_stock_request_kanban__product_qty
 msgid "Quantity in the default UoM of the product"
-msgstr "Quantité dans l'unité par défaut du produit"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,help:stock_request_kanban.field_stock_request_kanban__product_uom_qty
@@ -526,7 +526,7 @@ msgstr ""
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_request_kanban__product_qty
 msgid "Real Quantity"
-msgstr "Quantité réelle"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model:ir.ui.menu,name:stock_request_kanban.menu_wizard_stock_request_kanban
@@ -599,7 +599,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_request_kanban.field_wizard_stock_request_kanban_abstract__status
 #: model:ir.model.fields,field_description:stock_request_kanban.field_wizard_stock_request_order_kanban__status
 msgid "Status"
-msgstr "Statut"
+msgstr ""
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_wizard_stock_inventory_kanban__status_state
@@ -709,7 +709,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_request_kanban__warehouse_id
 #: model_terms:ir.ui.view,arch_db:stock_request_kanban.stock_request_kanban_search
 msgid "Warehouse"
-msgstr "Dépot"
+msgstr ""
 
 #. module: stock_request_kanban
 #: code:addons/stock_request_kanban/wizard/wizard_stock_request_order_kanban.py:0
