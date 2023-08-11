@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_available/i18n/stock_available.pot\n"
 "X-Crowdin-File-ID: 6130\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-08-02 09:49\n"
+"PO-Revision-Date: 2023-08-11 16:13\n"
 
 #. module: stock_available
 #: model_terms:ir.ui.view,arch_db:stock_available.product_normal_form_view
@@ -80,7 +80,7 @@ msgstr ""
 #. module: stock_available
 #: model:ir.model,name:stock_available.model_product_template
 msgid "Product Template"
-msgstr ""
+msgstr "Produktvorlage"
 
 #. module: stock_available
 #: model:ir.model.fields,help:stock_available.field_product_product__potential_qty
