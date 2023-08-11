@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_putaway_product_template/i18n/stock_putaway_product_template.pot\n"
 "X-Crowdin-File-ID: 6516\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-08-02 09:52\n"
+"PO-Revision-Date: 2023-08-11 16:13\n"
 
 #. module: stock_putaway_product_template
 #: model:ir.model,name:stock_putaway_product_template.model_stock_location
@@ -24,7 +24,7 @@ msgstr ""
 #. module: stock_putaway_product_template
 #: model:ir.model,name:stock_putaway_product_template.model_product_template
 msgid "Product Template"
-msgstr ""
+msgstr "Produktvorlage"
 
 #. module: stock_putaway_product_template
 #: model:ir.model.fields,field_description:stock_putaway_product_template.field_stock_putaway_rule__product_tmpl_id
