@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_reserve/i18n/stock_reserve.pot\n"
 "X-Crowdin-File-ID: 8986\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-08-11 14:27\n"
+"PO-Revision-Date: 2023-08-11 16:13\n"
 
 #. module: stock_reserve
 #: model:ir.model.fields,field_description:stock_reserve.field_product_product__reservation_count
@@ -502,7 +502,7 @@ msgstr "Produkt"
 #: model:ir.model,name:stock_reserve.model_product_template
 #: model:ir.model.fields,field_description:stock_reserve.field_stock_reservation__product_tmpl_id
 msgid "Product Template"
-msgstr ""
+msgstr "Produktvorlage"
 
 #. module: stock_reserve
 #: model:ir.model.fields,field_description:stock_reserve.field_stock_reservation__product_type
@@ -690,7 +690,7 @@ msgstr "Quelllagerort"
 #: model:ir.model.fields,field_description:stock_reserve.field_stock_reservation__state
 #: model_terms:ir.ui.view,arch_db:stock_reserve.view_stock_reservation_search
 msgid "Status"
-msgstr ""
+msgstr "Status"
 
 #. module: stock_reserve
 #: model:ir.model.fields,field_description:stock_reserve.field_stock_reservation__allocation_ids
