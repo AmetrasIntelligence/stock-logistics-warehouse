@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_quant_manual_assign/i18n/stock_quant_manual_assign.pot\n"
 "X-Crowdin-File-ID: 6520\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-08-11 10:41\n"
+"PO-Revision-Date: 2023-08-11 12:22\n"
 
 #. module: stock_quant_manual_assign
 #: model:ir.model,name:stock_quant_manual_assign.model_assign_manual_quants
@@ -63,7 +63,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_quant_manual_assign.field_assign_manual_quants__id
 #: model:ir.model.fields,field_description:stock_quant_manual_assign.field_assign_manual_quants_lines__id
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: stock_quant_manual_assign
 #: model:ir.model.fields,field_description:stock_quant_manual_assign.field_assign_manual_quants____last_update
@@ -91,7 +91,7 @@ msgstr ""
 #. module: stock_quant_manual_assign
 #: model:ir.model.fields,field_description:stock_quant_manual_assign.field_assign_manual_quants_lines__lot_id
 msgid "Lot"
-msgstr ""
+msgstr "Losnummer"
 
 #. module: stock_quant_manual_assign
 #: model_terms:ir.ui.view,arch_db:stock_quant_manual_assign.stock_picking_manual_quants_form_view
@@ -107,7 +107,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_quant_manual_assign.field_assign_manual_quants__move_id
 #: model:ir.model.fields,field_description:stock_quant_manual_assign.field_assign_manual_quants_lines__assign_wizard
 msgid "Move"
-msgstr ""
+msgstr "Buchungssatz"
 
 #. module: stock_quant_manual_assign
 #: model:ir.model.fields,field_description:stock_quant_manual_assign.field_assign_manual_quants_lines__on_hand
