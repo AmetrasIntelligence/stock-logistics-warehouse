@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_request_kanban/i18n/stock_request_kanban.pot\n"
 "X-Crowdin-File-ID: 6548\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-08-10 17:07\n"
+"PO-Revision-Date: 2023-08-11 09:01\n"
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_product_product__kanban_card_count
@@ -338,7 +338,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_request_kanban.field_wizard_stock_request_kanban__write_uid
 #: model:ir.model.fields,field_description:stock_request_kanban.field_wizard_stock_request_order_kanban__write_uid
 msgid "Last Updated by"
-msgstr ""
+msgstr "Zuletzt aktualisiert von"
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_inventory_kanban__write_date
@@ -347,7 +347,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_request_kanban.field_wizard_stock_request_kanban__write_date
 #: model:ir.model.fields,field_description:stock_request_kanban.field_wizard_stock_request_order_kanban__write_date
 msgid "Last Updated on"
-msgstr ""
+msgstr "Zuletzt aktualisiert am"
 
 #. module: stock_request_kanban
 #: code:addons/stock_request_kanban/wizard/wizard_stock_request_order_kanban.py:0
