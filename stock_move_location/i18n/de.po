@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_move_location/i18n/stock_move_location.pot\n"
 "X-Crowdin-File-ID: 6404\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-08-11 10:41\n"
+"PO-Revision-Date: 2023-08-11 12:22\n"
 
 #. module: stock_move_location
 #: model:ir.model.fields,field_description:stock_move_location.field_wiz_stock_move_location__apply_putaway_strategy
@@ -85,7 +85,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_move_location.field_wiz_stock_move_location__id
 #: model:ir.model.fields,field_description:stock_move_location.field_wiz_stock_move_location_line__id
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: stock_move_location
 #: model_terms:ir.ui.view,arch_db:stock_move_location.view_wiz_stock_move_location_form_stock_move_location
@@ -217,7 +217,7 @@ msgstr ""
 #. module: stock_move_location
 #: model:ir.model,name:stock_move_location.model_stock_move
 msgid "Stock Move"
-msgstr ""
+msgstr "Lagerbuchung"
 
 #. module: stock_move_location
 #: model_terms:ir.ui.view,arch_db:stock_move_location.view_wiz_stock_move_location_form_stock_move_location
