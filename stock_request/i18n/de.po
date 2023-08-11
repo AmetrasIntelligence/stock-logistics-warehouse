@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_request/i18n/stock_request.pot\n"
 "X-Crowdin-File-ID: 6532\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-08-11 10:41\n"
+"PO-Revision-Date: 2023-08-11 12:22\n"
 
 #. module: stock_request
 #: code:addons/stock_request/models/stock_move_line.py:0
@@ -289,7 +289,7 @@ msgstr "Gruppiere Anforderungs-Aufträge"
 #: model:ir.model.fields,field_description:stock_request.field_stock_request_allocation__id
 #: model:ir.model.fields,field_description:stock_request.field_stock_request_order__id
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: stock_request
 #: model:ir.model.fields,field_description:stock_request.field_stock_request__activity_exception_icon
@@ -760,13 +760,13 @@ msgstr ""
 #: model:ir.model,name:stock_request.model_stock_move
 #: model:ir.model.fields,field_description:stock_request.field_stock_request_allocation__stock_move_id
 msgid "Stock Move"
-msgstr ""
+msgstr "Lagerbuchung"
 
 #. module: stock_request
 #: model:ir.model.fields,field_description:stock_request.field_stock_request__move_ids
 #: model:ir.model.fields,field_description:stock_request.field_stock_request_order__move_ids
 msgid "Stock Moves"
-msgstr ""
+msgstr "Lagerbewegungen"
 
 #. module: stock_request
 #: model:ir.model,name:stock_request.model_stock_request
@@ -943,7 +943,7 @@ msgstr "Diese Aktion kann nur im Kontext von Produkten ausgeführt werden"
 #. module: stock_request
 #: model:ir.model,name:stock_request.model_stock_picking
 msgid "Transfer"
-msgstr "Bewegung"
+msgstr "Lieferung vornehmen"
 
 #. module: stock_request
 #: model_terms:ir.ui.view,arch_db:stock_request.stock_request_order_form
