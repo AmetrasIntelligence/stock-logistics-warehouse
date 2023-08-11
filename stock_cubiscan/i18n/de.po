@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_cubiscan/i18n/stock_cubiscan.pot\n"
 "X-Crowdin-File-ID: 6140\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-08-11 09:01\n"
+"PO-Revision-Date: 2023-08-11 10:41\n"
 
 #. module: stock_cubiscan
 #: code:addons/stock_cubiscan/wizard/cubiscan_wizard.py:0
@@ -44,14 +44,14 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_cubiscan.field_cubiscan_wizard__create_uid
 #: model:ir.model.fields,field_description:stock_cubiscan.field_cubiscan_wizard_line__create_uid
 msgid "Created by"
-msgstr ""
+msgstr "Erstellt von"
 
 #. module: stock_cubiscan
 #: model:ir.model.fields,field_description:stock_cubiscan.field_cubiscan_device__create_date
 #: model:ir.model.fields,field_description:stock_cubiscan.field_cubiscan_wizard__create_date
 #: model:ir.model.fields,field_description:stock_cubiscan.field_cubiscan_wizard_line__create_date
 msgid "Created on"
-msgstr ""
+msgstr "Erstellt am"
 
 #. module: stock_cubiscan
 #: model_terms:ir.ui.view,arch_db:stock_cubiscan.view_cubiscan_wizard
@@ -140,7 +140,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_cubiscan.field_cubiscan_wizard____last_update
 #: model:ir.model.fields,field_description:stock_cubiscan.field_cubiscan_wizard_line____last_update
 msgid "Last Modified on"
-msgstr ""
+msgstr "Zuletzt geändert am"
 
 #. module: stock_cubiscan
 #: model:ir.model.fields,field_description:stock_cubiscan.field_cubiscan_device__write_uid
