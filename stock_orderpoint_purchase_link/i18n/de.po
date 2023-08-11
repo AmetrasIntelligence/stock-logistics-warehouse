@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_orderpoint_purchase_link/i18n/stock_orderpoint_purchase_link.pot\n"
 "X-Crowdin-File-ID: 6430\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-08-02 09:52\n"
+"PO-Revision-Date: 2023-08-11 12:23\n"
 
 #. module: stock_orderpoint_purchase_link
 #: code:addons/stock_orderpoint_purchase_link/models/stock_warehouse_orderpoint.py:0
@@ -43,13 +43,13 @@ msgstr ""
 #. module: stock_orderpoint_purchase_link
 #: model:ir.model,name:stock_orderpoint_purchase_link.model_purchase_order_line
 msgid "Purchase Order Line"
-msgstr ""
+msgstr "Bestellposition"
 
 #. module: stock_orderpoint_purchase_link
 #: model:ir.model.fields,field_description:stock_orderpoint_purchase_link.field_stock_warehouse_orderpoint__purchase_line_ids
 #: model:ir.model.fields,field_description:stock_orderpoint_purchase_link.field_stock_warehouse_orderpoint_template__purchase_line_ids
 msgid "Purchase Order Lines"
-msgstr ""
+msgstr "Bestellpositionen"
 
 #. module: stock_orderpoint_purchase_link
 #: model_terms:ir.ui.view,arch_db:stock_orderpoint_purchase_link.view_warehouse_orderpoint_move_form
