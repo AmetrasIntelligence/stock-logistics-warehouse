@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_request_kanban/i18n/stock_request_kanban.pot\n"
 "X-Crowdin-File-ID: 6548\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-08-11 12:23\n"
+"PO-Revision-Date: 2023-08-11 16:13\n"
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_product_product__kanban_card_count
@@ -410,7 +410,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_inventory_kanban__name
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_request_kanban__name
 msgid "Name"
-msgstr ""
+msgstr "Name"
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_inventory_kanban__activity_date_deadline
@@ -496,7 +496,7 @@ msgstr ""
 #: model:ir.model,name:stock_request_kanban.model_product_template
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_request_kanban__product_template_id
 msgid "Product Template"
-msgstr ""
+msgstr "Produktvorlage"
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_request_kanban__product_uom_id
@@ -599,7 +599,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_request_kanban.field_wizard_stock_request_kanban_abstract__status
 #: model:ir.model.fields,field_description:stock_request_kanban.field_wizard_stock_request_order_kanban__status
 msgid "Status"
-msgstr ""
+msgstr "Status"
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_wizard_stock_inventory_kanban__status_state
