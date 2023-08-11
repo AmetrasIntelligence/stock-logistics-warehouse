@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_reserve_rule/i18n/stock_reserve_rule.pot\n"
 "X-Crowdin-File-ID: 6584\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-08-11 09:01\n"
+"PO-Revision-Date: 2023-08-11 10:41\n"
 
 #. module: stock_reserve_rule
 #: model:ir.model.fields,field_description:stock_reserve_rule.field_stock_reserve_rule__active
@@ -51,13 +51,13 @@ msgstr "Unternehmen"
 #: model:ir.model.fields,field_description:stock_reserve_rule.field_stock_reserve_rule__create_uid
 #: model:ir.model.fields,field_description:stock_reserve_rule.field_stock_reserve_rule_removal__create_uid
 msgid "Created by"
-msgstr ""
+msgstr "Erstellt von"
 
 #. module: stock_reserve_rule
 #: model:ir.model.fields,field_description:stock_reserve_rule.field_stock_reserve_rule__create_date
 #: model:ir.model.fields,field_description:stock_reserve_rule.field_stock_reserve_rule_removal__create_date
 msgid "Created on"
-msgstr ""
+msgstr "Erstellt am"
 
 #. module: stock_reserve_rule
 #: model:ir.model.fields.selection,name:stock_reserve_rule.selection__stock_reserve_rule_removal__removal_strategy__default
@@ -119,7 +119,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_reserve_rule.field_stock_reserve_rule____last_update
 #: model:ir.model.fields,field_description:stock_reserve_rule.field_stock_reserve_rule_removal____last_update
 msgid "Last Modified on"
-msgstr ""
+msgstr "Zuletzt geändert am"
 
 #. module: stock_reserve_rule
 #: model:ir.model.fields,field_description:stock_reserve_rule.field_stock_reserve_rule__write_uid
