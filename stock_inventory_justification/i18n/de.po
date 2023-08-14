@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_inventory_justification/i18n/stock_inventory_justification.pot\n"
 "X-Crowdin-File-ID: 6288\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-08-11 16:13\n"
+"PO-Revision-Date: 2023-08-14 16:30\n"
 
 #. module: stock_inventory_justification
 #: model:ir.model.fields,field_description:stock_inventory_justification.field_stock_inventory_justification__active
@@ -34,7 +34,7 @@ msgstr "Erstellt am"
 #. module: stock_inventory_justification
 #: model:ir.model.fields,field_description:stock_inventory_justification.field_stock_inventory_justification__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "Anzeigename"
 
 #. module: stock_inventory_justification
 #: model:ir.model.fields,field_description:stock_inventory_justification.field_stock_inventory_justification__id
