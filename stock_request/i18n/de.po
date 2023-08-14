@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_request/i18n/stock_request.pot\n"
 "X-Crowdin-File-ID: 6532\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-08-14 13:51\n"
+"PO-Revision-Date: 2023-08-14 16:30\n"
 
 #. module: stock_request
 #: code:addons/stock_request/models/stock_move_line.py:0
@@ -27,7 +27,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_request.field_stock_request_abstract__message_needaction
 #: model:ir.model.fields,field_description:stock_request.field_stock_request_order__message_needaction
 msgid "Action Needed"
-msgstr ""
+msgstr "Aktion erforderlich"
 
 #. module: stock_request
 #: model_terms:ir.ui.view,arch_db:stock_request.res_config_settings_view_form
@@ -39,7 +39,7 @@ msgstr "Aktiviert Anforderungs-Aufträge"
 #: model:ir.model.fields,field_description:stock_request.field_stock_request_abstract__activity_ids
 #: model:ir.model.fields,field_description:stock_request.field_stock_request_order__activity_ids
 msgid "Activities"
-msgstr ""
+msgstr "Aktivitäten"
 
 #. module: stock_request
 #: model:ir.model.fields,field_description:stock_request.field_stock_request__activity_exception_decoration
@@ -53,7 +53,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_request.field_stock_request_abstract__activity_state
 #: model:ir.model.fields,field_description:stock_request.field_stock_request_order__activity_state
 msgid "Activity State"
-msgstr ""
+msgstr "Aktivitätsstatus"
 
 #. module: stock_request
 #: model_terms:ir.ui.view,arch_db:stock_request.res_config_settings_view_form
@@ -94,7 +94,7 @@ msgstr "Kostenrechnung in Anforderungen"
 #: model:ir.model.fields,field_description:stock_request.field_stock_request_abstract__message_attachment_count
 #: model:ir.model.fields,field_description:stock_request.field_stock_request_order__message_attachment_count
 msgid "Attachment Count"
-msgstr ""
+msgstr "Anzahl der Anhänge"
 
 #. module: stock_request
 #: model_terms:ir.ui.view,arch_db:stock_request.res_config_settings_view_form
@@ -190,7 +190,7 @@ msgstr "Lieferscheine"
 #: model:ir.model.fields,field_description:stock_request.field_stock_request_allocation__display_name
 #: model:ir.model.fields,field_description:stock_request.field_stock_request_order__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "Anzeigename"
 
 #. module: stock_request
 #: model_terms:ir.ui.view,arch_db:stock_request.view_stock_request_form
@@ -256,21 +256,21 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_request.field_stock_request_abstract__message_follower_ids
 #: model:ir.model.fields,field_description:stock_request.field_stock_request_order__message_follower_ids
 msgid "Followers"
-msgstr ""
+msgstr "Beobachter"
 
 #. module: stock_request
 #: model:ir.model.fields,field_description:stock_request.field_stock_request__message_channel_ids
 #: model:ir.model.fields,field_description:stock_request.field_stock_request_abstract__message_channel_ids
 #: model:ir.model.fields,field_description:stock_request.field_stock_request_order__message_channel_ids
 msgid "Followers (Channels)"
-msgstr ""
+msgstr "Beobachter (Kanäle)"
 
 #. module: stock_request
 #: model:ir.model.fields,field_description:stock_request.field_stock_request__message_partner_ids
 #: model:ir.model.fields,field_description:stock_request.field_stock_request_abstract__message_partner_ids
 #: model:ir.model.fields,field_description:stock_request.field_stock_request_order__message_partner_ids
 msgid "Followers (Partners)"
-msgstr ""
+msgstr "Beobachter (Kontakte)"
 
 #. module: stock_request
 #: model_terms:ir.ui.view,arch_db:stock_request.stock_request_order_search
@@ -296,14 +296,14 @@ msgstr "ID"
 #: model:ir.model.fields,field_description:stock_request.field_stock_request_abstract__activity_exception_icon
 #: model:ir.model.fields,field_description:stock_request.field_stock_request_order__activity_exception_icon
 msgid "Icon"
-msgstr ""
+msgstr "Symbol"
 
 #. module: stock_request
 #: model:ir.model.fields,help:stock_request.field_stock_request__activity_exception_icon
 #: model:ir.model.fields,help:stock_request.field_stock_request_abstract__activity_exception_icon
 #: model:ir.model.fields,help:stock_request.field_stock_request_order__activity_exception_icon
 msgid "Icon to indicate an exception activity."
-msgstr ""
+msgstr "Symbol zur Angabe einer Ausnahmeaktivität."
 
 #. module: stock_request
 #: model:ir.model.fields,help:stock_request.field_stock_request__message_needaction
@@ -313,7 +313,7 @@ msgstr ""
 #: model:ir.model.fields,help:stock_request.field_stock_request_order__message_needaction
 #: model:ir.model.fields,help:stock_request.field_stock_request_order__message_unread
 msgid "If checked, new messages require your attention."
-msgstr ""
+msgstr "Wenn aktiviert, benötigen neue Nachrichten Ihre Aufmerksamkeit."
 
 #. module: stock_request
 #: model:ir.model.fields,help:stock_request.field_stock_request__message_has_error
@@ -323,7 +323,7 @@ msgstr ""
 #: model:ir.model.fields,help:stock_request.field_stock_request_order__message_has_error
 #: model:ir.model.fields,help:stock_request.field_stock_request_order__message_has_sms_error
 msgid "If checked, some messages have a delivery error."
-msgstr ""
+msgstr "Wenn aktiviert, haben einige Nachrichten einen Zustellfehler."
 
 #. module: stock_request
 #: model_terms:ir.ui.view,arch_db:stock_request.stock_request_order_search
