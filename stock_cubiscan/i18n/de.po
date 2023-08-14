@@ -14,13 +14,13 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_cubiscan/i18n/stock_cubiscan.pot\n"
 "X-Crowdin-File-ID: 6140\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-08-14 13:51\n"
+"PO-Revision-Date: 2023-08-14 14:56\n"
 
 #. module: stock_cubiscan
 #: code:addons/stock_cubiscan/wizard/cubiscan_wizard.py:0
 #, python-format
 msgid "Barcode"
-msgstr ""
+msgstr "Strichcode"
 
 #. module: stock_cubiscan
 #: model:ir.model.fields,field_description:stock_cubiscan.field_cubiscan_wizard___barcode_scanned
