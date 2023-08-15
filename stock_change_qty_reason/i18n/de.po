@@ -14,12 +14,12 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_change_qty_reason/i18n/stock_change_qty_reason.pot\n"
 "X-Crowdin-File-ID: 6138\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-08-14 16:30\n"
+"PO-Revision-Date: 2023-08-15 10:59\n"
 
 #. module: stock_change_qty_reason
 #: model:ir.model.fields,field_description:stock_change_qty_reason.field_stock_inventory_line_reason__active
 msgid "Active"
-msgstr ""
+msgstr "Aktiv"
 
 #. module: stock_change_qty_reason
 #: model:ir.actions.act_window,name:stock_change_qty_reason.action_change_qty_reasons_list
