@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_picking_completion_info/i18n/stock_picking_completion_info.pot\n"
 "X-Crowdin-File-ID: 6472\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-08-11 12:23\n"
+"PO-Revision-Date: 2023-08-15 13:51\n"
 
 #. module: stock_picking_completion_info
 #: model:ir.model.fields,field_description:stock_picking_completion_info.field_stock_picking__completion_info
@@ -54,7 +54,7 @@ msgstr ""
 #. module: stock_picking_completion_info
 #: model:ir.model,name:stock_picking_completion_info.model_stock_picking_type
 msgid "Picking Type"
-msgstr ""
+msgstr "Vorgangstyp"
 
 #. module: stock_picking_completion_info
 #: model:ir.model,name:stock_picking_completion_info.model_stock_move
