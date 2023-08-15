@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_request/i18n/stock_request.pot\n"
 "X-Crowdin-File-ID: 6532\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-08-14 16:30\n"
+"PO-Revision-Date: 2023-08-15 12:21\n"
 
 #. module: stock_request
 #: code:addons/stock_request/models/stock_move_line.py:0
@@ -129,7 +129,7 @@ msgstr "Unternehmen"
 #: model:ir.model.fields,field_description:stock_request.field_stock_request_allocation__company_id
 #: model:ir.model.fields,field_description:stock_request.field_stock_request_order__company_id
 msgid "Company"
-msgstr ""
+msgstr "Unternehmen"
 
 #. module: stock_request
 #: code:addons/stock_request/models/stock_request.py:0
@@ -472,21 +472,21 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_request.field_stock_request_abstract__message_needaction_counter
 #: model:ir.model.fields,field_description:stock_request.field_stock_request_order__message_needaction_counter
 msgid "Number of Actions"
-msgstr ""
+msgstr "Anzahl der Aktionen"
 
 #. module: stock_request
 #: model:ir.model.fields,field_description:stock_request.field_stock_request__message_has_error_counter
 #: model:ir.model.fields,field_description:stock_request.field_stock_request_abstract__message_has_error_counter
 #: model:ir.model.fields,field_description:stock_request.field_stock_request_order__message_has_error_counter
 msgid "Number of errors"
-msgstr ""
+msgstr "Anzahl der Fehler"
 
 #. module: stock_request
 #: model:ir.model.fields,help:stock_request.field_stock_request__message_needaction_counter
 #: model:ir.model.fields,help:stock_request.field_stock_request_abstract__message_needaction_counter
 #: model:ir.model.fields,help:stock_request.field_stock_request_order__message_needaction_counter
 msgid "Number of messages which requires an action"
-msgstr ""
+msgstr "Anzahl der Nachrichten, die eine Aktion erfordern"
 
 #. module: stock_request
 #: model:ir.model.fields,help:stock_request.field_stock_request__message_has_error_counter
@@ -500,7 +500,7 @@ msgstr ""
 #: model:ir.model.fields,help:stock_request.field_stock_request_abstract__message_unread_counter
 #: model:ir.model.fields,help:stock_request.field_stock_request_order__message_unread_counter
 msgid "Number of unread messages"
-msgstr ""
+msgstr "Anzahl ungelesener Nachrichten"
 
 #. module: stock_request
 #: code:addons/stock_request/models/stock_request_order.py:0
@@ -956,7 +956,7 @@ msgstr "Bewegungen"
 #: model:ir.model.fields,help:stock_request.field_stock_request_abstract__activity_exception_decoration
 #: model:ir.model.fields,help:stock_request.field_stock_request_order__activity_exception_decoration
 msgid "Type of the exception activity on record."
-msgstr ""
+msgstr "Typ der Ausnahmeaktivität im Datensatz."
 
 #. module: stock_request
 #: code:addons/stock_request/models/stock_request_order.py:0
@@ -976,7 +976,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_request.field_stock_request_abstract__message_unread_counter
 #: model:ir.model.fields,field_description:stock_request.field_stock_request_order__message_unread_counter
 msgid "Unread Messages Counter"
-msgstr ""
+msgstr "Anzahl ungelesener Nachrichten"
 
 #. module: stock_request
 #: model:ir.model.fields,field_description:stock_request.field_stock_request_allocation__product_uom_id
