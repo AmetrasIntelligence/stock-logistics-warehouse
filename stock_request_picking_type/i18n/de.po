@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_request_picking_type/i18n/stock_request_picking_type.pot\n"
 "X-Crowdin-File-ID: 6562\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-08-02 09:52\n"
+"PO-Revision-Date: 2023-08-15 12:21\n"
 
 #. module: stock_request_picking_type
 #: model_terms:ir.ui.view,arch_db:stock_request_picking_type.stock_request_type_kanban
@@ -116,5 +116,5 @@ msgstr ""
 #. module: stock_request_picking_type
 #: model:ir.model.fields,field_description:stock_request_picking_type.field_stock_picking_type__code
 msgid "Type of Operation"
-msgstr ""
+msgstr "Vorgangstyp"
 
