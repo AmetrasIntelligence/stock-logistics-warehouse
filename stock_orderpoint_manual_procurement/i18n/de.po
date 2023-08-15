@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_orderpoint_manual_procurement/i18n/stock_orderpoint_manual_procurement.pot\n"
 "X-Crowdin-File-ID: 6418\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-08-14 16:30\n"
+"PO-Revision-Date: 2023-08-15 13:51\n"
 
 #. module: stock_orderpoint_manual_procurement
 #: model_terms:ir.ui.view,arch_db:stock_orderpoint_manual_procurement.view_make_procure_without_security
@@ -184,7 +184,7 @@ msgstr ""
 #. module: stock_orderpoint_manual_procurement
 #: model:ir.model.fields,field_description:stock_orderpoint_manual_procurement.field_make_procurement_orderpoint_item__warehouse_id
 msgid "Warehouse"
-msgstr ""
+msgstr "Lager"
 
 #. module: stock_orderpoint_manual_procurement
 #: model:ir.model.fields,field_description:stock_orderpoint_manual_procurement.field_make_procurement_orderpoint_item__wiz_id
