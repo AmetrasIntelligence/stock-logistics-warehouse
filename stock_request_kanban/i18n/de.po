@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_request_kanban/i18n/stock_request_kanban.pot\n"
 "X-Crowdin-File-ID: 6548\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-08-15 12:21\n"
+"PO-Revision-Date: 2023-08-15 13:51\n"
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_product_product__kanban_card_count
@@ -43,7 +43,7 @@ msgstr "Aktivitäten"
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_inventory_kanban__activity_exception_decoration
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_request_kanban__activity_exception_decoration
 msgid "Activity Exception Decoration"
-msgstr ""
+msgstr "Aktivität Ausnahme Dekoration"
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_inventory_kanban__activity_state
@@ -378,13 +378,13 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_inventory_kanban__message_has_error
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_request_kanban__message_has_error
 msgid "Message Delivery error"
-msgstr ""
+msgstr "Fehler beim Senden der Nachricht"
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_inventory_kanban__message_ids
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_request_kanban__message_ids
 msgid "Messages"
-msgstr ""
+msgstr "Nachrichten"
 
 #. module: stock_request_kanban
 #: model_terms:ir.ui.view,arch_db:stock_request_kanban.view_stock_inventory_kanban_form
@@ -416,19 +416,19 @@ msgstr "Name"
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_inventory_kanban__activity_date_deadline
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_request_kanban__activity_date_deadline
 msgid "Next Activity Deadline"
-msgstr ""
+msgstr "Nächste Aktivitätsfrist"
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_inventory_kanban__activity_summary
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_request_kanban__activity_summary
 msgid "Next Activity Summary"
-msgstr ""
+msgstr "Zusammenfassung nächste Aktion"
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_inventory_kanban__activity_type_id
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_request_kanban__activity_type_id
 msgid "Next Activity Type"
-msgstr ""
+msgstr "Nächster Aktivitätstyp"
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_inventory_kanban__message_needaction_counter
@@ -452,7 +452,7 @@ msgstr "Anzahl der Nachrichten, die eine Aktion erfordern"
 #: model:ir.model.fields,help:stock_request_kanban.field_stock_inventory_kanban__message_has_error_counter
 #: model:ir.model.fields,help:stock_request_kanban.field_stock_request_kanban__message_has_error_counter
 msgid "Number of messages with delivery error"
-msgstr ""
+msgstr "Anzahl der Nachrichten mit einem Fehler beim Senden"
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,help:stock_request_kanban.field_stock_inventory_kanban__message_unread_counter
@@ -553,7 +553,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_inventory_kanban__message_has_sms_error
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_request_kanban__message_has_sms_error
 msgid "SMS Delivery error"
-msgstr ""
+msgstr "SMS Zustellungsfehler"
 
 #. module: stock_request_kanban
 #: model_terms:ir.ui.view,arch_db:stock_request_kanban.stock_request_order_form
@@ -616,7 +616,10 @@ msgid "Status based on activities\n"
 "Overdue: Due date is already passed\n"
 "Today: Activity date is today\n"
 "Planned: Future activities."
-msgstr ""
+msgstr "Status basierend auf Aktivitäten\n"
+"Überfällig: Fälligkeitsdatum ist bereits überschritten\n"
+"Heute: Aktivitätsdatum ist heute\n"
+"Geplant: Zukünftige Aktivitäten."
 
 #. module: stock_request_kanban
 #: model_terms:ir.ui.view,arch_db:stock_request_kanban.view_stock_inventory_kanban_form
@@ -688,7 +691,7 @@ msgstr "Typ der Ausnahmeaktivität im Datensatz."
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_inventory_kanban__message_unread
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_request_kanban__message_unread
 msgid "Unread Messages"
-msgstr ""
+msgstr "Ungelesene Nachrichten"
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_inventory_kanban__message_unread_counter
@@ -709,7 +712,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_request_kanban__warehouse_id
 #: model_terms:ir.ui.view,arch_db:stock_request_kanban.stock_request_kanban_search
 msgid "Warehouse"
-msgstr ""
+msgstr "Lager"
 
 #. module: stock_request_kanban
 #: code:addons/stock_request_kanban/wizard/wizard_stock_request_order_kanban.py:0
@@ -721,11 +724,11 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_inventory_kanban__website_message_ids
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_request_kanban__website_message_ids
 msgid "Website Messages"
-msgstr ""
+msgstr "Website-Nachrichten"
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,help:stock_request_kanban.field_stock_inventory_kanban__website_message_ids
 #: model:ir.model.fields,help:stock_request_kanban.field_stock_request_kanban__website_message_ids
 msgid "Website communication history"
-msgstr ""
+msgstr "Website-Kommunikationshistorie"
 
