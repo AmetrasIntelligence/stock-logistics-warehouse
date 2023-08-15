@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/scrap_reason_code/i18n/scrap_reason_code.pot\n"
 "X-Crowdin-File-ID: 6124\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-08-14 16:30\n"
+"PO-Revision-Date: 2023-08-15 12:21\n"
 
 #. module: scrap_reason_code
 #: model:ir.model.fields,field_description:scrap_reason_code.field_scrap_reason_code__name
@@ -34,7 +34,7 @@ msgstr "Erstellt am"
 #. module: scrap_reason_code
 #: model:ir.model.fields,field_description:scrap_reason_code.field_scrap_reason_code__description
 msgid "Description"
-msgstr ""
+msgstr "Beschreibung"
 
 #. module: scrap_reason_code
 #: model:ir.model.fields,field_description:scrap_reason_code.field_scrap_reason_code__display_name
