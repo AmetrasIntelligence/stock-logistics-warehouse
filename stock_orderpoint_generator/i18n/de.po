@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_orderpoint_generator/i18n/stock_orderpoint_generator.pot\n"
 "X-Crowdin-File-ID: 6414\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-08-16 08:58\n"
+"PO-Revision-Date: 2023-08-16 10:26\n"
 
 #. module: stock_orderpoint_generator
 #: model:ir.model.fields,help:stock_orderpoint_generator.field_stock_warehouse_orderpoint_template__auto_product_ids
@@ -34,7 +34,7 @@ msgstr ""
 #. module: stock_orderpoint_generator
 #: model_terms:ir.ui.view,arch_db:stock_orderpoint_generator.orderpoint_generator_view
 msgid "Apply"
-msgstr ""
+msgstr "Anwenden"
 
 #. module: stock_orderpoint_generator
 #: model:ir.model.fields,field_description:stock_orderpoint_generator.field_stock_warehouse_orderpoint_template__auto_max_date_end
@@ -180,7 +180,7 @@ msgstr ""
 #. module: stock_orderpoint_generator
 #: model_terms:ir.ui.view,arch_db:stock_orderpoint_generator.view_warehouse_orderpoint_template_search
 msgid "Group By"
-msgstr ""
+msgstr "Gruppiere nach"
 
 #. module: stock_orderpoint_generator
 #: model:ir.model.fields,field_description:stock_orderpoint_generator.field_stock_warehouse_orderpoint_generator__id
@@ -288,7 +288,7 @@ msgstr ""
 #. module: stock_orderpoint_generator
 #: model:ir.model.fields,field_description:stock_orderpoint_generator.field_stock_warehouse_orderpoint_template__group_id
 msgid "Procurement Group"
-msgstr ""
+msgstr "Beschaffungsgruppe"
 
 #. module: stock_orderpoint_generator
 #: model:ir.model,name:stock_orderpoint_generator.model_product_product
