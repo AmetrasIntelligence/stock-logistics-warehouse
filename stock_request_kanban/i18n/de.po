@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_request_kanban/i18n/stock_request_kanban.pot\n"
 "X-Crowdin-File-ID: 6548\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-08-16 08:59\n"
+"PO-Revision-Date: 2023-08-16 10:26\n"
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_product_product__kanban_card_count
@@ -74,7 +74,7 @@ msgstr ""
 #. module: stock_request_kanban
 #: model_terms:ir.ui.view,arch_db:stock_request_kanban.stock_request_kanban_search
 msgid "Archived"
-msgstr ""
+msgstr "Archiviert"
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_inventory_kanban__message_attachment_count
@@ -227,7 +227,7 @@ msgstr "Beobachter (Kontakte)"
 #. module: stock_request_kanban
 #: model_terms:ir.ui.view,arch_db:stock_request_kanban.stock_request_kanban_search
 msgid "Group By"
-msgstr ""
+msgstr "Gruppiere nach"
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_inventory_kanban__id
@@ -478,7 +478,7 @@ msgstr ""
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_request_kanban__procurement_group_id
 msgid "Procurement Group"
-msgstr ""
+msgstr "Beschaffungsgruppe"
 
 #. module: stock_request_kanban
 #: code:addons/stock_request_kanban/wizard/wizard_stock_request_order_kanban.py:0
@@ -591,7 +591,7 @@ msgstr "Start"
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_inventory_kanban__state
 msgid "State"
-msgstr ""
+msgstr "Status"
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_wizard_stock_inventory_kanban__status
