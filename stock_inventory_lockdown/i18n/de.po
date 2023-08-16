@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_inventory_lockdown/i18n/stock_inventory_lockdown.pot\n"
 "X-Crowdin-File-ID: 6340\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-08-11 12:23\n"
+"PO-Revision-Date: 2023-08-16 08:59\n"
 
 #. module: stock_inventory_lockdown
 #: code:addons/stock_inventory_lockdown/models/stock_move.py:0
@@ -33,7 +33,7 @@ msgstr ""
 #. module: stock_inventory_lockdown
 #: model:ir.model,name:stock_inventory_lockdown.model_stock_inventory
 msgid "Inventory"
-msgstr ""
+msgstr "Inventur"
 
 #. module: stock_inventory_lockdown
 #: model:ir.model,name:stock_inventory_lockdown.model_stock_location
