@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_secondary_unit/i18n/stock_secondary_unit.pot\n"
 "X-Crowdin-File-ID: 6586\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-08-14 16:30\n"
+"PO-Revision-Date: 2023-08-16 10:26\n"
 
 #. module: stock_secondary_unit
 #: model_terms:ir.ui.view,arch_db:stock_secondary_unit.report_delivery_document
@@ -55,7 +55,7 @@ msgstr ""
 #. module: stock_secondary_unit
 #: model:ir.model,name:stock_secondary_unit.model_stock_move_line
 msgid "Product Moves (Stock Move Line)"
-msgstr ""
+msgstr "Produktbewegungen (Lagerbewegung)"
 
 #. module: stock_secondary_unit
 #: model:ir.model,name:stock_secondary_unit.model_product_template
