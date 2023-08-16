@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_request/i18n/stock_request.pot\n"
 "X-Crowdin-File-ID: 6532\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-08-16 08:59\n"
+"PO-Revision-Date: 2023-08-16 10:26\n"
 
 #. module: stock_request
 #: code:addons/stock_request/models/stock_move_line.py:0
@@ -276,7 +276,7 @@ msgstr "Beobachter (Kontakte)"
 #: model_terms:ir.ui.view,arch_db:stock_request.stock_request_order_search
 #: model_terms:ir.ui.view,arch_db:stock_request.stock_request_search
 msgid "Group By"
-msgstr ""
+msgstr "Gruppiere nach"
 
 #. module: stock_request
 #: model:ir.model.fields,field_description:stock_request.field_res_config_settings__group_stock_request_order
@@ -546,7 +546,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_request.field_stock_request_abstract__procurement_group_id
 #: model:ir.model.fields,field_description:stock_request.field_stock_request_order__procurement_group_id
 msgid "Procurement Group"
-msgstr ""
+msgstr "Beschaffungsgruppe"
 
 #. module: stock_request
 #: code:addons/stock_request/models/stock_request.py:0
@@ -565,7 +565,7 @@ msgstr ""
 #. module: stock_request
 #: model:ir.model,name:stock_request.model_stock_move_line
 msgid "Product Moves (Stock Move Line)"
-msgstr ""
+msgstr "Produktbewegungen (Lagerbewegung)"
 
 #. module: stock_request
 #: model:ir.model.fields,field_description:stock_request.field_stock_request__product_uom_id
@@ -581,17 +581,17 @@ msgstr ""
 #. module: stock_request
 #: model:ir.model.fields,field_description:stock_request.field_stock_request__qty_cancelled
 msgid "Qty Cancelled"
-msgstr ""
+msgstr "Menge storniert"
 
 #. module: stock_request
 #: model:ir.model.fields,field_description:stock_request.field_stock_request__qty_done
 msgid "Qty Done"
-msgstr ""
+msgstr "Menge erledigt"
 
 #. module: stock_request
 #: model:ir.model.fields,field_description:stock_request.field_stock_request__qty_in_progress
 msgid "Qty In Progress"
-msgstr ""
+msgstr "Menge in Bearbeitung"
 
 #. module: stock_request
 #: model:ir.model.fields,field_description:stock_request.field_stock_request__product_uom_qty
@@ -602,17 +602,17 @@ msgstr ""
 #. module: stock_request
 #: model:ir.model.fields,help:stock_request.field_stock_request__qty_cancelled
 msgid "Quantity cancelled"
-msgstr ""
+msgstr "Abgebrochene Menge"
 
 #. module: stock_request
 #: model:ir.model.fields,help:stock_request.field_stock_request__qty_done
 msgid "Quantity completed"
-msgstr ""
+msgstr "Abgeschlossene Menge"
 
 #. module: stock_request
 #: model:ir.model.fields,help:stock_request.field_stock_request__qty_in_progress
 msgid "Quantity in progress."
-msgstr ""
+msgstr "Menge in Bearbeitung."
 
 #. module: stock_request
 #: model:ir.model.fields,help:stock_request.field_stock_request__product_qty
@@ -675,7 +675,7 @@ msgstr ""
 #. module: stock_request
 #: model:ir.model.fields,field_description:stock_request.field_stock_request_allocation__requested_product_qty
 msgid "Requested Quantity"
-msgstr ""
+msgstr "Angefragte Menge"
 
 #. module: stock_request
 #: model:ir.model.fields,field_description:stock_request.field_stock_request_allocation__requested_product_uom_qty
