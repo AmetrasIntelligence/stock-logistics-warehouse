@@ -14,12 +14,12 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_product_qty_by_packaging/i18n/stock_product_qty_by_packaging.pot\n"
 "X-Crowdin-File-ID: 8974\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-08-16 10:26\n"
+"PO-Revision-Date: 2023-08-16 14:03\n"
 
 #. module: stock_product_qty_by_packaging
 #: model:ir.model,name:stock_product_qty_by_packaging.model_stock_inventory_line
 msgid "Inventory Line"
-msgstr ""
+msgstr "Inventurposition"
 
 #. module: stock_product_qty_by_packaging
 #: model:ir.model,name:stock_product_qty_by_packaging.model_stock_move_line
