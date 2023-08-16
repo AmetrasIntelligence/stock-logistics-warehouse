@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_reserve_sale/i18n/stock_reserve_sale.pot\n"
 "X-Crowdin-File-ID: 9000\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-08-14 16:30\n"
+"PO-Revision-Date: 2023-08-16 08:59\n"
 
 #. module: stock_reserve_sale
 #: code:addons/stock_reserve_sale/model/sale.py:0
@@ -60,7 +60,7 @@ msgstr ""
 #. module: stock_reserve_sale
 #: model_terms:ir.ui.view,arch_db:stock_reserve_sale.view_sale_stock_reserve_form
 msgid "Cancel"
-msgstr ""
+msgstr "Abbrechen"
 
 #. module: stock_reserve_sale
 #: model_terms:ir.ui.view,arch_db:stock_reserve_sale.view_order_form_reserve
@@ -198,7 +198,7 @@ msgstr ""
 #. module: stock_reserve_sale
 #: model_terms:ir.ui.view,arch_db:stock_reserve_sale.view_stock_reservation_form
 msgid "Sales"
-msgstr ""
+msgstr "Verkauf"
 
 #. module: stock_reserve_sale
 #: model:ir.model,name:stock_reserve_sale.model_sale_order
