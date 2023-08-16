@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_measuring_device/i18n/stock_measuring_device.pot\n"
 "X-Crowdin-File-ID: 6386\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-08-15 13:51\n"
+"PO-Revision-Date: 2023-08-16 10:25\n"
 
 #. module: stock_measuring_device
 #: model:ir.model.fields,field_description:stock_measuring_device.field_measuring_wizard___barcode_scanned
@@ -243,7 +243,7 @@ msgstr ""
 #. module: stock_measuring_device
 #: model:ir.model.fields,field_description:stock_measuring_device.field_measuring_device__state
 msgid "State"
-msgstr ""
+msgstr "Status"
 
 #. module: stock_measuring_device
 #: model:ir.model.fields,help:stock_measuring_device.field_product_packaging__measuring_device_id
@@ -295,7 +295,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_measuring_device.field_measuring_wizard_line__wizard_id
 #: model_terms:ir.ui.view,arch_db:stock_measuring_device.view_measuring_device_form
 msgid "Wizard"
-msgstr ""
+msgstr "Assistent"
 
 #. module: stock_measuring_device
 #: model:ir.model,name:stock_measuring_device.model_measuring_wizard
