@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/procurement_auto_create_group/i18n/procurement_auto_create_group.pot\n"
 "X-Crowdin-File-ID: 6116\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-08-16 10:26\n"
+"PO-Revision-Date: 2023-08-16 12:17\n"
 
 #. module: procurement_auto_create_group
 #: model:ir.model.fields,field_description:procurement_auto_create_group.field_stock_rule__auto_create_group
@@ -35,5 +35,5 @@ msgstr "Beschaffungsgruppe"
 #. module: procurement_auto_create_group
 #: model:ir.model,name:procurement_auto_create_group.model_stock_rule
 msgid "Stock Rule"
-msgstr ""
+msgstr "Lagerbestandsregel"
 
