@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_orderpoint_manual_procurement/i18n/stock_orderpoint_manual_procurement.pot\n"
 "X-Crowdin-File-ID: 6418\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-08-16 12:17\n"
+"PO-Revision-Date: 2023-08-21 08:31\n"
 
 #. module: stock_orderpoint_manual_procurement
 #: model_terms:ir.ui.view,arch_db:stock_orderpoint_manual_procurement.view_make_procure_without_security
@@ -54,7 +54,7 @@ msgstr "Anzeigename"
 #: model_terms:ir.ui.view,arch_db:stock_orderpoint_manual_procurement.view_make_procure_without_security
 #: model_terms:ir.ui.view,arch_db:stock_orderpoint_manual_procurement.view_make_procurment_buffer_wizard
 msgid "Execute"
-msgstr ""
+msgstr "Ausführen"
 
 #. module: stock_orderpoint_manual_procurement
 #: model:ir.model.fields,field_description:stock_orderpoint_manual_procurement.field_make_procurement_orderpoint__id
@@ -90,7 +90,7 @@ msgstr "Zuletzt aktualisiert am"
 #. module: stock_orderpoint_manual_procurement
 #: model:ir.model.fields,field_description:stock_orderpoint_manual_procurement.field_make_procurement_orderpoint_item__location_id
 msgid "Location"
-msgstr ""
+msgstr "Lagerort"
 
 #. module: stock_orderpoint_manual_procurement
 #: model:ir.model,name:stock_orderpoint_manual_procurement.model_make_procurement_orderpoint_item
