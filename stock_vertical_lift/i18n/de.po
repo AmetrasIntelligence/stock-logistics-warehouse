@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_vertical_lift/i18n/stock_vertical_lift.pot\n"
 "X-Crowdin-File-ID: 6590\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-08-16 14:03\n"
+"PO-Revision-Date: 2023-08-21 08:31\n"
 
 #. module: stock_vertical_lift
 #: code:addons/stock_vertical_lift/models/stock_location.py:0
@@ -180,7 +180,7 @@ msgstr "Anzeigename"
 #: model:ir.model.fields,field_description:stock_vertical_lift.field_vertical_lift_operation_put__qty_done
 #: model:ir.model.fields,field_description:stock_vertical_lift.field_vertical_lift_operation_transfer__qty_done
 msgid "Done"
-msgstr ""
+msgstr "Erledigt"
 
 #. module: stock_vertical_lift
 #: model_terms:ir.ui.view,arch_db:stock_vertical_lift.vertical_lift_operation_base_screen_view
@@ -190,7 +190,7 @@ msgstr "Dropdown-Menü"
 #. module: stock_vertical_lift
 #: model:ir.model.fields,field_description:stock_vertical_lift.field_vertical_lift_command__error
 msgid "Error"
-msgstr ""
+msgstr "Fehler"
 
 #. module: stock_vertical_lift
 #: model_terms:ir.ui.view,arch_db:stock_vertical_lift.view_stock_move_line_operation_tree
@@ -318,7 +318,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_vertical_lift.field_vertical_lift_operation_transfer__location_id
 #: model:ir.model.fields,field_description:stock_vertical_lift.field_vertical_lift_shuttle__location_id
 msgid "Location"
-msgstr ""
+msgstr "Lagerort"
 
 #. module: stock_vertical_lift
 #: model:ir.model.fields,field_description:stock_vertical_lift.field_vertical_lift_operation_inventory__lot_id
@@ -564,7 +564,7 @@ msgstr ""
 #. module: stock_vertical_lift
 #: model_terms:ir.ui.view,arch_db:stock_vertical_lift.vertical_lift_operation_base_screen_view
 msgid "Save"
-msgstr ""
+msgstr "Speichern"
 
 #. module: stock_vertical_lift
 #: model:ir.model.fields,field_description:stock_vertical_lift.field_vertical_lift_shuttle__server
