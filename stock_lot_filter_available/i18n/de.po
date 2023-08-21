@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_lot_filter_available/i18n/stock_lot_filter_available.pot\n"
 "X-Crowdin-File-ID: 6382\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-08-02 09:52\n"
+"PO-Revision-Date: 2023-08-21 10:22\n"
 
 #. module: stock_lot_filter_available
 #: model:ir.model,name:stock_lot_filter_available.model_stock_production_lot
@@ -29,7 +29,7 @@ msgstr ""
 #. module: stock_lot_filter_available
 #: model:ir.model.fields,field_description:stock_lot_filter_available.field_stock_production_lot__product_qty
 msgid "Quantity"
-msgstr ""
+msgstr "Menge"
 
 #. module: stock_lot_filter_available
 #: code:addons/stock_lot_filter_available/models/stock_production_lot.py:0
