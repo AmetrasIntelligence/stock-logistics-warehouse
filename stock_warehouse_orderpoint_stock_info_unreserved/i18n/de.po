@@ -14,12 +14,12 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_warehouse_orderpoint_stock_info_unreserved/i18n/stock_warehouse_orderpoint_stock_info_unreserved.pot\n"
 "X-Crowdin-File-ID: 6608\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-08-02 09:52\n"
+"PO-Revision-Date: 2023-08-21 11:24\n"
 
 #. module: stock_warehouse_orderpoint_stock_info_unreserved
 #: model:ir.model,name:stock_warehouse_orderpoint_stock_info_unreserved.model_stock_warehouse_orderpoint
 msgid "Minimum Inventory Rule"
-msgstr ""
+msgstr "Mindestbestandsregel"
 
 #. module: stock_warehouse_orderpoint_stock_info_unreserved
 #: model:ir.model.fields,field_description:stock_warehouse_orderpoint_stock_info_unreserved.field_stock_warehouse_orderpoint__product_location_qty_available_not_res
