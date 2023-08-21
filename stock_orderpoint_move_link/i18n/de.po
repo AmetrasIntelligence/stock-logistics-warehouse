@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_orderpoint_move_link/i18n/stock_orderpoint_move_link.pot\n"
 "X-Crowdin-File-ID: 6426\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-08-16 12:17\n"
+"PO-Revision-Date: 2023-08-21 11:24\n"
 
 #. module: stock_orderpoint_move_link
 #: model:ir.model.fields,field_description:stock_orderpoint_move_link.field_stock_move__orderpoint_ids
@@ -24,7 +24,7 @@ msgstr ""
 #. module: stock_orderpoint_move_link
 #: model:ir.model,name:stock_orderpoint_move_link.model_stock_warehouse_orderpoint
 msgid "Minimum Inventory Rule"
-msgstr ""
+msgstr "Mindestbestandsregel"
 
 #. module: stock_orderpoint_move_link
 #: model:ir.model,name:stock_orderpoint_move_link.model_stock_move
