@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_reserve_rule/i18n/stock_reserve_rule.pot\n"
 "X-Crowdin-File-ID: 6584\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-08-16 10:26\n"
+"PO-Revision-Date: 2023-08-21 08:31\n"
 
 #. module: stock_reserve_rule
 #: model:ir.model.fields,field_description:stock_reserve_rule.field_stock_reserve_rule__active
@@ -137,7 +137,7 @@ msgstr "Zuletzt aktualisiert am"
 #: model:ir.model.fields,field_description:stock_reserve_rule.field_stock_reserve_rule__location_id
 #: model:ir.model.fields,field_description:stock_reserve_rule.field_stock_reserve_rule_removal__location_id
 msgid "Location"
-msgstr ""
+msgstr "Lagerort"
 
 #. module: stock_reserve_rule
 #: model:ir.model.fields,field_description:stock_reserve_rule.field_stock_reserve_rule__picking_type_ids
