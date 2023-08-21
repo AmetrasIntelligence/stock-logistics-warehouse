@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_request/i18n/stock_request.pot\n"
 "X-Crowdin-File-ID: 6532\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-08-21 08:31\n"
+"PO-Revision-Date: 2023-08-21 10:21\n"
 
 #. module: stock_request
 #: code:addons/stock_request/models/stock_move_line.py:0
@@ -170,7 +170,7 @@ msgstr ""
 #. module: stock_request
 #: model_terms:ir.ui.view,arch_db:stock_request.stock_request_pivot_search
 msgid "Date"
-msgstr ""
+msgstr "Datum"
 
 #. module: stock_request
 #: model:ir.model.fields,help:stock_request.field_stock_request__expected_date
@@ -334,7 +334,7 @@ msgstr ""
 #. module: stock_request
 #: model:ir.model,name:stock_request.model_stock_location
 msgid "Inventory Locations"
-msgstr ""
+msgstr "Bestandslagerorte"
 
 #. module: stock_request
 #: model:ir.model,name:stock_request.model_stock_location_route
@@ -410,7 +410,7 @@ msgstr ""
 #. module: stock_request
 #: model:ir.ui.menu,name:stock_request.menu_stock_request_master_data
 msgid "Master Data"
-msgstr ""
+msgstr "Stammdaten"
 
 #. module: stock_request
 #: model:ir.model.fields,field_description:stock_request.field_stock_request__message_has_error
@@ -597,7 +597,7 @@ msgstr "Menge in Bearbeitung"
 #: model:ir.model.fields,field_description:stock_request.field_stock_request__product_uom_qty
 #: model:ir.model.fields,field_description:stock_request.field_stock_request_abstract__product_uom_qty
 msgid "Quantity"
-msgstr ""
+msgstr "Menge"
 
 #. module: stock_request
 #: model:ir.model.fields,help:stock_request.field_stock_request__qty_cancelled
@@ -731,7 +731,7 @@ msgstr ""
 #: model:ir.actions.act_window,name:stock_request.action_stock_request_config
 #: model:ir.ui.menu,name:stock_request.menu_stock_request_config
 msgid "Settings"
-msgstr ""
+msgstr "Einstellungen"
 
 #. module: stock_request
 #: model:ir.model.fields,field_description:stock_request.field_stock_request__picking_policy
