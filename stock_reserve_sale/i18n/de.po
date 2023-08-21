@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_reserve_sale/i18n/stock_reserve_sale.pot\n"
 "X-Crowdin-File-ID: 9000\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-08-21 08:31\n"
+"PO-Revision-Date: 2023-08-21 10:21\n"
 
 #. module: stock_reserve_sale
 #: code:addons/stock_reserve_sale/model/sale.py:0
@@ -219,7 +219,7 @@ msgstr ""
 #. module: stock_reserve_sale
 #: model:ir.model.fields,field_description:stock_reserve_sale.field_sale_stock_reserve__location_id
 msgid "Source Location"
-msgstr ""
+msgstr "Quelllagerort"
 
 #. module: stock_reserve_sale
 #: model:ir.model.fields,field_description:stock_reserve_sale.field_sale_stock_reserve__owner_id
