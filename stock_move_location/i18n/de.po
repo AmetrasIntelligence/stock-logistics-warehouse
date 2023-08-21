@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_move_location/i18n/stock_move_location.pot\n"
 "X-Crowdin-File-ID: 6404\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-08-16 12:17\n"
+"PO-Revision-Date: 2023-08-21 10:21\n"
 
 #. module: stock_move_location
 #: model:ir.model.fields,field_description:stock_move_location.field_wiz_stock_move_location__apply_putaway_strategy
@@ -57,7 +57,7 @@ msgstr "Angepasste Zeile"
 #: model:ir.model.fields,field_description:stock_move_location.field_wiz_stock_move_location__destination_location_id
 #: model:ir.model.fields,field_description:stock_move_location.field_wiz_stock_move_location_line__destination_location_id
 msgid "Destination Location"
-msgstr ""
+msgstr "Ziellagerort"
 
 #. module: stock_move_location
 #: model:ir.model.fields,field_description:stock_move_location.field_wiz_stock_move_location__destination_location_disable
