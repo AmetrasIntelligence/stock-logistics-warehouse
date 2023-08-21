@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_inventory_preparation_filter/i18n/stock_inventory_preparation_filter.pot\n"
 "X-Crowdin-File-ID: 6348\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-08-21 08:31\n"
+"PO-Revision-Date: 2023-08-21 12:26\n"
 
 #. module: stock_inventory_preparation_filter
 #: code:addons/stock_inventory_preparation_filter/models/stock_inventory.py:0
@@ -25,7 +25,7 @@ msgstr "Alle Produkte"
 #. module: stock_inventory_preparation_filter
 #: model:ir.model.fields,field_description:stock_inventory_preparation_filter.field_stock_inventory__categ_ids
 msgid "Categories"
-msgstr ""
+msgstr "Kategorien"
 
 #. module: stock_inventory_preparation_filter
 #: model:ir.model.fields,field_description:stock_inventory_preparation_filter.field_stock_inventory__product_domain
@@ -41,7 +41,12 @@ msgstr "Gefilterte Produkte"
 #. module: stock_inventory_preparation_filter
 #: model:ir.model.fields,help:stock_inventory_preparation_filter.field_stock_inventory__filter
 msgid "If you do an entire inventory, you can choose 'All Products' and it will prefill the inventory with the current stock.  If you only do some products (e.g. Cycle Counting) you can choose 'Manual Selection of Products' and the system won't propose anything.  You can also let the system propose for a single product / lot /... "
-msgstr ""
+msgstr "Wenn Sie eine komplette Inventur machen wollen, können Sie \\\"Alle Produkte\n"
+"\\\" auswählen und die Inventur wird automatisch mit dem aktuellen Bestand \n"
+"ausgefüllt. – Wenn Sie nur ein paar Produkte brauchen (z.B. für die \n"
+"permanente Inventur), können Sie ein \\\"Produkt manuell wählen\\\" und das \n"
+"System wird keine Produkte vorschlagen. – Sie können das System \n"
+"Vorschläge für einzelne Produkte/Chargen/… machen lassen. "
 
 #. module: stock_inventory_preparation_filter
 #: model:ir.model,name:stock_inventory_preparation_filter.model_stock_inventory
@@ -52,12 +57,12 @@ msgstr "Inventur"
 #: model:ir.model.fields,field_description:stock_inventory_preparation_filter.field_stock_inventory__filter
 #: model_terms:ir.ui.view,arch_db:stock_inventory_preparation_filter.view_inventory_form
 msgid "Inventory of"
-msgstr "Inventur von"
+msgstr "Bestand"
 
 #. module: stock_inventory_preparation_filter
 #: model:ir.model.fields,field_description:stock_inventory_preparation_filter.field_stock_inventory__lot_ids
 msgid "Lots"
-msgstr "Lose"
+msgstr "Losnummern"
 
 #. module: stock_inventory_preparation_filter
 #: code:addons/stock_inventory_preparation_filter/models/stock_inventory.py:0
