@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_demand_estimate_matrix/i18n/stock_demand_estimate_matrix.pot\n"
 "X-Crowdin-File-ID: 6146\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-08-21 08:31\n"
+"PO-Revision-Date: 2023-08-21 10:21\n"
 
 #. module: stock_demand_estimate_matrix
 #: model_terms:ir.ui.view,arch_db:stock_demand_estimate_matrix.demand_estimate_wizard_view_form
@@ -46,7 +46,7 @@ msgstr "Erstellt am"
 #: model:ir.model.fields,field_description:stock_demand_estimate_matrix.field_stock_demand_estimate_sheet__date_start
 #: model:ir.model.fields,field_description:stock_demand_estimate_matrix.field_stock_demand_estimate_wizard__date_start
 msgid "Date From"
-msgstr ""
+msgstr "Datum von"
 
 #. module: stock_demand_estimate_matrix
 #: model:ir.model,name:stock_demand_estimate_matrix.model_date_range
@@ -183,7 +183,7 @@ msgstr "Produkte"
 #. module: stock_demand_estimate_matrix
 #: model:ir.model.fields,field_description:stock_demand_estimate_matrix.field_stock_demand_estimate_sheet_line__product_uom_qty
 msgid "Quantity"
-msgstr ""
+msgstr "Menge"
 
 #. module: stock_demand_estimate_matrix
 #: model:ir.model,name:stock_demand_estimate_matrix.model_stock_demand_estimate
@@ -255,5 +255,5 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:stock_demand_estimate_matrix.demand_estimate_wizard_view_form
 #: model_terms:ir.ui.view,arch_db:stock_demand_estimate_matrix.stock_demand_estimate_sheet_view_form
 msgid "to"
-msgstr ""
+msgstr "bis"
 
