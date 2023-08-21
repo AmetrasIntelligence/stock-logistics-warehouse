@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_request_kanban/i18n/stock_request_kanban.pot\n"
 "X-Crowdin-File-ID: 6548\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-08-16 10:26\n"
+"PO-Revision-Date: 2023-08-21 08:31\n"
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_product_product__kanban_card_count
@@ -145,12 +145,12 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:stock_request_kanban.wizard_stock_inventory_kanban_form
 #: model_terms:ir.ui.view,arch_db:stock_request_kanban.wizard_stock_request_kanban_form
 msgid "Close"
-msgstr ""
+msgstr "Schließen"
 
 #. module: stock_request_kanban
 #: model:ir.model.fields.selection,name:stock_request_kanban.selection__stock_inventory_kanban__state__closed
 msgid "Closed"
-msgstr ""
+msgstr "Geschlossen"
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_request_kanban__company_id
@@ -194,7 +194,7 @@ msgstr "Anzeigename"
 #. module: stock_request_kanban
 #: model:ir.model.fields.selection,name:stock_request_kanban.selection__stock_inventory_kanban__state__draft
 msgid "Draft"
-msgstr ""
+msgstr "Entwurf"
 
 #. module: stock_request_kanban
 #: model_terms:ir.ui.view,arch_db:stock_request_kanban.view_stock_inventory_kanban_form
@@ -292,7 +292,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_inventory_kanban__message_is_follower
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_request_kanban__message_is_follower
 msgid "Is Follower"
-msgstr ""
+msgstr "Ist ein Abonnent"
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_inventory_kanban__kanban_ids
@@ -360,7 +360,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_request_kanban__location_id
 #: model_terms:ir.ui.view,arch_db:stock_request_kanban.stock_request_kanban_search
 msgid "Location"
-msgstr ""
+msgstr "Lagerort"
 
 #. module: stock_request_kanban
 #: code:addons/stock_request_kanban/wizard/wizard_stock_request_order_kanban.py:0
@@ -372,7 +372,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_inventory_kanban__message_main_attachment_id
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_request_kanban__message_main_attachment_id
 msgid "Main Attachment"
-msgstr ""
+msgstr "Hauptanhang"
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_inventory_kanban__message_has_error
@@ -542,12 +542,12 @@ msgstr ""
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_request_kanban__route_id
 msgid "Route"
-msgstr ""
+msgstr "Route"
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_request_kanban__route_ids
 msgid "Routes"
-msgstr ""
+msgstr "Routen"
 
 #. module: stock_request_kanban
 #: model:ir.model.fields,field_description:stock_request_kanban.field_stock_inventory_kanban__message_has_sms_error
