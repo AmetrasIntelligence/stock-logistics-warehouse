@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/stock_measuring_device/i18n/stock_measuring_device.pot\n"
 "X-Crowdin-File-ID: 6386\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-08-21 08:31\n"
+"PO-Revision-Date: 2023-08-21 10:21\n"
 
 #. module: stock_measuring_device
 #: model:ir.model.fields,field_description:stock_measuring_device.field_measuring_wizard___barcode_scanned
@@ -177,7 +177,7 @@ msgstr ""
 #. module: stock_measuring_device
 #: model:ir.model.fields,field_description:stock_measuring_device.field_measuring_wizard_line__packaging_type_id
 msgid "Packaging Type"
-msgstr ""
+msgstr "Verpackungstyp"
 
 #. module: stock_measuring_device
 #: model:ir.model.fields,field_description:stock_measuring_device.field_measuring_wizard__product_id
@@ -192,7 +192,7 @@ msgstr "Produktverpackung"
 #. module: stock_measuring_device
 #: model:ir.model.fields,field_description:stock_measuring_device.field_measuring_wizard_line__qty
 msgid "Quantity"
-msgstr ""
+msgstr "Menge"
 
 #. module: stock_measuring_device
 #: model:ir.model.fields.selection,name:stock_measuring_device.selection__measuring_device__state__ready
@@ -202,7 +202,7 @@ msgstr ""
 #. module: stock_measuring_device
 #: model_terms:ir.ui.view,arch_db:stock_measuring_device.view_measuring_wizard
 msgid "Refresh"
-msgstr "Aktualisierung"
+msgstr "Aktualisieren"
 
 #. module: stock_measuring_device
 #: model:ir.model.fields,field_description:stock_measuring_device.field_measuring_wizard_line__required
