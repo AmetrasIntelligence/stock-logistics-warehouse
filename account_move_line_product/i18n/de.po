@@ -14,10 +14,10 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.stock-logistics-warehouse] 13.0/account_move_line_product/i18n/account_move_line_product.pot\n"
 "X-Crowdin-File-ID: 6112\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-08-02 09:51\n"
+"PO-Revision-Date: 2023-08-24 10:35\n"
 
 #. module: account_move_line_product
 #: model_terms:ir.ui.view,arch_db:account_move_line_product.view_account_move_line_filter
 msgid "Product"
-msgstr ""
+msgstr "Produkt"
 
